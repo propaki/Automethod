@@ -1,0 +1,13 @@
+Prompt for Generating Java Method Names:
+Input: Suggest a method name in Java for the function described as [Insert functional description here].
+Guidance: Follow the naming pattern observed in the examples, ensuring clarity and descriptiveness.
+Example Prompts:
+i.	"A function that sorts an array is named sortArray."
+ii.	"A function that finds the maximum value in an array is named findMaximum."
+iii.	"A function that checks if a user's input is valid is named validateUserInput."
+iv.	"A function that calculates the total of items in a shopping cart is named calculateCartTotal."
+v.	"A function that updates the status of an order is named updateOrderStatus."
+Output Requirements:
+Method Name Format: The suggested name must be in camelCase, following Java naming conventions.
+Avoid Java Keywords: Ensure the method name does not include Java reserved keywords.
+Clarity and Descriptiveness: The name should succinctly reflect the method's purpose and action.

@@ -1,0 +1,4 @@
+Prompt for Generating Java Method Names:
+Input: Suggest a method name in Java for the function described as [Insert functional description here].
+Socratic Inquiry:
+Prompt: "Why would a function described as '[functional description],' be best named '[suggested method name]' in Java? Reflect on the naming principles you are applying in making this decision. Consider aspects like clarity, conciseness, Java naming conventions, and how well the name reflects the function's purpose and operation."

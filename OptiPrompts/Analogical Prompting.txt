@@ -1,0 +1,7 @@
+Prompt for Generating Java Method Names:
+Input: Suggest a method name in Java for the function described as [Insert functional description here].
+Analogical Approach: Consider a simple, everyday activity or process that closely resembles the function’s operation. For example, if the function sorts a list of items, think of a method name inspired by how groceries are arranged on shelves.
+Output Requirements:
+Method Name Format: The suggested name must be in camelCase, following Java naming conventions.
+Avoid Java Keywords: Ensure the method name does not include Java reserved keywords.
+Clarity and Descriptiveness: The name should succinctly reflect the method's purpose and action.

@@ -1,0 +1,11 @@
+Functional Description: Suggest a method name in Java for the function described as [Insert functional description here].
+Identify the Primary Action:
+Prompt 1: "What is the primary action performed by this function? Identify the verb that best describes this action."
+Determine the Object of the Action:
+Prompt 2: "Based on the functional description, what is the object or data the function is acting upon?"
+Combine Action and Object:
+Prompt 3: "Combine the identified verb and object into a phrase that reflects both the action and the object."
+Apply Java Naming Conventions:
+Prompt 4: "Transform the phrase into a method name using Java's camelCase naming convention. Start with a lowercase letter and capitalize subsequent words."
+Clarity and Conciseness Evaluation:
+Prompt 5: "Assess the method name for clarity and conciseness. Does it effectively describe the function's purpose as outlined in the functional description?"

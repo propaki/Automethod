@@ -1,0 +1,6 @@
+Prompt for Generating Java Method Names:
+Input: Suggest a method name in Java for the function described as [Insert functional description here].
+Scenario Development:
+Prompt: "Imagine a real-life or specific application scenario where a function described as '[functional description]' is used. Describe the scenario, including the function's role and interaction within it."
+Scenario Contextualization:
+Prompt: "Based on the described scenario, what would be an appropriate Java method name? Ensure the method name reflects the function’s purpose within the context of the scenario and adheres to Java naming conventions."

@@ -1,0 +1,8 @@
+Prompt for Generating Java Method Names:
+Input: Suggest a method name in Java for the function described as [Insert functional description here].
+Guidance for Method Naming:
+i.	Use Verb-Noun Pairs: Aim to use verb-noun pairs to indicate actions performed on objects, like "calculateTotal" or "findIndex."
+ii.	Employ CamelCase: Begin with a lowercase letter and capitalize the first letter of each subsequent word.
+iii.	Specificity Matters: Be as specific as possible without making the method name overly lengthy.
+iv.	Avoid Java Reserved Words: Ensure the method name does not include Java reserved words or keywords.
+v.	No Special Characters or Spaces: Use only alphanumeric characters.

@@ -1,0 +1,5 @@
+Prompt for Generating Java Method Names:
+Input: Suggest a method name in Java for the function described as [Insert functional description here].
+Discovery Process:
+i.	Initial Analysis Prompt: "Begin by identifying the primary action of the function described as '[functional description].' Next, consider the key elements or data it interacts with or manipulates."
+ii.	Method Naming Prompt: "Based on your analysis of these elements and the action, suggest a method name that encapsulates this functionality. Aim for a name that is descriptive, concise, and adheres to Java naming conventions."
