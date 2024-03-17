@@ -1,0 +1,400 @@
+{
+  "conversations": [
+    {
+      "human": "Initialize autoscrolling.",
+      "system": "initializeAutoscrolling"
+    },
+    {
+      "human": "Instantiate a bean.",
+      "system": "instantiate"
+    },
+    {
+      "human": "Write a byte.",
+      "system": "write"
+    },
+    {
+      "human": "Add a service.",
+      "system": "addService"
+    },
+    {
+      "human": "If the number of arguments in the specified constructor is non-zero and the class of the old instance explicitly declares an 'equals' method, this method returns the value of old instance equals new instance.",
+      "system": "mutatesTo"
+    },
+    {
+      "human": "Validates this component.",
+      "system": "validate"
+    },
+    {
+      "human": "Returns whether the representation class for this data flavor is java.nio.CharBuffer or a subclass thereof.",
+      "system": "isRepresentationClassCharBuffer"
+    },
+    {
+      "human": "Dispatches an event.",
+      "system": "dispatchEvent"
+    },
+    {
+      "human": "Deprecated as of JDK version 1.1, replaced by is multiple mode.",
+      "system": "allowsMultipleSelections"
+    },
+    {
+      "human": "This method instructs the bean that it is OK to use the GUI.",
+      "system": "okToUseGui"
+    },
+    {
+      "human": "Dispatches an event to the active input method.",
+      "system": "dispatchEvent"
+    },
+    {
+      "human": "Bean context services listener callback, propagates event to all currently registered listeners and bean context services children. If this bean context service does not already implement this service itself.",
+      "system": "serviceAvailable"
+    },
+    {
+      "human": "Deprecated as of JDK version 1.1, replaced by get selected checkbox.",
+      "system": "getCurrent"
+    },
+    {
+      "human": "Removes a tile observer.",
+      "system": "removeTileObserver"
+    },
+    {
+      "human": "Checks if this window is showing on screen.",
+      "system": "isShowing"
+    },
+    {
+      "human": "Subclasses may implement this method to allow class data to be stored in the stream.",
+      "system": "annotateClass"
+    },
+    {
+      "human": "Returns the hashcode for this menu shortcut.",
+      "system": "hashCode"
+    },
+    {
+      "human": "Add a property change listener to the listener list.",
+      "system": "addPropertyChangeListener"
+    },
+    {
+      "human": "Removes the specified component from this layout.",
+      "system": "removeLayoutComponent"
+    },
+    {
+      "human": "Checks out a tile for writing.",
+      "system": "getWritableTile"
+    },
+    {
+      "human": "Removes an item listener.",
+      "system": "removeItemListener"
+    },
+    {
+      "human": "Deprecated as of JDK version 1.1, replaced by get visible amount.",
+      "system": "getVisible"
+    },
+    {
+      "human": "Notify the component to autoscroll.",
+      "system": "autoscroll"
+    },
+    {
+      "human": "Clones this object.",
+      "system": "clone"
+    },
+    {
+      "human": "Updates this canvas.",
+      "system": "update"
+    },
+    {
+      "human": "Returns the hit on the opposite side of the specified hit's caret.",
+      "system": "getVisualOtherHit"
+    },
+    {
+      "human": "Removes the specified window listener so that it no longer receives window events from this window.",
+      "system": "removeWindowListener"
+    },
+    {
+      "human": "Deprecated as of JDK version 1.1, replaced by transfer focus.",
+      "system": "nextFocus"
+    },
+    {
+      "human": "Analogous to java.lang.ClassLoader.getResourceAsStream. This method allows a bean context implementation to interpose behavior between the child component and underlying class loader.",
+      "system": "getResourceAsStream"
+    },
+    {
+      "human": "Deprecated as of JDK version 1.1, replaced by getClipBounds.",
+      "system": "getClipRect"
+    },
+    {
+      "human": "Resolves instances being deserialized into instances registered with CMM.",
+      "system": "readResolve"
+    },
+    {
+      "human": "Deprecated as of JDK version 1.1, not for public use in the future. This method is expected to be retained only as a package-private method.",
+      "system": "delItems"
+    },
+    {
+      "human": "Deprecated as of JDK version 1.1, replaced by set selected checkbox checkbox.",
+      "system": "setCurrent"
+    },
+    {
+      "human": "Gets the bean context services listener if any of the specified child.",
+      "system": "getChildBeanContextServicesListener"
+    },
+    {
+      "human": "Returns whether the representation class for this data flavor is java.nio.ByteBuffer or a subclass thereof.",
+      "system": "isRepresentationClassByteBuffer"
+    },
+    {
+      "human": "Write a portion of a string to the buffer.",
+      "system": "write"
+    },
+    {
+      "human": "Converts this font object to a string representation.",
+      "system": "toString"
+    },
+    {
+      "human": "Returns the device configuration associated with this Graphics2D.",
+      "system": "getDeviceConfiguration"
+    },
+    {
+      "human": "Gets the singleton instance of the system clipboard which interfaces with clipboard facilities provided by the native platform.",
+      "system": "getSystemClipboard"
+    },
+    {
+      "human": "This method is called by the current keyboard focus manager requesting that this key event dispatcher dispatch the specified event on its behalf.",
+      "system": "dispatchKeyEvent"
+    },
+    {
+      "human": "Enables or disables input method support for this component.",
+      "system": "enableInputMethods"
+    },
+    {
+      "human": "Returns the number of milliseconds this robot sleeps after generating an event.",
+      "system": "getAutoDelay"
+    },
+    {
+      "human": "This method is called by the AWT event dispatcher requesting that the current keyboard focus manager dispatch the specified event on its behalf.",
+      "system": "dispatchEvent"
+    },
+    {
+      "human": "Removes the specified window state listener so that it no longer receives window events from this window.",
+      "system": "removeWindowStateListener"
+    },
+    {
+      "human": "The setProperties method is part of the image consumer API which this class must implement to retrieve the pixels.",
+      "system": "setProperties"
+    },
+    {
+      "human": "Dispatches the event to the input method.",
+      "system": "dispatchEvent"
+    },
+    {
+      "human": "Removes a bean context membership listener.",
+      "system": "removeBeanContextMembershipListener"
+    },
+    {
+      "human": "Bean context services listener callback, propagates event to all currently registered listeners and bean context services children. If this bean context service does not already implement this service itself.",
+      "system": "serviceRevoked"
+    },
+    {
+      "human": "Updates the container.",
+      "system": "update"
+    },
+    {
+      "human": "This method returns a Graphics2D, but is here for backward compatibility.",
+      "system": "getGraphics"
+    }
+{
+      "human": "Adds a tile observer.",
+      "system": "addTileObserver"
+    },
+    {
+      "human": "Deprecated as of JDK version 1.1, replaced by component get cursor.",
+      "system": "getCursorType"
+    },
+    {
+      "human": "Gets the bean context membership listener if any of the specified child.",
+      "system": "getChildBeanContextMembershipListener"
+    },
+    {
+      "human": "Add a bean context services listener.",
+      "system": "addBeanContextServicesListener"
+    },
+    {
+      "human": "Sets the exception handler for this stream to exception listener.",
+      "system": "setExceptionListener"
+    },
+    {
+      "human": "Deprecated as of JDK version 1.1, replaced by replace range string, int, int.",
+      "system": "replaceText"
+    },
+    {
+      "human": "Sets the owner's or everybody's execute permission for this abstract pathname.",
+      "system": "setExecutable"
+    },
+    {
+      "human": "Remove a property change listener from the listener list.",
+      "system": "removePropertyChangeListener"
+    },
+    {
+      "human": "Determines if an image consumer is on the list of consumers currently interested in data for this image.",
+      "system": "isConsumer"
+    },
+    {
+      "human": "Deprecated, see java.awt.GraphicsEnvironment#getAllFonts.",
+      "system": "getFontPeer"
+    },
+    {
+      "human": "Chooses one of the specified text hit info instances as a strong caret in the specified text layout.",
+      "system": "getStrongCaret"
+    },
+    {
+      "human": "Gets the index of the item that was last made visible by the method make visible.",
+      "system": "getVisibleIndex"
+    },
+    {
+      "human": "Cancels a print job that is in progress.",
+      "system": "cancel"
+    },
+    {
+      "human": "Release a service.",
+      "system": "releaseService"
+    },
+    {
+      "human": "Removes the specified component from this border layout.",
+      "system": "removeLayoutComponent"
+    },
+    {
+      "human": "Removes the specified item listener so that it no longer receives item events from this choice menu.",
+      "system": "removeItemListener"
+    },
+    {
+      "human": "Deprecated, this method does not properly convert bytes into characters as of JDK 1.1.",
+      "system": "toString"
+    },
+    {
+      "human": "A new service is available from the nesting bean context.",
+      "system": "serviceAvailable"
+    },
+    {
+      "human": "Deprecated as of JDK version 1.1, replaced by get unit increment.",
+      "system": "getLineIncrement"
+    },
+    {
+      "human": "Creates a new handler for SAX parser that can be used to parse embedded XML archives created by the XML encoder class.",
+      "system": "createHandler"
+    },
+    {
+      "human": "Repaints the specified rectangle of this component within tm milliseconds.",
+      "system": "repaint"
+    },
+    {
+      "human": "Updates this component.",
+      "system": "update"
+    },
+    {
+      "human": "Writes a boolean value to this output stream.",
+      "system": "writeBoolean"
+    },
+    {
+      "human": "Removes a listener for the value change.",
+      "system": "removePropertyChangeListener"
+    },
+    {
+      "human": "Writes a portion of a string.",
+      "system": "write"
+    },
+    {
+      "human": "Returns the family name of this font, localized for the specified locale.",
+      "system": "getFamily"
+    },
+    {
+      "human": "Get the accessible text associated with this object.",
+      "system": "getAccessibleText"
+    },
+    {
+      "human": "Returns the number of accessible actions available in this object.",
+      "system": "getAccessibleActionCount"
+    },
+    {
+      "human": "Remove a bean context services listener.",
+      "system": "removeBeanContextServicesListener"
+    },
+    {
+      "human": "Subclasses may implement this method to store custom data in the stream along with descriptors for dynamic proxy classes.",
+      "system": "annotateProxyClass"
+    },
+    {
+      "human": "Fire a bean contextship event on the bean context membership listener interface.",
+      "system": "fireChildrenRemoved"
+    },
+    {
+      "human": "Enables or disables input method support for this text component.",
+      "system": "enableInputMethods"
+    },
+    {
+      "human": "Determines whether or not the specified object is equal to this round rectangle2D.",
+      "system": "equals"
+    },
+    {
+      "human": "A convenience method to set the owner's execute permission for this abstract pathname.",
+      "system": "setExecutable"
+    },
+    {
+      "human": "Activate, and/or mark applet active.",
+      "system": "activate"
+    },
+    {
+      "human": "Creates a glyph vector by mapping the specified characters to glyphs one-to-one based on the Unicode cmap in this font.",
+      "system": "createGlyphVector"
+    },
+    {
+      "human": "Returns any throwable caught while executing the runnable's run method.",
+      "system": "getThrowable"
+    },
+    {
+      "human": "Removes an adjustment listener.",
+      "system": "removeAdjustmentListener"
+    },
+    {
+      "human": "Enable the stream to allow objects read from the stream to be replaced.",
+      "system": "enableResolveObject"
+    },
+    {
+      "human": "Deprecated as of JDK version 1.1, replaced by set echo char.",
+      "system": "setEchoCharacter"
+    },
+    {
+      "human": "Returns true if this is a component glyph.",
+      "system": "isComponent"
+    },
+    {
+      "human": "Gets a rendered image instance of this image with a default width and height in pixels.",
+      "system": "createDefaultRendering"
+    },
+    {
+      "human": "Returns whether this window is active.",
+      "system": "isActive"
+    },
+    {
+      "human": "Gets the exception handler for this stream.",
+      "system": "getExceptionListener"
+    },
+    {
+      "human": "Get the 0-based index of this object in its accessible parent.",
+      "system": "getAccessibleIndexInParent"
+    },
+    {
+      "human": "Removes the specified drag source listener from this drag source context.",
+      "system": "removeDragSourceListener"
+    },
+    {
+      "human": "This method will allow trusted subclasses of ObjectInputStream to substitute one object for another during deserialization.",
+      "system": "resolveObject"
+    },
+    {
+      "human": "Serializes this data flavor.",
+      "system": "writeExternal"
+    },
+    {
+      "human": "Deprecated as of JDK version 1.1, replaced by get item count.",
+      "system": "countItems"
+    }
+  ]
+}

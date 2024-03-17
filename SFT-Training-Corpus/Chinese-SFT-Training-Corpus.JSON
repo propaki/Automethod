@@ -1,0 +1,256 @@
+{
+  "conversations": [
+    {
+      "human": "将此字节缓冲区的视图创建为短缓冲区。",
+      "system": "asShortBuffer"
+    },
+    {
+      "human": "根据给定的参数创建输入方法事件，并将其分派给客户端组件。",
+      "system": "dispatchInputMethodEvent"
+    },
+    {
+      "human": "此转换是否表示本地时间线的重叠。",
+      "system": "isOverlap"
+    },
+    {
+      "human": "使用Java编程语言中的 boolean检索JDBC BIT或 BOOLEAN参数的值。",
+      "system": "getBoolean"
+    },
+    {
+      "human": "ICC配置文件常量：保留。",
+      "system": "icTagReserved"
+    },
+    {
+      "human": "被叫通知ComboPopup UI正在卸载。",
+      "system": "uninstallingUI"
+    },
+    {
+      "human": "创建一个新的 ContentHandler以从 URLStreamHandler读取对象。",
+      "system": "createContentHandler"
+    },
+    {
+      "human": "创建一个共享此缓冲区内容的新的只读字节缓冲区。",
+      "system": "asReadOnlyBuffer"
+    },
+    {
+      "human": "当隐藏的应用程序再次显示时调用（但不一定显示在前台）。",
+      "system": "appUnhidden"
+    },
+    {
+      "human": "创建一个共享此缓冲区内容的新的只读长缓冲区。",
+      "system": "asReadOnlyBuffer"
+    },
+    {
+      "human": "从模型中删除 ItemListener。",
+      "system": "removeItemListener"
+    },
+    {
+      "human": "创建一个共享此缓冲区内容的新的只读浮点缓冲区。",
+      "system": "asReadOnlyBuffer"
+    },
+    {
+      "human": "确定指定的 ImageConsumer对象当前是否已在此 ImageProducer注册为其消费者之一。",
+      "system": "isConsumer"
+    },
+    {
+      "human": "以ascii流的 CLOB检索此 Clob对象指定的 CLOB值。",
+      "system": "getAsciiStream"
+    },
+    {
+      "human": "在指定的索引处插入指定的字符串。",
+      "system": "insertTextAtIndex"
+    },
+    {
+      "human": "检查偏移日期时间是否对这些规则有效。",
+      "system": "isValidOffset"
+    },
+    {
+      "human": "删除ActionListener",
+      "system": "removeActionListener"
+    },
+    {
+      "human": "将此字节缓冲区的视图创建为浮点缓冲区。",
+      "system": "asFloatBuffer"
+    },
+    {
+      "human": "检索JDBC的价值 FLOAT参数为 float的Java编程语言。",
+      "system": "getFloat"
+    },
+    {
+      "human": "将此事件作为结束元素事件返回，如果此事件不是结束元素，则可能导致类强制转换异常。",
+      "system": "asEndElement"
+    },
+    {
+      "human": "将序号位置 parameterIndex的OUT参数注册到JDBC类型 sqlType。",
+      "system": "registerOutParameter"
+    },
+    {
+      "human": "不推荐使用，要删除：此API元素将在以后的版本中删除。",
+      "system": "setPrincipal"
+    },
+    {
+      "human": "在Java编程语言中以 boolean检索指定的JDBC BIT或 BOOLEAN参数的值。",
+      "system": "getBoolean"
+    },
+    {
+      "human": "将命名空间写入输出流如果此方法的前缀参数为空字符串“xmlns”或null，则此方法将委托给writeDefaultNamespace",
+      "system": "writeNamespace"
+    },
+    {
+      "human": "将此事件作为start元素事件返回，如果此事件不是start元素，则可能导致类强制转换异常。",
+      "system": "asStartElement"
+    },
+    {
+      "human": "将名为 parameterName的OUT参数注册到JDBC类型 sqlType。",
+      "system": "registerOutParameter"
+    },
+    {
+      "human": "创建一个共享此缓冲区内容的新的只读char缓冲区。",
+      "system": "asReadOnlyBuffer"
+    },
+    {
+      "human": "测试一个方法的签名是否是另一个类的子签名。",
+      "system": "isSubsignature"
+    },
+    {
+      "human": "将名为 parameterName的参数注册为JDBC类型 sqlType。",
+      "system": "registerOutParameter"
+    },
+    {
+      "human": "该对象实现writeExternal方法，通过调用DataOutput的方法来保存其内容，或者为对象，字符串和数组调用ObjectOutput的writeObject方法。",
+      "system": "writeExternal"
+    },
+    {
+      "human": "确定此属性编辑器是否支持自定义编辑器。",
+      "system": "supportsCustomEditor"
+    },
+    {
+      "human": "从xml声明中获取独立声明",
+      "system": "isStandalone"
+    },
+    {
+      "human": "在系统从睡眠中醒来后调用。",
+      "system": "systemAwoke"
+    },
+    {
+      "human": "当前的KeyboardFocusManager调用此方法，请求此KeyEventDispatcher代表它调度指定的事件。",
+      "system": "dispatchKeyEvent"
+    },
+    {
+      "human": "根据详细的度量标准信息创建多主字体的新实例。",
+      "system": "deriveMMFont"
+    },
+    {
+      "human": "ICC配置文件常量：curveType计数。",
+      "system": "icCurveCount"
+    },
+    {
+      "human": "根据指定数组中包含的设计轴值创建多主字体的新实例。",
+      "system": "deriveMMFont"
+    },
+    {
+      "human": "获得 MidiDevice对象，它是这个的所有者 Transmitter。",
+      "system": "getMidiDevice"
+    },
+    {
+      "human": "获取此对象的 FontMetrics。",
+      "system": "getFontMetrics"
+    },
+    {
+      "human": "将事件调度到输入方法。",
+      "system": "dispatchEvent"
+    },
+    {
+      "human": "创建并返回能够处理来自任何支持的文档风格的数据的 PrintJob。",
+      "system": "createPrintJob"
+    },
+    {
+      "human": "当通过调用setVisible（true）或将其添加到组件层次结构中使源或其祖先之一可见时调用。",
+      "system": "ancestorAdded"
+    },
+    {
+      "human": "使用特定格式化程序从文本字符串中获取 YearMonth的实例。",
+      "system": "parse"
+    },
+    {
+      "human": "在可用变量集中查找变量。",
+      "system": "resolveVariable"
+    },
+    {
+      "human": "部分解析一个名字。",
+      "system": "resolveToClass"
+    },
+    {
+      "human": "部分解析一个名字。",
+      "system": "resolveToClass"
+    },
+    {
+      "human": "以 java.sql.Timestamp对象的形式检索JDBC TIMESTAMP参数的值。",
+      "system": "getTimestamp"
+    },
+    {
+      "human": "返回一个新的CompletionStage，当这个或另一个给定的阶段正常完成时，将执行相应的结果作为所提供函数的参数。",
+      "system": "applyToEither"
+    },
+    {
+      "human": "创建具有正确大小和波段数的归零目标Raster。",
+      "system": "createCompatibleDestRaster"
+    },
+    {
+      "human": "该对象实现了readExternal方法，通过为原始类型调用DataInput方法并为对象，字符串和数组调用readObject来恢复其内容。",
+      "system": "readExternal"
+    },
+    {
+      "human": "用于写入浮点值的相对 put方法（可选操作）。",
+      "system": "putFloat"
+    },
+    {
+      "human": "获取此对象的 FontMetrics。",
+      "system": "getFontMetrics"
+    },
+    {
+      "human": "创建一个新的 ShardingKeyBuilder实例",
+      "system": "createShardingKeyBuilder"
+    },
+    {
+      "human": "创建一个新的 PooledConnectionBuilder实例",
+      "system": "createPooledConnectionBuilder"
+    },
+    {
+      "human": "评估指定上下文中的XPath表达式。",
+      "system": "evaluateExpression"
+    },
+    {
+      "human": "评估指定上下文中的XPath表达式。",
+      "system": "evaluateExpression"
+    },
+    {
+      "human": "使用不同的时区返回此日期时间的副本，如果可能，保留本地日期时间。",
+      "system": "withZoneSameLocal"
+    },
+    {
+      "human": "使用不同的时区返回此日期时间的副本，如果可能，保留本地日期时间。",
+      "system": "withZoneSameLocal"
+    },
+    {
+      "human": "将 ItemListener添加到模型中。",
+      "system": "addItemListener"
+    },
+    {
+      "human": "创建一个共享此缓冲区内容的新的只读int缓冲区。",
+      "system": "asReadOnlyBuffer"
+    },
+    {
+      "human": "从模型中删除 ChangeListener。",
+      "system": "removeChangeListener"
+    },
+    {
+      "human": "如果接收者允许孩子，则返回true。",
+      "system": "getAllowsChildren"
+    },
+    {
+      "human": "以Java编程语言中 java.io.Reader对象的形式检索指定参数的值。",
+      "system": "getCharacterStream"
+    }
+  ]
+}
