@@ -1,5 +1,5 @@
-# AutoMethodNamer
-AutoMethodNamer: A tool leveraging LLMs to auto-suggest descriptive method names from functional descriptions. It uses a multistage training approach to bridge semantic gaps, enhancing code quality
+# mNamer
+mNamer: A tool leveraging LLMs to auto-suggest descriptive method names from functional descriptions. It uses a multistage training approach to bridge semantic gaps, enhancing code quality
 Datasets
 This repository includes two key datasets:
 
@@ -9,13 +9,13 @@ Each dataset is crucial for training and evaluating the models to ensure they pe
 
 Corpus of Prompts
 A curated corpus of prompts is provided to optimize ChatGPT's performance in generating accurate method names from functional descriptions. These prompts are tailored to encourage precise and contextually relevant outputs from the model.
+Supervised Fine Tuning (SFT) training corpus:
 
-Source Code
+Source Code:
 Baseline Model
-Source code for the baseline model (BiLSTM with attention and copying mechanism) applied to both Dataset 1 and Dataset 2 is available, serving as a comparative benchmark for the BERT-CMNF model's performance.
-
-BERT-CMNF Model
-The BERT-CMNF model source code is the centerpiece of this repository, showcasing the application of BERT for semantic analysis and fine-tuning ChatGPT to improve its method naming capabilities. This model represents a significant advancement in the field of automated method naming.
+Source code for the baseline model (BiLSTM with attention and copying mechanism) applied to both Dataset 1 and Dataset 2 is available, serving as a comparative benchmark for the mNamer's performance.
+mNamer
+The source code is the centerpiece of this repository, showcasing the application of BERT-based semantic model for both Semantic Driven Preprocessing and BERT-based RLHF in Postprocessing for LLMs to improve its method naming capabilities. This model represents a significant advancement in the field of automated method naming.
 
 Getting Started
 To get started with LLM-MethodNamer:
