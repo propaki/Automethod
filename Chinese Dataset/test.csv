@@ -1,0 +1,1757 @@
+Method,Functional Description
+windowActivated,将Window设置为活动Window时调用。
+paint,根据给定的属性绘制CSS框。
+setCharacterAttributes,更改用于文档中给定范围的现有内容的内容元素属性。
+get,"相对批量 
+               获取方法。"
+getNamespaceContext,获取只读命名空间上下文。
+setDate,"使用给定的 
+               Calendar对象将指定参数设置为给定的 
+               java.sql.Date值。"
+setMaximum,将进度条数据模型中存储的进度条最大值设置为n
+getAnnotatedLowerBounds,返回此通配符类型的可能带注释的下限。
+postEvent,"已过时。
+
+从JDK版本1.1替换为dispatchEvent（AWTEvent）。"
+drawImage,绘制指定图像的尽可能多的部分，如已经缩放以适应指定的矩形内
+setMillisToPopup,指定弹出窗口出现所需的时间
+getModel,返回此进度条使用的数据模型
+getInstrument,"获取一个 
+               Instrument从给定的 
+               Patch 。"
+printJobFailed,被叫通知客户端作业未能成功完成，必须重新提交。
+getColumn,返回列的索引
+putDouble,"用于写入double值的相对 
+               put方法 
+               （可选操作） 。"
+removeChangeListener,删除跟踪属性更改的侦听器。
+removeNotify,通知输入方法已从其包含层次结构中删除客户端组件，或者已为组件禁用了输入方法支持。
+focusColor,聚焦切换按钮的颜色。
+getReplacementText,实体的替换文本。
+nullsFirst,"返回一个空值友好的比较器， 
+               null视为小于非null。"
+getSessionCacheSize,"返回用于存储在此 
+               SSLSessionContext下分组的 
+               SSLSession对象的高速缓存大小。"
+update,已过时。
+width,返回一种弹簧，其最小、首选、最大和值属性由提供的组件的最小尺寸、首选尺寸、最大尺寸和尺寸属性定义
+register,使用监视服务注册此路径所在的文件。
+icSigXYZData,ICC配置文件颜色空间类型签名：'XYZ'。
+isAnnotationPresent,"如果此元素上 
+               存在指定类型的注释，则返回true，否则返回false。"
+clearSelection,清除选择（到-1）。
+getMinimum,从有界范围模型返回滑块支持的最小值
+getPreviousValue,"返回 
+               getValue()返回的对象之前的序列中的对象。"
+setObject,使用给定对象设置指定参数的值。
+forEachRemaining,对每个剩余元素执行给定操作，直到处理完所有元素或操作引发异常。
+dateNow,从指定时钟获取此年表中的当前本地日期。
+writeStartDocument,编写XML声明。
+thenApply,返回一个新的CompletionStage，当该阶段正常完成时，将使用此阶段的结果作为所提供函数的参数执行。
+getIds,"返回在此 
+               SSLSessionContext下分组的所有会话ID的枚举。"
+hasLayoutAttributes,如果此字体包含需要额外布局处理的属性，则返回true
+getBytes,"检索此 
+               Blob对象表示的 
+               BLOB值的全部或部分，作为字节数组。"
+close,释放与此Reader相关的任何资源。
+releaseOutputStream,"已过时。
+
+没有替代品"
+getNString,"检索指定的值 
+               NCHAR ， 
+               NVARCHAR或 
+               LONGNVARCHAR作为参数 
+               String Java编程语言。"
+keyPressed,按下某个键时调用。
+setPixels,过滤图像消费者接口中set pixels方法提供的信息，该方法采用整数数组
+parameterNullable,"该常量指示参数将允许 
+               NULL值。"
+setSelected,选择或取消选择按钮。
+resetAllControllers,将所有已实现的控制器重置为其默认值。
+setGlassPane,为此根窗格设置指定的组件作为玻璃窗格
+paramString,返回此JWindow的字符串表示
+attributeDecl,报告属性类型声明。
+setBoolean,"将指定参数设置为给定的Java 
+               boolean值。"
+contains,"如果此collection包含指定的元素，则返回 
+               true 。"
+addListDataListener,向每次发生数据模型更改时通知的列表添加侦听器。
+equals,将此主体与指定对象进行比较。
+setBoolean,"将指定参数设置为给定的Java 
+               boolean值。"
+getLabel,返回弹出菜单的标签
+nextSibling,"将 
+               TreeWalker移动到当前节点的下一个兄弟节点，并返回新节点。"
+selectAll,让编辑开始编辑并选择所有内容
+removeAttributes,删除元素的一组属性。
+setLoginTimeout,设置此数据源在尝试连接到数据库时将等待的最长时间（以秒为单位）。
+loadAllInstruments,"装载到 
+               Synthesizer包含在指定的所有仪器 
+               Soundbank 。"
+hasName,返回一个布尔值，指示当前事件是否具有名称（是START_ELEMENT还是END_ELEMENT）。
+clean,取消注册可清洁并调用清洁操作。
+getUicLassId,返回UI的类ID
+type,返回套接字选项值的类型。
+createDataBuffer,创建与此带状样本模型相对应的数据缓冲区，数据缓冲区的数据类型、银行数和大小将与此带状样本模型一致
+isDirectory,判断文件是否是目录。
+build,返回此构建器定义的对象的实例。
+getWritableTileIndices,返回一个点对象数组，指示哪些瓦片已借出进行写入
+next,转到包含doc对象序列中下一个doc对象的multidoc对象。
+getTypeParameters,"返回的数组 
+               TypeVariable对象表示通过此表示的一般声明声明的类型变量 
+               GenericDeclaration目的，在声明的顺序。"
+createDocument,使用其document元素创建指定类型的DOM Document对象。
+paint,呈现给定的Graphics2D对象。
+user,指定创建连接时要使用的用户名
+writeAborted,"报告写入已通过编写器的 
+               abort方法中止。"
+readLong,"读取8个输入字节并返回 
+               long值。"
+find,查找对给定名称的模块的引用。
+setDTDHandler,已过时。
+getVoiceStatus,获得此合成器产生的声音的当前状态。
+add,在指定的选项卡索引处添加一个组件，其选项卡标题默认为组件的名称
+applyAsLong,将此函数应用于给定的参数。
+setColorModel,过滤图像消费者接口中set color model方法提供的信息
+notationDecl,接收符号声明事件的通知。
+getName,不推荐使用，要删除：此API元素将在以后的版本中删除。
+serialVersionUID,设置的类指纹，用于指示与该类的先前版本的序列化兼容性。
+skippedEntity,接收跳过的实体的通知。
+getBeanContextProxy,"获取与此对象关联的 
+               BeanContextChild （或子接口）。"
+toString,返回此颜色模型对象内容的字符串表示
+get,"相对批量 
+               获取方法。"
+getInputAttributes,获取面板的输入属性
+getBufferedImageOp,返回缓冲图像操作
+listBox,JList的实例。
+resolve,"一个给定的路径字符串转换为 
+               Path并解析它针对此 
+               Path在完全按规定的方式 
+               resolve方法。"
+readLine,从输入流中读取下一行文本。
+add,将指定的元素插入列表（可选操作）。
+getSize,返回所有银行的数组元素大小
+getIndex,获取所表示元素内的索引。
+removeActionListener,删除ActionListener
+programChange,更改程序（补丁）。
+visitIntersection,访问交叉点类型。
+removeTableModelListener,从每次发生数据模型更改时通知的列表中删除侦听器。
+setSelectionMode,这被重写为不做任何事情；空选择模型不允许选择
+getMaxCharactersPerLineCount,返回消息中每行放置的最大字符数
+getUpperBounds,"返回一个 
+               Type对象的数组，表示此类型变量的上限。"
+getPrefix,获取uri绑定的前缀
+setPixels,将传递的字节像素的组件合并到累积数组中，并发送任何已完成像素行的平均数据
+serialVersionUID,使用JNDI 1.1.1中的serialVersionUID实现互操作性。
+setMaxRows,"将此 
+               RowSet对象可包含的最大行数设置为指定的数字。"
+writeChars,将字符串写入输出流。
+programChange,使用银行和程序（补丁）号码更改程序。
+createChangeListener,想要以不同方式处理变更事件的子类可以覆盖此方法，以返回ModelListener的子类或另一个变更监听器实现
+headMap,"返回此映射的部分视图，其键严格小于 
+               toKey 。"
+sorterChanged,RowSorter发生变化的通知。
+setToolTipTextAt,将索引处的工具提示文本设置为工具提示文本，可以为null
+selectAllAccessibleSelection,如果对象支持多个选择，则会选择对象的每个子对象。
+die,通知编辑它不应再使用。
+getLineNumber,返回当前文档事件结束的行号。
+run,运行该工具的实例，为成功运行返回零。
+addPropertyChangeListener,为值更改添加侦听器。
+setBytes,将指定参数设置为给定的Java字节数组。
+getValue,按索引查找属性的值。
+filter,对缓冲图像执行单输入/单输出操作
+getEncodedValue,检索LDAP扩展操作请求的ASN.1 BER编码值。
+getDisabledSelectedIcon,为同时被禁用和选中的组件返回一个图标
+getGamma,返回表示色调再现曲线（TRC）的伽玛值。
+thenAcceptAsync,返回一个新的CompletionStage，当这个阶段正常完成时，使用提供的Executor执行，该阶段的结果作为提供的操作的参数。
+getResultSet,"检索包含此 
+               Array对象指定的SQL 
+               ARRAY值的元素的结果集。"
+importedKeyInitiallyImmediate,表示可推迟性。
+getFilter,NodeFilter用于屏幕节点。
+setArmed,将菜单项标识为“激活”状态
+tableIndexClustered,表示此表索引是聚簇索引。
+uis,包含真实UI的向量。
+asShortBuffer,将此字节缓冲区的视图创建为短缓冲区。
+getProperty,获取name参数指定的属性的相应实例。
+iterator,返回节点的迭代器。
+setObject,使用给定对象设置指定参数的值。
+thumbnailProgress,"报告相关 
+               ImageReader内当前 
+               getThumbnail电话的大致完成程度。"
+setByteStream,表示字节流的语言和绑定依赖类型的属性。
+getLocalCertificates,返回握手期间发送给对等方的证书。
+setData,实现此接口的节点的字符数据。
+setDefaultEditor,如果表列中未设置编辑器，则设置要使用的默认单元格编辑器
+getSystemId,获取将解析相对URL的基本ID（URI或系统ID）。
+getMajorTickSpacing,此方法返回主要刻度间距
+mismatch,查找并返回此缓冲区与给定缓冲区之间第一个不匹配的相对索引。
+createElementNS,创建给定限定名称和名称空间URI的元素。
+getMaxRows,"检索此 
+               RowSet对象可包含的最大行数。"
+dateEpochDay,从纪元日开始，在此年表中获得当地日期。
+addFocusListener,添加指定的焦点侦听器以从此组件接收焦点事件。
+setMinimum,更改此序列中数字的下限
+setObject,"设置此 
+               Ref对象引用给定实例 
+               Object的结构化类型值。"
+createDocumentFragment,"创建一个空的 
+               DocumentFragment对象。"
+isDone,"如果此任务完成，则返回 
+               true 。"
+setXmlVersion,"作为 
+               XML declaration的一部分指定此文档的版本号的属性。"
+dispose,处置这个图形上下文并释放它正在使用的任何系统资源
+mouseWheelMoved,旋转鼠标滚轮时调用。
+spliterator,在Iterable描述的元素上创建Iterable 。
+item,"返回集合中的 
+               index项。"
+readFloat,"读取流中的下一个属性并将其作为Java编程语言中的 
+               float返回。"
+firePropertyChange,通知属性更改的监听器
+addActionListener,添加ActionListener。
+hashCode,此日期时间的哈希码。
+getAnnotations,"返回此元素上 
+               存在的注释。"
+arrayOffset,"返回此缓冲区缓冲区第一个元素的后备数组中的偏移量 
+               （可选操作） 。"
+isDeclared,除非在DTD中声明了属性，否则返回false。
+setValue,"如果 
+               newValue满足模型的约束， 
+               newValue模型的当前值设置为 
+               newValue 。"
+get,返回指定位置的节点
+getValue,从有界范围模型返回进度条的当前值
+build,构建流，将此构建器转换为构建状态。
+poll,检索并移除此双端队列表示的队列的头部（换句话说，此双端队列的第一个元素），等待指定的等待时间（如果需要，则元素变为可用）。
+isVisible,确定此对象是否可见
+setObject,使用给定对象设置指定参数的值。
+beginDraggingFrame,当用户指示他们将开始拖动组件时，通常会调用此方法。
+order,检索此缓冲区的字节顺序。
+setBytes,将指定参数设置为给定的Java字节数组。
+isDirect,"判断此缓冲区是否为 
+               direct 。"
+lengthOfYear,返回年份的长度。
+getMenuDragMouseListeners,返回通过addMenuDragMouseListener添加到此JMenuItem的所有菜单拖动鼠标监听器的数组
+internalFrameClosing,内部框架处于关闭状态时调用。
+plusMinutes,"返回此 
+               ZonedDateTime的副本，并添加指定的分钟数。"
+skipBytes,将流位置向前移动给定的字节数。
+isOther,判断文件是否不是常规文件，目录或符号链接。
+removeItemListener,"从模型中删除 
+               ItemListener 。"
+setDisplayedMnemonicIndexAt,提供一个提示给外观和感觉，指示文本中的哪个字符应该被装饰以代表助记符
+setXormOde,将这个图形上下文的绘制模式设置为这个图形上下文的当前颜色和新指定的颜色之间交替
+addInvalidComponent,标记组件需要布局并为事件分派线程排队一个Runnable，该Runnable将验证组件的第一个验证根祖先
+tryAdvance,"如果存在剩余元素，则对其执行给定操作，返回true ;
+否则返回false 。"
+negate,返回表示此谓词的逻辑否定的谓词。
+processKeyEvent,处理从菜单选择管理器转发的按键事件，并在必要时通过使用菜单选择管理器的API更改菜单选择
+meta,当调用Sequencer遇到并处理一个MetaMessage在Sequence它正在处理。
+query,使用指定的查询查询此日期时间。
+unboxedType,返回给定类型的未装箱值的类型（基本类型）。
+isEditing,如果树正在被编辑，则返回true
+headMap,"返回此映射的部分视图，其键严格小于 
+               toKey 。"
+descendingKeySet,返回此映射中包含的键的反向顺序NavigableSet视图。
+getFileAttributeView,返回新的文件属性视图以访问此目录的文件属性。
+setAsciiStream,将指定参数设置为给定输入流。
+getToolTipText,重写JComponent的getToolTipText方法，以允许在设置了文本的情况下使用渲染器的提示
+setXPathVariableResolver,建立一个变量解析器。
+createPosition,在内容中创建一个位置，以便在内容发生变化时跟踪更改。
+subMap,"返回此映射部分的视图，其键的范围为 
+               fromKey到 
+               toKey 。"
+name,返回属性名称。
+removeChangeListener,删除跟踪插入位置更改的侦听器。
+isFocusTraversable,返回此对象是否可以接受焦点。
+getLength,列表中的对（名称和namespaceURI）的数量。
+contains,"如果此双端队列包含指定的元素，则返回 
+               true 。"
+getPreferredSize,返回分隔符的首选尺寸
+setLayeredPane,设置根窗格的层叠窗格
+getModel,返回我们的微调器祖先的SpinnerNumberModel
+removeChangeListener,从模型的侦听器列表中删除ChangeListener。
+add,向商店添加一个HTTP cookie。
+previousIndex,"返回后续调用 
+               previous()将返回的元素的索引。"
+rotate,与平移旋转变换连接当前graphics2d变换
+icSigAToB1Tag,ICC配置文件标记签名：'A2B1'。
+dispose,释放为操作分配的资源。
+caretUpdate,插入位置更新时调用。
+getClipBounds,返回当前剪裁区域的边界矩形
+setObject,"使用Java 
+               Object在此 
+               RowSet对象的命令中设置指定参数。"
+vetoableChange,更改约束属性时将调用此方法。
+run,"当使用实现接口 
+               Runnable的对象来创建线程时，启动该线程会导致在该单独执行的线程中调用该对象的 
+               run方法。"
+cancel,取消观看服务的注册。
+createCompatibleDestRaster,创建具有正确大小和波段数的归零目标Raster。
+put,"相对批量 
+               放置方法 
+               （可选操作） 。"
+setNullable,"设置指定列的值是否可以设置为 
+               NULL 。"
+mark,在此位置设置此缓冲区的标记。
+setString,"将指定参数设置为给定的Java 
+               String值。"
+icHdrCreator,ICC配置文件标题位置：配置文件创建者。
+ancestorMoved,移动源或其祖先之一时调用。
+visitByte,"在注释中访问 
+               byte值。"
+add,向正在构建的流添加元素。
+getBackground,获取一组属性并将其转换为背景颜色规范。
+setAccessibleColumnHeader,设置列标题。
+isAlphaPremultiplied,返回在此颜色模型要转换的像素值中alpha是否已预乘
+containsAll,"如果此集合包含指定集合中的所有元素，则返回 
+               true 。"
+duplicate,创建一个共享此缓冲区内容的新int缓冲区。
+add,如果指定的元素尚不存在，则将其添加到此集合（可选操作）。
+toArray,返回包含此set中所有元素的数组。
+userSessionDeactivated,在用户会话被切换时调用。
+setSelectionMode,设置表的选择模式，以允许只有单一选择、单一连续区间或多个区间
+exit,"取消阻止 
+               enter()方法阻塞的线程的执行，并退出辅助循环。"
+getNextValue,返回序列中紧跟在get value返回的对象之后的对象
+getPainter,获得荧光笔的画家。
+borderInsets,边界插入。
+getCharacterStream,"以Java编程语言中 
+               java.io.Reader对象的形式检索指定参数的值。"
+getFont,获取此对象的字体。
+minusYears,"返回此 
+               ZonedDateTime的副本，并减去指定的年数。"
+getSize,"以 
+               Dimension对象的形式返回此对象的大小。"
+getValue,返回值。
+duplicate,创建一个共享此缓冲区内容的新浮点缓冲区。
+getLength,"列表中的数量为 
+               DOMString 。"
+or,返回一个组合谓词，表示此谓词与另一个谓词的短路逻辑OR。
+installColors,便利方法，用默认值的颜色设置组件的前景色和背景色属性
+createEntityReference,"创建一个 
+               EntityReference对象。"
+getLong,"用于读取长值的绝对 
+               get方法。"
+getParentLoggerName,已过时。
+isAfter,检查此年月是否在指定的年月之后。
+setEnabled,设置对象的启用状态。
+getNamedItemNS,检索由本地名称和名称空间URI指定的节点。
+initialize,使用DSA系列参数（p，q和g）和可选的SecureRandom位源初始化密钥对生成器。
+dispatchEvent,此方法允许将事件分派到实现事件模型中。
+compute,"尝试计算指定键及其当前映射值的映射（如果没有当前映射， 
+               null ）。"
+isActive,已过时。
+readSQL,使用从数据库中读取的数据填充此对象。
+icSigViewingConditionsTag,ICC配置文件标记签名：'查看'。
+substringData,从节点中提取一系列数据。
+visitArray,访问注释中的数组值。
+createInputMethodJFrame,创建一个顶级Swing JFrame供输入法使用。
+getNString,"检索指定的值 
+               NCHAR ， 
+               NVARCHAR或 
+               LONGNVARCHAR作为参数 
+               String Java编程语言。"
+windowClosing,当用户尝试从窗口的系统菜单关闭窗口时调用。
+sorterChanged,RowSorter发生变化的通知。
+getAccessibleIndexAt,返回索引处的选项卡标题
+array,"返回支持此缓冲区的int数组 
+               （可选操作） 。"
+getVersion,获得声音库的版本字符串。
+setUsername,"将此 
+               RowSet对象的username属性设置为给定的 
+               String 。"
+getBounds,返回一个Rectangle2D，它包围了由此形状图形属性相对于渲染位置绘制的所有位
+getCalendarField,返回下一个值和上一个值方法增加或减少的日历字段
+plus,返回与此对象具有相同类型的对象，并添加指定的句点。
+addChangeListener,"将 
+               ChangeListener添加到模型的侦听器列表中。"
+paint,根据后备存储是否启用，通过后备存储绘制图像或仅绘制最近暴露的部分，使用后备存储“blit”其余部分
+beginResizingFrame,当用户指示他们将开始调整帧的大小时，通常会调用此方法。
+isAbsolute,判断此路径是否绝对。
+meta,当调用Sequencer遇到并处理一个MetaMessage在Sequence它正在处理。
+isDeclared,除非在DTD中声明了属性，否则返回false。
+setByte,"将此 
+               RowSet对象命令中的指定参数设置为给定的Java 
+               byte值。"
+imageProgress,"报告相关 
+               ImageWriter内当前 
+               write电话的大致完成程度。"
+getPublicId,实体的公共标识符，如果没有给出，则为null
+setTypeMap,"安装给定的 
+               java.util.Map对象的默认类型映射此 
+               RowSet对象。"
+getConnection,"尝试与此 
+               DataSource对象表示的数据源建立连接。"
+visitError,访问错误类型。
+size,检索属性集中的属性数。
+array,"返回支持此缓冲区的float数组 
+               （可选操作） 。"
+noteOff,关闭指定的音符。
+getAsDouble,获取结果。
+getInterpolationType,返回此操作使用的插值类型
+setDefaultRenderer,如果表列中未设置渲染器，则设置要使用的默认单元格渲染器
+removeStyle,从文档中移除先前添加的指定的非空样式
+getSystemId,返回当前文档事件的系统标识符。
+getUnsupportedValues,"返回Print Service实例支持该属性但不支持该属性的特定值的打印属性数组，如果没有此类属性值，则 
+               null 。"
+readDouble,"从流中读取8个字节，并（概念上）根据当前字节顺序连接它们，并将结果返回为 
+               double 。"
+getEnclosedElements,松散地说，返回由此元素直接包含的元素。
+setBackground,为graphics2d上下文设置背景色
+remove,检索并删除此双端队列表示的队列的头部（换句话说，此双端队列的第一个元素）。
+removeNamedItem,删除name指定的节点。
+children,"以 
+               Enumeration返回接收者的子 
+               Enumeration 。"
+readBlob,"从流中读取SQL 
+               BLOB值并将其作为Java编程语言中的 
+               Blob对象返回。"
+getPosition,返回指定条目的起始位置
+getNamespaceURI,返回索引处声明的命名空间的uri。
+icSigSpaceCCLR,ICC配置文件颜色空间类型签名：'CCLR'。
+createCompatibleVolatileImage,使用指定的图像能力，返回与此图形配置兼容的数据布局和颜色模型的易失图像
+uis,包含真实UI的向量。
+getG,"返回基数， 
+               g 。"
+getSimpleName,返回此包的简单名称。
+isArmed,表示触发按钮的部分承诺。
+getURIs,获取标识此cookie商店中的cookie的所有URI。
+getComponentType,返回此数组类型的组件类型。
+icSigSpaceECLR,ICC配置文件颜色空间类型签名：'ECLR'。
+dateNow,从指定时区的系统时钟获取此年表中的当前本地日期。
+getItem,返回已编辑的项目
+available,返回可以不阻塞地读取的字节数。
+setNClob,"将指定参数设置为 
+               Reader对象。"
+shouldSelectCell,如果应选择编辑单元格，则返回true，否则返回false。
+put,"相对批量 
+               放置方法 
+               （可选操作） 。"
+setRowId,"将指定参数设置为给定的 
+               java.sql.RowId对象。"
+getConnection,"尝试与此 
+               DataSource对象表示的数据源建立连接。"
+size,返回此属性集中的属性数。
+compile,"编译脚本（源读取自 
+               Reader ）以供稍后执行。"
+notificationReceived,收到未经请求的通知时调用。
+getSelectedItem,返回所选项目
+removeListDataListener,从每次发生数据模型更改时通知的列表中删除侦听器。
+getPathBounds,返回指定节点将被绘制的矩形
+applyAsInt,将此运算符应用于给定的操作数。
+removeChangeListener,"从模型中删除 
+               ChangeListener 。"
+getDocument,"来源 
+               DocumentView这是一个 
+               AbstractView 。"
+sort,根据指定的Comparator引发的顺序对此列表进行排序。
+icICCAbsoluteColorimetric,ICC配置文件渲染意图：ICC-AbsoluteColorimetric。
+clone,"制作此 
+               CertPathParameters的副本。"
+setType,"将此 
+               RowSet对象的类型设置为给定类型。"
+popupMenuWillBecomeVisible,在弹出菜单变为可见之前调用此方法
+removeFirstOccurrence,从此双端队列中删除第一次出现的指定元素。
+icSigTechnologyTag,ICC Profile Tag签名：'tech'。
+changedUpdate,提供一个属性或一组属性已更改的通知。
+startProduction,"将指定的 
+               ImageConsumer对象注册为使用者并开始立即重建图像数据，然后将其传递给此消费者以及可能已经向生产者注册的任何其他消费者。"
+getHeight,返回height属性的值
+icSigGrayData,ICC配置文件颜色空间类型签名：'灰色'。
+error,接收可恢复错误的通知。
+apply,将此函数应用于给定的参数。
+internalFrameActivated,激活内部框架时调用。
+getExpectedPolicies,返回在下一个要处理的证书中满足此节点的有效策略的预期策略集。
+contains,"测试 
+               Shape的内部 
+               Shape完全包含指定的 
+               Rectangle2D 。"
+menuDragMouseEntered,当拖动的鼠标进入菜单组件的显示区域时调用。
+setColumnHeaderView,如果需要，创建列头视口，设置其视图，然后将列头视口添加到滚动面板中
+wrap,将float数组包装到缓冲区中。
+getAccessibleRowExtentAt,"返回 
+               Accessible在表中指定行和列处占用的行数。"
+componentMoved,当组件的位置发生变化时调用。
+getNamedItem,检索由name指定的节点。
+getKeyListener,返回将添加到组合框的键侦听器或null。
+addEdit,"添加 
+               UndoableEdit到此 
+               UndoableEdit 。"
+menuDragMouseReleased,在菜单组件的显示区域中释放拖动的鼠标时调用。
+position,设置此缓冲区的位置。
+get,"相对 
+               get方法。"
+paintIcon,在指定位置绘制图标。
+comparingByValue,返回一个比较器，按比例按自然顺序比较Map.Entry 。
+addService,向此BeanContext添加服务。
+treeExpanded,每当树中的项目被扩展时调用。
+icSigSpace9CLR,ICC配置文件颜色空间类型签名：'9CLR'。
+allNotesOff,关闭此频道上当前正在发声的所有音符。
+with,返回此年度的调整副本。
+getUicLassId,返回用于构造渲染此组件的外观和感觉(L&F)类名称的后缀
+menuDragMouseReleased,在菜单组件的显示区域中释放拖动的鼠标时调用。
+serialVersionUID,设置的类指纹，用于指示与该类的先前版本的序列化兼容性。
+read,从该通道读取一个字节序列到给定的缓冲区。
+getCommittedTextLength,获取文本编辑组件中包含的整个文本的长度，但未提交（组合）的文本除外。
+loadInstruments,"从指定的 
+               Soundbank加载指定补丁引用的仪器。"
+withSecond,"返回此 
+               ZonedDateTime的副本，并在第二分钟更改。"
+subMap,"返回此映射部分的视图，其键的范围从 
+               fromKey （包括）到 
+               toKey （不包括）。"
+visitDouble,"在注释中访问 
+               double值。"
+getCustomEditor,PropertyEditor可以选择提供编辑其属性值的完整自定义组件。
+setValueIsAdjusting,此属性表示对模型值的任何即将发生的更改都应视为单个事件。
+getAccessibleAt,"返回 
+               Accessible子 
+               Accessible （如果存在），包含在本地坐标 
+               Point 。"
+getLowerBound,返回此类型变量的下限。
+getCurrentAccessibleContext,获取表格单元渲染器的可访问上下文
+propertyChange,由JFormattedTextField属性变更监听器调用
+plus,返回指定金额的今年的副本。
+forEach,"对 
+               Iterable每个元素执行给定操作，直到处理 
+               Iterable所有元素或操作引发异常。"
+remaining,返回当前位置和限制之间的元素数。
+icSigNamedColorClass,ICC配置文件类签名：'nmcl'。
+print,一种便利方法，显示打印对话框，然后以适合宽度的打印模式打印此JTable，没有页眉或页脚文本
+isElementContentWhitespace,"返回此文本节点是否包含 
+               element content whitespace ，通常被称为“可忽略的空格”。"
+addChangeListener,"添加 
+               侦听器作为模型中更改的侦听器。"
+compose,"返回一个组合运算符，该运算符首先将 
+               before运算符应用于其输入，然后将此运算符应用于结果。"
+getLineMetrics,返回指定字符迭代器在指定图形上下文中的行度量对象
+getElementCount,获取此元素包含的子元素数。
+put,"绝对 
+               放法 
+               （可选操作） 。"
+get,"相对批量 
+               获取方法。"
+requestTopDownLeftRightResend,请求给定的图像消费者再次按从上到下、从左到右的顺序接收图像数据
+moveColumn,"将列及其标题移动到 
+               columnIndex到 
+               newIndex 。"
+insert,在给定位置插入一个指定动作对象的菜单项
+programChange,更改程序（补丁）。
+isAccessibleRowSelected,返回一个布尔值，指示是否选择了指定的行。
+getFirstElementChild,返回对元素的第一个子节点的引用，该节点是Element类型。
+hashCode,返回此排序键的哈希码
+setInverted,指定true以反转滑块显示的值范围，false以将值范围置于正常顺序
+mismatch,查找并返回此缓冲区与给定缓冲区之间第一个不匹配的相对索引。
+setColumnName,"将指定列的名称设置为给定的 
+               String 。"
+setCharacterStream,"将指定参数设置为给定的 
+               Reader对象。"
+write,写一个字节数组。
+queryFrom,查询指定的时态对象。
+uis,包含真实UI的向量。
+installColorsAndFont,便利方法，用默认值设置组件的前景色、背景色和字体属性
+setPermissions,更新文件权限。
+isModuleOrientedLocation,"指示此位置是否是面向模块的位置，因此与面向包的位置（预期包含 
+               包/类层次结构中的类）相比，期望在 
+               模块/包/类层次结构中包含类。"
+needsGui,确定此bean是否需要GUI。
+appUnhidden,当隐藏的应用程序再次显示时调用（但不一定显示在前台）。
+getPaint,返回graphics2d上下文的当前绘制
+equals,判断此缓冲区是否等于另一个对象。
+bestRowUnknown,表示最佳行标识符可能是也可能不是伪列。
+isContinuousLayout,获取连续布局属性
+removeFirst,检索并删除此双端队列的第一个元素。
+processMenuDragMouseEvent,处理菜单中的鼠标拖动
+warning,收到警告通知。
+icSigPreview0Tag,ICC配置文件标记签名：'pre0'。
+getNativesForFlavor,"返回 
+               List的 
+               String当地人到指定 
+               DataFlavor对应。"
+show,显示弹出窗口
+getLeadSelectionRow,返回对应于引导路径的行索引
+print,打印此JTable
+setGlassPane,glassPane始终是rootPane的第一个子节点，rootPanes布局管理器确保它始终与rootPane一样大。
+icSigPs2RenderingIntentTag,ICC配置文件标记签名：'ps2i'。
+getButton,"在由按下或释放鼠标按钮引起的鼠标事件期间， 
+               button用于指示哪个鼠标按钮改变了状态。"
+setNull,"将指定的参数设置为SQL 
+               NULL 。"
+getAccessibleRow,返回表中索引的行号。
+isLoggable,检查是否应发布给定的日志记录。
+getXAResource,"检索一个 
+               XAResource对象，事务管理器将使用管理这个 
+               XAConnection在分布式事务对象的参与。"
+serialVersionUID,设置为指示序列化兼容性的类指纹。
+getExtent,返回有界范围模型的“范围”
+writeBoolean,将下一个属性作为Java布尔值写入流中。
+awaitNanos,导致当前线程等待，直到发出信号或中断，或者指定的等待时间过去。
+compose,返回由零个或多个模块查找器序列组成的模块查找器。
+getObjectSize,返回指定对象占用的存储量的特定于实现的近似值。
+getDocument,获取与此元素关联的文档。
+getInstruments,获得此声音库中包含的乐器列表。
+getConnection,"尝试与此 
+               DataSource对象表示的数据源建立连接。"
+getUnits,返回唯一定义此TemporalAmount值的单元列表。
+arrayOffset,"返回此缓冲区缓冲区第一个元素的后备数组中的偏移量 
+               （可选操作） 。"
+putFloat,"用于写入浮点值的相对 
+               put方法 
+               （可选操作） 。"
+getName,获取元素的名称。
+icSigChromaticAdaptationTag,ICC配置文件标记签名：'chad'。
+setNull,"将指定参数设置为SQL 
+               NULL 。"
+getStringData,要解析的字符串数据。
+getSelectedText,从文本编辑组件中获取当前选定的文本。
+handleAsync,返回一个新的CompletionStage，当该阶段正常或异常完成时，使用此阶段的默认异步执行工具执行，该阶段的结果和异常作为所提供函数的参数。
+getObjectInstance,使用指定的位置或引用信息创建对象。
+getScrollableBlockIncrement,显示逻辑行或列的组件应计算滚动增量，该增量将完全显示一个行或列的块，具体取决于方向的值。
+onError,在发布者或订阅服务器遇到不可恢复的错误时调用的方法，之后订阅服务器不会调用其他订阅服务器方法。
+getTime,"以 
+               java.sql.Time对象的形式检索指定的JDBC 
+               TIME参数的值。"
+equals,如果指定的对象表示逻辑上等于此注释的注释，则返回true。
+canUndo,如果可以撤消此编辑，则返回true。
+subSequence,创建一个新的字符缓冲区，表示此缓冲区相对于当前位置的指定子序列。
+cancel,停止进一步处理打印作业。
+getTitleAt,返回索引处的选项卡标题
+forEachRemaining,在当前线程中按顺序对每个剩余元素执行给定操作，直到所有元素都已处理或操作引发异常。
+read,"读取到 
+               len从流字节，并将其存储到 
+               b开始于索引 
+               off 。"
+getArray,以Java编程语言中Array对象的形式检索JDBC ARRAY参数的值。
+isAttributeCategorySupported,确定客户端在为此打印服务设置作业时是否可以指定给定的打印属性类别。
+getMinimumValue,返回此弹簧的最小值
+isEqual,检查此日期是否等于忽略年表的指定日期。
+validateObject,验证对象。
+getSize,返回列表的长度。
+visitPrimitive,访问基本类型。
+combine,修改或更新提供的ProtectionDomains。
+encode,不推荐使用，要删除：此API元素将在以后的版本中删除。
+getElementById,"返回具有给定值的ID属性的 
+               Element 。"
+setPressed,将按钮设置为按下或未按下。
+expandRow,确保指定行中的节点被展开并可视
+setBinaryStream,将指定参数设置为给定输入流。
+setUrl,"设置 
+               RowSet对象在使用 
+               DriverManager创建连接时将使用的URL。"
+hasRemaining,告知当前位置和限制之间是否存在任何元素。
+uis,包含真实UI的向量。
+reset,"在最近一次对 
+               mark不匹配调用时，返回指向其先前位置的流指针，包括位偏移量。"
+getChild,"返回的孩子 
+               parent索引 
+               index父项的子阵列英寸"
+iterator,以升序返回此集合中元素的迭代器。
+setSelectionPaths,选择由指定路径数组标识的节点
+valueBound,调用它来通知侦听器它被绑定到SSLSession。
+getMinimum,从有界范围模型返回进度条的最小值
+subpath,"返回一个相对 
+               Path ，它是此路径的name元素的子序列。"
+getBytes,"检索JDBC 
+               BINARY或 
+               VARBINARY参数的值，作为Java编程语言中 
+               byte值的数组。"
+getRenderingHints,返回此RasterOp的呈现提示。
+dragGestureRecognized,"此方法由被调用的 
+               DragGestureRecognizer当 
+               DragGestureRecognizer检测到依赖于平台的拖动启动动作。"
+poll,"检索并删除此双端队列表示的队列的头部（换句话说，此双端队列的第一个元素），如果此双端队列为空，则返回 
+               null 。"
+setDataSourceName,"将此 
+               RowSet对象的数据源名称属性设置为给定的 
+               String 。"
+getDouble,"读取double值的相对 
+               get方法。"
+addBatch,"向此 
+               PreparedStatement对象的一批命令添加一组参数。"
+getNClob,"以Java编程语言中 
+               java.sql.NClob对象的形式检索JDBC 
+               NCLOB参数的值。"
+addColumnModelListener,为表列模型事件添加侦听器。
+getPreviousValue,"返回 
+               getValue()返回的对象之前的序列中的对象。"
+hashCode,返回此set的哈希码值。
+removeChangeListener,"删除 
+               listener作为模型中更改的侦听器。"
+writeInt,"将32位的 
+               v写入流。"
+getTableCellEditorComponent,"为编辑器设置初始值 
+               value 。"
+minus,返回此年月份的副本，并减去指定的金额。
+childrenRemoved,"当从该注册者注册的 
+               BeanContext中删除子项或子项列表时调用。"
+writeUTF,"将两个字节的长度信息写入输出流，然后是字符串 
+               s中每个字符的 
+               modified UTF-8表示。"
+setDisabledIconAt,将索引处的禁用图标设置为图标，可以为null
+icSigRgbData,ICC配置文件颜色空间类型签名：'RGB'。
+setRowHeight,以像素为单位设置每个单元格的高度
+getProperty,获取name参数指定的属性的相应实例。
+addChangeListener,"添加 
+               侦听器作为模型中更改的侦听器。"
+write,"将数组 
+               b
+len字节按顺序写入输出流。"
+position,返回此缓冲区的位置。
+registerOutParameter,注册指定的输出参数。
+slice,创建一个新的浮点缓冲区，其内容是此缓冲区内容的共享子序列。
+getAttributeValue,返回具有namespace和localName的属性的规范化属性值。如果namespaceURI为null，则不检查命名空间的相等性
+setResult,返回用于设置此SQLXML实例指定的XML值的Result。
+columnRemoved,告诉侦听器已从模型中删除了一列。
+internalFrameIconified,在内部框架图标化时调用。
+writeAsciiStream,将下一个属性作为ASCII字符流写入流中。
+getPitchBend,获得该通道的向上或向下音高偏移。
+activate,激活控制器。
+of,返回包含八个元素的不可修改集。
+getWidth,返回缓冲图像的宽度
+hashCode,返回此属性集的哈希码值。
+getAccessibleIndex,返回表中行和列的索引。
+getData,计算并返回RenderedImage的任意区域。
+getMono,获得当前的单声道/多声道模式。
+translate,将图形上下文的原
+getHorizontalScrollBarPolicy,返回水平滚动条显示策略
+getYear,获取年份字段。
+getRowForLocation,返回指定位置的行
+getElementsByTagName,"返回 
+               NodeList所有的 
+               Elements文档顺序与给定的标签名称，包含在文档中。"
+getSubElements,此方法应返回包含接收菜单元素的子元素的数组
+format,使用指定的格式化程序格式化此日期时间。
+setAccessibleRowDescription,设置表的指定行的描述文本。
+openReader,返回此对象的阅读器。
+createContext,创建包含用于执行合成操作的状态的上下文。
+isLight,"如果 
+               true图标已折叠。"
+setPrefix,设置uri绑定的前缀。
+arrayOffset,"返回此缓冲区缓冲区第一个元素的后备数组中的偏移量 
+               （可选操作） 。"
+navigableKeySet,返回此映射中包含的键的NavigableSet视图。
+getTypeMap,"检索与此 
+               Map对象关联的 
+               RowSet对象，该对象指定SQL用户定义类型的自定义映射（如果有）。"
+now,从指定时区的系统时钟获取当前日期时间。
+setLong,"将指定参数设置为给定的Java 
+               long值。"
+register,使用监视服务注册对象。
+scale,返回一个弹簧，其最小值、首选值、最大值和值属性都是参数弹簧s的属性的倍数
+getSampleModel,返回与此图像关联的SampleModel。
+hasPrevious,"如果此列表迭代器在反向遍历列表时具有更多元素，则返回 
+               true 。"
+getDescent,确定此字体度量对象描述的字体的字体下沉
+isTransitive,返回这是否是传递依赖项。
+totalCpuDuration,返回进程累计的总cputime。
+popupMenuWillBecomeInvisible,在弹出菜单变为不可见之前调用此方法请注意，JPopupMenu可以随时变为不可见
+children,子类化以加载子节点（如有必要）
+readByte,"从流中读取一个字节并将其作为 
+               byte值返回。"
+truncate,将此通道所连接的实体截断为给定大小。
+getAccessibleContext,获取与此JTabbedPane关联的可访问上下文
+selectColor,所选按钮的颜色。
+selectInitialValue,当菜单元素被选中或取消选中时，由菜单选择管理器调用
+serviceRevoked,"名为的服务已被撤销。
+将不再满足此服务的getService请求。"
+registerOutParameter,"将序号位置 
+               parameterIndex的参数注册为JDBC类型 
+               sqlType 。"
+asCharacters,以字符形式返回此事件，如果此事件不是字符，则可能导致类强制转换异常。
+setSQLXML,"将指定参数设置为给定的 
+               java.sql.SQLXML对象。"
+addAdjustmentListener,添加调整监听器
+getComponentAtIndex,已替代，由Container.getComponent(int)替代
+toString,"今年的产出为 
+               String ，如 
+               2007-12 。"
+equals,判断此缓冲区是否等于另一个对象。
+getByteOffset,"如果没有可用的字节偏移量，则此定位器指向的输入源的字节偏移量为 
+               -1 。"
+inactiveObject,"当组中的对象变为非活动状态（停用）时，激活组会调用其监视器的 
+               inactiveObject方法。"
+getDefaultView,"此 
+               Document的默认 
+               AbstractView
+Document ，如果没有， 
+               null 。"
+isEndElement,如果光标指向结束标记，则返回true（否则为false）
+removeCellEditorListener,从通知的列表中删除侦听器
+showInputDialog,返回初始显示给用户的输入值
+take,检索并删除下一个监视密钥，如果还没有，则等待。
+setNCharacterStream,"将指定参数设置为 
+               Reader对象。"
+setVisibleRowCount,设置要显示的行数
+put,"相对批量 
+               放置方法 
+               （可选操作） 。"
+visit,"便利方法相当于 
+               visit(e, null) 。"
+setEnd,更改此序列中日期的上限
+getAccessibleActionDescription,返回树节点的指定动作的描述
+build,返回此构建器定义的对象的实例。
+getInset,获取给定侧所需的插图以考虑边距，边框和填充。
+getLinkIndex,将索引返回到与此字符索引关联的超链接数组，如果没有与此索引关联的超链接，则返回-1。
+asFloatBuffer,将此字节缓冲区的视图创建为浮点缓冲区。
+getLocation,返回处理器的当前位置。
+setValue,将此弹簧的当前值设置为value
+setElem,将第一个默认银行的请求数据数组元素设置为给定的整数
+shardingKey,"指定创建连接时使用的 
+               shardingKey"
+addSelectionPath,将由指定树路径标识的节点添加到当前选择中
+of,返回包含四个元素的不可修改集。
+iterator,以适当的顺序返回此双端队列中元素的迭代器。
+getDate,"检索JDBC的值 
+               DATE参数作为 
+               java.sql.Date对象，使用给定 
+               Calendar对象构造日期。"
+keyPressed,按下某个键时调用。
+setTimestamp,"将此 
+               RowSet对象命令中的指定参数设置为给定的 
+               java.sql.Timestamp值。"
+setByte,"将指定参数设置为给定的Java 
+               byte值。"
+sharedInstance,返回空选择模型的单一实例
+getReference,检索此对象的引用。
+createPooledConnectionBuilder,"创建一个新的 
+               PooledConnectionBuilder实例"
+alignmentOffset,返回内存地址，指向给定索引处的字节，给定单位大小的模数。
+setNClob,"将指定参数设置为 
+               Reader对象。"
+containsNS,"测试对namespaceURI / name是否属于此 
+               NameList 。"
+force,强制对此缓冲区内容所做的任何更改都写入包含映射文件的存储设备。
+setDate,"使用运行应用程序的虚拟机的默认时区将指定参数设置为给定的 
+               java.sql.Date值。"
+isRollover,表示鼠标位于按钮上方。
+compareTo,将此对象与指定的对象进行比较以获得顺序。
+removeCellEditorListener,从通知的列表中删除侦听器
+setMagicCaretPosition,设置当前插入符的可视位置。
+find,查找资源，将URI返回给模块中的资源。
+getPreviousElementSibling,返回对元素的兄弟节点的引用，该节点最紧接在文档顺序中的元素之前，并且属于Element类型。
+setNClob,"将指定参数设置为 
+               Reader对象。"
+getLength,此映射中的节点数。
+getComponent,"此方法应返回用于绘制接收元素的 
+               java.awt.Component 。"
+hasMore,确定枚举中是否还有其他元素。
+accept,测试此事件是否属于此流的一部分。
+peek,"检索但不移除此双端队列表示的队列的头部（换句话说，此双端队列的第一个元素），如果此双端队列为空，则返回 
+               null 。"
+setSolo,设置此通道的独奏状态。
+evaluate,"在指定的上下文中计算 
+               XPath表达式，并将结果作为指定的类型返回。"
+name,返回此工具提供程序的名称。
+query,使用指定的查询查询此日期。
+getBlinkRate,获取插入符的闪烁率。
+isPalette,"值 
+               isPalette"
+setPassword,"将此 
+               RowSet对象的数据库密码设置为给定的 
+               String 。"
+getMessager,返回用于报告错误，警告和其他通知的消息。
+duplicate,创建一个共享此缓冲区内容的新短缓冲区。
+run,执行计算。
+addChangeListener,添加一个侦听器，以便在插入符号位置发生更改时进行跟踪。
+get,"相对批量 
+               获取方法。"
+setPixel,使用输入的int样本数组设置数据缓冲区中的一个像素
+getLength,"列表中的数量为 
+               DOMImplementation 。"
+getRowCount,返回模型中的行数。
+init,使用处理环境初始化处理器。
+order,检索此缓冲区的字节顺序。
+isArmed,返回菜单项是否“激活”
+getMediaWhitePoint,返回长度为3的float数组，其中包含ICC配置文件中mediaWhitePointTag的X，Y和Z组件。
+plus,返回此日期时间的副本，并添加指定的数量。
+getEntityResolver,返回当前实体解析器。
+isHidden,返回隐藏属性的值。
+writeInt,将下一个属性作为Java int写入流中。
+uis,包含真实UI的向量。
+isBefore,检查此年月是否在指定的年月之前。
+setChannelPressure,对键盘压力的变化做出反应。
+applyToEither,返回一个新的CompletionStage，当这个或另一个给定的阶段正常完成时，将执行相应的结果作为所提供函数的参数。
+getContentPane,返回内容窗格，即容纳由根窗格管理的组件的容器
+parse,将名称解析为其组件。
+createInternalFrame,创建并返回JInternalFrame的一个实例
+getBounds,"以 
+               Rectangle对象的形式获取此对象的边界。"
+setSelectionValues,启用或禁用菜单项
+rewind,倒回这个缓冲区。
+update,使用指定的字节数组更新当前校验和。
+getScrollMode,返回当前滚动模式
+setObject,使用给定对象设置指定参数的值。
+getMnemonic,获取按钮的键盘助记符。
+setParent,设置父阅读器。
+wrap,将char数组包装到缓冲区中。
+icSigBToA1Tag,ICC配置文件标记签名：'B2A1'。
+andThen,"返回一个组合的 
+               DoubleConsumer ，它按顺序执行此操作，然后执行 
+               after操作。"
+setInputMethodContext,设置输入法上下文，用于将输入法事件分派给客户组件并从客户组件请求信息
+canSetParameter,检查是否支持将参数设置为特定值。
+mark,在此位置设置此缓冲区的标记。
+commitEdit,将当前编辑的值提交到微调器模型中
+isOptimizedDrawingEnabled,JViewport在JComponent的默认实现中重写此方法返回false
+setOwner,更新文件所有者。
+setBottomComponent,设置分隔符下方或右侧的组件
+addActionListener,添加ActionListener。
+put,"相对 
+               put方法 
+               （可选操作） 。"
+applyToEitherAsync,返回一个新的CompletionStage，当该阶段或其他给定阶段正常完成时，使用此阶段的默认异步执行工具执行，并将相应的结果作为所提供函数的参数。
+getDefaultLightWeightPopupEnabled,获取默认的轻量级弹出启用属性，默认为true
+getSystemId,"系统标识符，用于此输出目标的URI引用[ 
+               IETF RFC 2396 ]。"
+erasure,返回类型的擦除。
+internalFrameDeiconified,内部框架去图标化时调用。
+clearParameters,"清除为此 
+               RowSet对象命令设置的参数。"
+setTimestamp,"使用给定的 
+               java.sql.Timestamp值设置此 
+               RowSet对象命令中的指定参数。"
+userRoot,返回与调用用户对应的用户root首选项节点。
+wrap,将float数组包装到缓冲区中。
+redefineClasses,使用提供的类文件重新定义提供的类集。
+minus,返回-s：一个与s相反方向运行的弹簧
+invokeMethod,"在先前脚本执行期间编译的脚本对象上调用方法，该脚本对象保留在 
+               ScriptEngine的状态中。"
+getDisplayName,获取请求的语言环境中字段的显示名称。
+beginResizingFrame,当用户指示他们将开始调整帧的大小时，通常会调用此方法。
+next,转到包含doc对象序列中下一个doc对象的multidoc对象。
+setNCharacterStream,"将指定参数设置为 
+               Reader对象。"
+getPrintData,获取包含此doc对象的打印数据的打印数据表示对象，其格式与支持的doc flavor相对应。
+add,向正在构建的流添加元素。
+createServerSocket,在指定端口上创建服务器套接字（端口0表示匿名端口）。
+getUnsupportedFlavors,返回不支持的flavor。
+watchable,返回为其创建此监视键的对象。
+createInitialContextFactory,使用指定的环境创建初始上下文工厂。
+isLight,"如果 
+               true图标已折叠。"
+addAll,将指定集中的所有元素添加到此属性。
+getDesignAxisDefaults,返回每个轴的默认设计值数组。
+columnNullableUnknown,表示列的可为空性未知。
+writeStartElement,将开始标记写入输出
+getContentPane,返回contentPane。
+getEscapeProcessing,"检索是否为此 
+               RowSet对象启用了转义处理。"
+asReadOnlyBuffer,创建一个共享此缓冲区内容的新的只读字节缓冲区。
+applyAsLong,将此函数应用于给定的参数。
+isCompositionEnabled,确定是否启用此输入方法。
+setViewportView,如有必要创建视口，然后设置其视图
+isEditing,如果单元格正在被编辑，则返回true
+componentResized,组件大小更改时调用。
+convertColumnIndexToModel,设置此TabbedPane的选项卡放置
+removeNamedItem,删除name指定的节点。
+clone,"制作此 
+               CertSelector的副本。"
+references,当前对象引用的数量。
+parameterModeIn,常量表示参数的模式为IN。
+get,"相对 
+               get方法。"
+readDouble,"读取流中的下一个属性，并以Java编程语言将其作为 
+               double返回。"
+adoptNode,尝试从另一个文档中采用节点到此文档。
+setMaximum,将滑块的最大值设置为最大值
+compact,"压缩此缓冲区 
+               （可选操作） 。"
+icSigPs2CRD2Tag,ICC配置文件标记签名：'psd2'。
+getClob,"以Java编程语言中 
+               java.sql.Clob对象的形式检索指定的JDBC 
+               CLOB参数的值。"
+typeSearchable,"表示所有 
+               WHERE搜索子句都可以基于此类型。"
+columnAdded,告诉侦听器已将列添加到模型中。
+headSet,"返回此set的部分视图，其元素小于（或等于，如果 
+               inclusive为true） 
+               toElement 。"
+getColumnCount,返回模型中的列数。
+remaining,返回当前位置和限制之间的元素数。
+resetToPreferredSizes,根据子组件的首选大小布局JSplitPane布局
+compareTo,比较此缓冲区与另一个缓冲区。
+getPrincipal,不推荐使用，要删除：此API元素将在以后的版本中删除。
+printMessage,在带注释元素的注释镜像的位置打印指定类型的消息。
+thumbnailStarted,报告缩略图读取操作正在开始。
+getName,"以 
+               Path对象的形式返回此路径的名称元素。"
+getMaxAdvance,获取此字体中任何字符的最大前进宽度
+position,设置此通道的位置。
+setBigDecimal,"将指定参数设置为给定的 
+               java.math.BigDecimal值。"
+getForeground,获取一组属性并将其转换为前景色规范。
+setOption,设置套接字选项的值。
+close,关闭输入流。
+getObject,"在Java编程语言中以 
+               Object检索参数的值。"
+setDate,"将此 
+               RowSet对象命令中的指定参数设置为给定的 
+               java.sql.Date值。"
+addSeparator,在菜单末尾追加一个新的分隔符
+getInvoker,返回作为此弹出菜单“调用者”的组件
+setNString,"将指定参数设置为给定的 
+               String对象。"
+getPixelStride,返回此组件样本模型的像素跨度
+getData,实现此接口的节点的字符数据。
+readBoolean,"读取一个输入字节，并返回 
+               true如果该字节不为零， 
+               false如果该字节是零。"
+lock,获得锁。
+icSigDeviceSettingsTag,ICC Profile Tag Signature：'devs'。
+getAttributeNS,按本地名称和名称空间URI检索属性值。
+offerLast,"插入此双端队列的末尾，如果它是立即可行且不会违反容量限制，返回指定的元素 
+               true在成功和 
+               false ，如果当前没有空间可用。"
+serialVersionUID,设置的类型指纹，表示与该类型的先前版本的序列化兼容性。
+get,"相对 
+               get方法。"
+getInternalSubset,"内部子集为字符串，如果没有则为 
+               null 。"
+iterator,以适当的顺序返回此列表中元素的迭代器。
+password,指定创建连接时要使用的密码
+write,写一个字节。
+getExtent,返回模型的范围，从模型的值开始的内部范围的长度。
+focusColor,聚焦单选按钮的颜色。
+drainTo,从该队列中删除最多给定数量的可用元素，并将它们添加到给定集合中。
+setRootPane,为此窗口设置新的根面板对象
+endResizingFrame,此方法表示调整大小会话结束。
+getBoundKeyStrokes,获取此映射中绑定到某个操作的所有击键。
+beginDraggingFrame,当用户指示他们将开始拖动组件时，通常会调用此方法。
+find,查找资源，将URI返回给模块中的资源。
+isExpanded,如果指定显示行的节点当前已展开，则返回true
+preferredLayoutSize,返回布局希望拥有的空间量
+getName,返回此类型变量的名称，因为它出现在源代码中。
+getId,返回分配给此Session的标识符。
+getScalar,获取编码为未压缩字节数组的标量值。
+setAttribute,添加新属性。
+endComposition,结束当前可能在此上下文中进行的任何输入组合。
+getTransparency,返回透明度
+splitText,"将此节点分解为指定的 
+               offset处的两个节点，将两个节点保留在树中作为兄弟节点。"
+icSigDeviceModelDescTag,ICC配置文件标记签名：'dmdd'。
+addRowSelectionInterval,提供提示，指示文本中的哪个字符应该装饰以表示助记符
+getLayeredPane,返回layeredPane。
+fireMenuKeyTyped,通知所有已注册此事件类型通知兴趣的监听器
+minusMinutes,"返回此 
+               ZonedDateTime的副本，并减去指定的分钟数。"
+beginDraggingFrame,当用户指示他们将开始拖动组件时，通常会调用此方法。
+removeActionListener,"从模型中删除 
+               ActionListener 。"
+maximizeFrame,通常，应调整框架的大小以匹配其父级边界。
+getWidth,返回width属性的值
+getYear,获取年份字段。
+isValidOffset,检查偏移日期时间是否对这些规则有效。
+chooseClientAlias,在给定公钥类型和对等方识别的证书颁发机构列表（如果有）的情况下，选择别名以对安全套接字的客户端进行身份验证。
+next,检索枚举中的下一个元素。
+getValue,返回滚动条的值
+getAppletContext,已过时。
+evaluate,"在指定的上下文中计算已编译的XPath表达式，并将结果作为 
+               String返回。"
+createAttributeNS,创建给定限定名称和名称空间URI的属性。
+thenComposeAsync,返回一个新的CompletionStage，它使用与给定函数返回的CompletionStage相同的值完成，使用此阶段的默认异步执行工具执行。
+startDocument,接收文档开头的通知。
+setURL,"将指定参数设置为给定的 
+               java.net.URL值。"
+getTileHeight,返回瓦片的高度（以像素为单位）
+getBounds2D,返回已过滤目标图像的边界框。
+members,不推荐使用，要删除：此API元素将在以后的版本中删除。
+clone,"制作此 
+               CertPathValidatorResult的副本。"
+isVisible,如果弹出窗口可见（当前正在显示），则返回true。
+lastEntry,"返回与此映射中的最大键关联的键 - 值映射，如果映射为空，则 
+               null 。"
+getDOMImplementationList,一种请求支持指定功能和版本的DOM实现列表的方法，如中所述。
+destroy,"消灭这个 
+               Object 。"
+offer,如果可以在不违反容量限制的情况下立即执行此操作，则将指定的元素插入此队列。
+applyAsInt,将此函数应用于给定的参数。
+withEarlierOffsetAtOverlap,返回此日期时间的副本，将区域偏移更改为本地时间线重叠处的两个有效偏移中较早的一个。
+getIndex,获取所表示元素内的索引。
+visitProvides,"访问 
+               提供者指令。"
+icHdrIlluminant,ICC配置文件标题位置：配置文件光源。
+supportedOptions,返回此通道支持的一组套接字选项。
+getAccessibleIndexInParent,获取此对象在其可访问父对象中的索引
+get,"相对 
+               get方法。"
+getDOMImplementation,请求支持指定功能的第一个DOM实现的方法。
+isVisible,确定对象是否可见。
+get,"相对 
+               get方法。"
+getConnection,"尝试与此 
+               DataSource对象表示的数据源建立连接。"
+isArmed,表示触发按钮的部分承诺。
+getDomConfig,"调用 
+               Document.normalizeDocument()时使用的配置。"
+maximumLayoutSize,返回布局可以使用的最大空间量
+createInputMethod,创建相应输入方法的新实例
+getOrientation,返回组件的方向横向或纵向
+getOrientation,返回此滑块的垂直或水平方向
+add,如果指定的属性值尚不存在，则将其添加到此属性集中，首先删除与指定属性值相同的属性类别中的任何现有值（可选操作）。
+flush,丢弃当前流位置之前的流的初始位置。
+getTileWidth,返回瓦片的宽度（以像素为单位）
+setNString,"将指定参数设置为给定的 
+               String对象。"
+setExtent,设置由旋钮“覆盖”的范围的大小
+computeBlit,计算blit的参数，其中后备存储图像当前在左上角包含旧位置，我们正在滚动到新位置
+setModel,"设置处理滚动条的四个基本属性的模型：minimum, maximum, value, extent"
+getCodeBase,已过时。
+toString,返回总结此缓冲区状态的字符串。
+applyToEitherAsync,返回一个新的CompletionStage，当这个或另一个给定阶段正常完成时，使用提供的执行程序执行，并将相应的结果作为所提供函数的参数。
+setPixels,将传递的整型像素的组件合并到累积数组中，并发送任何已完成像素行的平均数据
+getTileWidth,返回tile宽度（以像素为单位）。
+getDataSourceName,"检索标识此 
+               RowSet对象的数据源的逻辑名称。"
+getScrollableTracksViewportWidth,"如果视口应始终强制此 
+               Scrollable的宽度与视口的宽度匹配，则返回true。"
+treeStructureChanged,树模型结构更改通知
+releaseWritableTile,放弃写入瓦片的权限
+writeUTF,"以网络字节顺序将两个字节的长度信息写入输出流，然后是字符串 
+               s中每个字符的 
+               modified UTF-8表示。"
+setCurrentAccessibleValue,"将此对象的值设置为 
+               Number 。"
+valueUnbound,调用此方法以通知侦听器它正在从SSLSession中解除绑定。
+handleEvent,"每当发生 
+               EventListener接口注册类型的事件时，都会调用此方法。"
+addAll,如果指定集合中的所有元素尚未存在（可选操作），则将其添加到此集合中。
+isPathEditable,返回isEditable
+getChannels,获得此合成器控制的MIDI通道组。
+wrap,将双数组包装到缓冲区中。
+remove,移除指定索引处的组件
+isDataFlavorSupported,返回此对象是否支持指定的数据flavor。
+getName,返回此属性的名称。
+systemAwoke,在系统从睡眠中醒来后调用。
+getPrimitiveType,返回基本类型。
+hideWindows,关闭或隐藏此输入法实例或其类打开的所有窗口。
+hashCode,今年的哈希码。
+icSigProfileSequenceDescTag,ICC配置文件标记签名：'pseq'。
+getSize,返回列表的长度。
+identity,返回始终返回其输入参数的一元运算符。
+setRollover,设置或清除按钮的翻转状态
+removeListDataListener,从每次发生数据模型更改时通知的列表中删除侦听器。
+getEndOffset,获取突出显示的结束模型偏移量。
+warningOccurred,报告解码中出现非致命错误。
+getDeclaredAnnotations,"返回 
+               直接出现在此元素上的注释。"
+getRenderingHint,返回渲染算法的单一偏好设置的值
+pollLastEntry,"删除并返回与此映射中的最大键关联的键 - 值映射，如果映射为空，则 
+               null 。"
+equals,将指定对象与此条目进行比较以获得相等性。
+redo,重新应用编辑。
+readString,"读取流中的下一个属性并将其作为 
+               String以Java编程语言返回。"
+retainAll,仅保留此列表中包含在指定集合中的元素（可选操作）。
+showInternalConfirmDialog,返回此窗格显示的消息对象
+menuSelectionChanged,当菜单元素被选择或取消选择时由菜单选择管理器调用
+setTableName,"将指定列的表名（如果有）设置为给定的 
+               String 。"
+reset,重置此监视键。
+getAttributes,获取此元素包含的属性集合。
+require,测试当前事件是否为给定类型，以及命名空间和名称是否与当前事件的当前名称空间和名称匹配。
+fill3DrEct,用当前颜色填充一个3D高亮的矩形
+getScreenY,事件发生的垂直坐标，相对于屏幕坐标系的原点。
+writeRef,"将SQL 
+               REF值写入流。"
+superShardingKey,"指定创建连接时使用的 
+               superShardingKey"
+setRowMargin,设置相邻行之间单元格的空白空间量
+setSolo,设置此通道的独奏状态。
+contains,"如果此列表包含指定的元素，则返回 
+               true 。"
+icSigGrayTRCTag,ICC配置文件标记签名：'kTRC'。
+setShort,"将此 
+               RowSet对象命令中的指定参数设置为给定的Java 
+               short值。"
+execute,"在此 
+               PreparedStatement对象中执行SQL语句，该对象可以是任何类型的SQL语句。"
+getCommand,"检索此 
+               RowSet对象的命令属性。"
+shouldSelectCell,如果应选择编辑单元格，则返回true，否则返回false。
+getUpperBound,返回此类型变量的上限。
+getMenuKeyListeners,返回通过addMenuKeyListener添加到此JMenuItem的所有菜单键监听器的数组
+functionColumnResult,指示参数或列是结果集中的列。
+getOutline,返回一个代表此形状图形属性渲染区域的形状
+getAccessibleContext,"返回与此对象关联的 
+               AccessibleContext 。"
+putInt,"用于写入int值的绝对 
+               put方法 
+               （可选操作） 。"
+thumbnailUpdate,报告已更新缩略图图像的给定区域。
+serialVersionUID,设置为指示自J2SE 1.4以来的序列化兼容性的类指纹。
+openInputStream,返回此文件对象的InputStream。
+readAborted,"报告读取已通过阅读器的 
+               abort方法中止。"
+getDesignAxisDefaults,返回每个轴的默认设计值数组。
+isOneTouchExpandable,获取一键展开属性
+getString,返回此SQLXML实例指定的XML值的字符串表示形式。
+addPropertyChangeListener,注册PropertyChange事件的侦听器。
+setString,"将指定参数设置为给定的Java 
+               String值。"
+getData,处理指令的数据部分
+getPrinterJob,"返回控制当前呈现请求的 
+               PrinterJob 。"
+hasDynamicLocaleList,返回可用语言环境列表是否可以在运行时更改。
+getAutoResizeMode,在编辑被取消时调用
+setState,设置这个框架的状态为过时
+addSelectionRows,将每个指定行处的路径添加到当前选择中
+getLoadedInstruments,"获得当前加载到此 
+               Synthesizer上的仪器列表。"
+stopEditing,结束当前编辑会话
+getBlue,返回指定像素的蓝色色彩分量，以默认rgb颜色空间srgb中的0到255缩放
+permissions,不推荐使用，要删除：此API元素将在以后的版本中删除。
+getNewLine,要写出的XML中使用的行尾字符序列。
+getControlObject,从此输入方法返回一个控件对象，或者为null。
+isSupported,检查指定的单元是否受支持。
+visit,"访问任何指令，就像将其自身传递给该指令的 
+               accept方法并传递 
+               null作为附加参数一样。"
+logout,"注销 
+               Subject 。"
+attributeNoNulls,"表示可能不允许 
+               NULL值。"
+icSigNamedColor2Tag,ICC配置文件标记签名：'ncl2'。
+reconvert,开始重新转换操作
+nextDouble,"返回迭代中的下一个 
+               double元素。"
+chooseServerAlias,在给定公钥类型和对等方识别的证书颁发机构列表（如果有）的情况下，选择别名以对安全套接字的服务器端进行身份验证。
+removeColumn,从此JTable的列数组中移除一列
+setNClob,"将指定参数设置为 
+               java.sql.NClob对象。"
+andThen,"返回一个组合的 
+               Consumer ，它按顺序执行此操作，然后执行 
+               after操作。"
+dropActionChanged,在用户修改了放置手势时调用。
+allocate,分配一个新的浮动缓冲区。
+setSelectedItem,设置所选项目。
+toFile,返回表示此路径的File对象。
+getInitiatedClasses,"返回 
+               loader作为启动加载器的所有类的数组。"
+descendingMap,返回此映射中包含的映射的逆序视图。
+setStringData,要解析的字符串数据。
+setDate,"使用运行应用程序的虚拟机的默认时区将指定参数设置为给定的 
+               java.sql.Date值。"
+getBinaryStream,以流的形式检索此SQLXML实例指定的XML值。
+getNextValue,"返回 
+               getValue()返回的对象之后的序列中的对象。"
+isTileWritable,返回当前是否已检出磁贴以进行写入。
+getPublicId,返回XML的公共ID
+setXmlStandalone,"作为 
+               XML declaration的一部分指定此文档是否为独立的属性。"
+dispatchKeyEvent,当前的KeyboardFocusManager调用此方法，请求此KeyEventDispatcher代表它调度指定的事件。
+containsAll,"如果此集合包含指定集合的所有元素，则返回 
+               true 。"
+fireSortOrderChanged,通知监听器排序顺序已更改
+put,"绝对 
+               放法 
+               （可选操作） 。"
+join,加入多播组以开始接收从给定源地址发送到该组的数据报。
+removeAll,删除此Cookie存储中的所有Cookie。
+getProtectionParameter,获取用于保护密钥库数据的参数。
+allocate,分配一个新的短缓冲区。
+calculateAlignedPositions,创建一组偏移/跨度对，指定如何根据指定的对齐方式布置一组组件
+getInputEncoding,一种属性，指定在解析时用于此实体的编码，当它是外部解析实体时。
+adjustInto,调整指定的时间对象以具有此年 - 月。
+isAssignable,测试一种类型是否可以分配给另一种类型。
+isCachedFile,"如果此 
+               ImageInputStream缓存数据本身以允许向后搜索，则返回 
+               true ，并且缓存保存在临时文件中。"
+getElementValues,返回此批注元素的值。
+writeChars,将一系列字符写入当前位置的流。
+onSubscribe,在为给定的Subscription调用任何其他Subscriber方法之前调用的方法。
+setValueIsAdjusting,设置模型的valueIsAdjusting属性
+setDefaultAction,如果键入键，则将默认操作设置为触发。
+getArrayType,返回具有指定组件类型的数组类型。
+replaceWholeText,用指定的文本替换当前节点的文本和所有逻辑上相邻的文本节点。
+getValue,返回模型的当前值。
+parameterNullableUnknown,该常量表示参数的可为空性未知。
+setDimensions,覆盖源图像的尺寸，并将矩形裁剪区域的尺寸传递给图像消费者
+add,确保此集合包含指定的元素（可选操作）。
+getInputMethodDisplayName,以将显示名称的语言返回给定输入语言环境的相应输入方法的用户可见名称。
+contains,测试指定Point2D是的边界内Shape ，如所描述的definition of insideness 。
+menuDragMouseExited,拖动鼠标离开菜单组件的显示区域时调用。
+wrap,将双数组包装到缓冲区中。
+setCompositionEnabled,根据参数enable的值启用或禁用此输入法进行组合
+with,返回与此对象相同类型的对象，并更改指定的字段。
+getValue,在检索时，属性的值以字符串形式返回。
+columnSelectionChanged,告诉监听器TableColumnModel的选择模型已更改。
+forEachRemaining,对每个剩余元素执行给定操作，直到处理完所有元素或操作引发异常。
+visitAnnotation,访问注释中的注释值。
+apply,将此函数应用于给定的参数。
+icSigCmykData,ICC配置文件颜色空间类型签名：'CMYK'。
+readShort,"从流中读取两个字节，并（概念上）根据当前字节顺序连接它们，并将结果作为 
+               short值返回。"
+isLeaf,如果接收者是叶子，则返回true。
+openOutputStream,返回此文件对象的OutputStream。
+and,返回一个组合谓词，表示此谓词和另一个谓词的短路逻辑AND。
+write,从缓冲区写入用户定义属性的值。
+getBaseTypeName,"检索此 
+               Ref对象引用的SQL结构类型的完全限定SQL名称。"
+writeStruct,将SQL结构类型值写入流。
+forEachRemaining,对每个剩余元素执行给定操作，直到处理完所有元素或操作引发异常。
+isStartDocument,一个实用程序函数，用于检查此事件是否为StartDocument。
+getFilterInstance,为指定的图像消费者实际执行过滤的图像过滤器对象返回一个唯一实例
+minusMonths,"返回此 
+               ZonedDateTime的副本，并减去指定的月数。"
+createProcessingInstruction,"给定指定的名称和数据字符串，创建一个 
+               ProcessingInstruction节点。"
+stream,"返回以此集合为源的顺序 
+               Stream 。"
+nextTag,跳过任何无关紧要的空间事件，直到达到START_ELEMENT或END_ELEMENT。
+setCompositionEnabled,"根据参数 
+               enable的值启用或禁用此输入法进行合成。"
+allocate,分配一个新的长缓冲区。
+setAsciiStream,将指定参数设置为给定输入流，该输入流将具有指定的字节数。
+stateChanged,当侦听器的目标已更改其状态时调用。
+put,设置命名值。
+get,获取所请求单元的值。
+open,打开具有指定格式的行，使该行获取任何所需的系统资源并开始运行。
+validateInvalidComponents,验证已标记为无效的所有组件
+compact,"压缩此缓冲区 
+               （可选操作） 。"
+getBaseURI,"要使用的基URI（参见[ 
+               IETF RFC 2396 ]中的第5.1.4节），用于将相对 
+               systemId解析为绝对URI。"
+getTileGridYOffset,"返回图块网格相对于原点的Y偏移，即图块（0,0）的左上角像素的Y坐标。"
+getNCharacterStream,"以Java编程语言中 
+               java.io.Reader对象的形式检索指定参数的值。"
+skipBytes,将流位置向前移动给定的字节数。
+setCharacterAttributes,将给定属性应用于字符内容
+isRowSelected,如果指定的索引在行的有效范围内，并且该索引处的行被选中，则返回true
+getData,返回默认的第一个双精度浮点数数据数组
+importedKeySetDefault,"对于列 
+               UPDATE_RULE和 
+               DELETE_RULE ，指示如果更新或删除主键，则将外键（导入的键）设置为默认值。"
+minus,返回与此对象相同类型的对象，并减去指定的时间段。
+clearSelection,清除选择（到-1）。
+evaluateExpression,在指定的上下文中评估已编译的XPath表达式。
+getNamespaceURI,"返回集合中的 
+               index namespaceURI项。"
+accept,测试指定的抽象路径名是否应包含在路径名列表中。
+setSeparatorSize,设置分隔符的尺寸
+getNCharacterStream,"以Java编程语言中 
+               java.io.Reader对象的形式检索指定参数的值。"
+get,如果需要，最多等待计算完成的给定时间，然后检索其结果（如果可用）。
+thenRunAsync,返回一个新的CompletionStage，当此阶段正常完成时，使用此阶段的默认异步执行工具执行给定的操作。
+put,"绝对 
+               放法 
+               （可选操作） 。"
+isComponentPartOfCurrentMenu,如果c是当前使用的菜单的一部分，则返回true
+setPixels,使用一次或多次调用set pixels方法传递图像的像素
+componentMoved,当组件的位置发生变化时调用。
+setHelpMenu,设置当用户在菜单栏中选择“帮助”选项时出现的帮助菜单
+getClientAliases,在给定公钥类型和对等方识别的证书颁发机构列表（如果有）的情况下，获取用于对安全套接字的客户端进行身份验证的匹配别名。
+getCalendarType,获取日历系统的日历类型。
+createCompatibleSampleModel,创建一个具有指定宽度和高度的样本模型，其数据布局与此颜色模型兼容
+getWritableTile,检查一块瓷砖进行书写。
+loadInstrument,使特定仪器可用于合成。
+getImplementation,"处理此文档的 
+               DOMImplementation对象。"
+accept,对给定的参数执行此操作。
+getWhatToShow,"此属性确定通过 
+               NodeIterator呈现的节点类型。"
+asEndElement,将此事件作为结束元素事件返回，如果此事件不是结束元素，则可能导致类强制转换异常。
+createCompatibleDestRaster,创建具有正确大小和波段数的归零目标Raster。
+icSigMediaWhitePointTag,ICC配置文件标记签名：'wtpt'。
+visitDeclared,访问声明的类型。
+forEachRemaining,对每个剩余元素执行给定操作，直到处理完所有元素或操作引发异常。
+dragGestureRecognized,"此方法由被调用的 
+               DragGestureRecognizer当 
+               DragGestureRecognizer检测到依赖于平台的拖动启动动作。"
+windowLostFocus,当Window不再是焦点窗口时调用，这意味着键盘事件将不再传递给Window或其任何子组件。
+getElement,返回表示的元素。
+hyperlinkUpdate,更新超文本链接时调用。
+accept,测试当前状态是否是此流的一部分。
+getInputMethodDisplayName,返回给定输入区域设置的相应输入方法的用户可见名称，以显示名称的语言显示
+getParentLogger,返回此数据源使用的所有记录器的父记录器。
+groupCount,返回此匹配结果模式中的捕获组数。
+isVisible,如果弹出窗口可见（当前正在显示），则返回true。
+setSelectedItem,设置所选项目。
+createCDATASection,"创建一个 
+               CDATASection节点，其值为指定的字符串。"
+getSchemaTypeInfo,与此属性关联的类型信息。
+mouseWheelMoved,旋转鼠标滚轮时调用。
+getElem,从指定银行返回请求的数据数组元素
+vetoableChange,更改约束属性时将调用此方法。
+resolveEntity,允许应用程序解析外部实体。
+getKind,"返回此元素的 
+               kind 。"
+getPIData,获取处理指令的数据部分
+filter,将源缓冲图像进行颜色转换
+exceptionThrown,捕获可恢复的异常时调用此方法。
+allSoundOff,"立即关闭此通道上的所有发声音符，忽略保持踏板的状态和当前 
+               Instrument的内部衰减率。"
+retainAll,仅保留此集合中包含在指定集合中的元素（可选操作）。
+fatalError,接收不可恢复错误的通知。
+setQueryTimeout,将驱动程序等待语句执行的最长时间设置为给定的秒数。
+with,返回此日期时间的副本，并将指定字段设置为新值。
+treeStructureChanged,从给定节点向下，树结构发生了根本性变化后调用
+getSystemId,获取使用setSystemId设置的系统标识符。
+errorRaised,"如果在前一轮处理中引发错误，则返回true ;
+否则返回false 。"
+isBefore,检查此月 - 日是否在指定的月 - 日之前。
+readUTF,"读取使用 
+               modified UTF-8格式编码的字符串。"
+getOriginatingNode,返回发生事件的节点。
+arrayLength,反序列化类的数组时的数组元素的数量。
+icSigSpace5CLR,ICC配置文件颜色空间类型签名：'5CLR'。
+getOffsetAfter,获取转换后的偏移量。
+tryAdvance,"如果存在剩余元素，则对其执行给定操作，返回true ;
+否则返回false 。"
+free,"此方法释放 
+               Array对象并释放它所拥有的资源。"
+getCharacterElement,获取表示文档中给定偏移量处的字符的元素。
+treeStructureChanged,在树从给定节点向下彻底更改结构之后调用。
+objectAdded,添加对象时调用。
+of,返回包含五个元素的不可修改列表。
+menuSelectionChanged,实现为菜单元素，不做任何操作
+getCharacterStream,将此SQLXML实例指定的XML值检索为java.io.Reader对象。
+icSigAToB2Tag,ICC配置文件标记签名：'A2B2'。
+setInt,"将指定参数设置为给定的Java 
+               int值。"
+compare,"CharSequence字典顺序比较两个 
+               CharSequence实例。"
+hasNext,"如果迭代具有更多元素，则返回 
+               true 。"
+setLogWriter,"将此 
+               DataSource对象的日志 
+               DataSource设置为给定的 
+               java.io.PrintWriter对象。"
+listBox,JList的实例。
+asCharBuffer,将此字节缓冲区的视图创建为char缓冲区。
+getNamedItem,检索由name指定的节点。
+componentAdded,将组件添加到容器时调用。
+equals,检查此对象是否等于另一个。
+isAlphaPremultiplied,返回alpha是否已预乘
+group,返回上一个匹配操作期间给定组捕获的输入子序列。
+type,返回提供程序类型。
+getStyle,获取先前添加的命名样式。
+apply,将此函数应用于给定的参数。
+setUnitIncrement,设置单位增量属性
+getScrollableTracksViewportHeight,返回false以表示视口的高度不决定表的高度，除非树的首选高度小于视口的高度
+getInputEncoding,一种属性，指定在解析时用于此实体的编码，当它是外部解析实体时。
+editingCanceled,这告诉听众编辑器已取消编辑
+getOriginalRow,"检索 
+               ResultSet包含当前行原始值的 
+               ResultSet对象。"
+remove,删除此列表中指定位置的元素（可选操作）。
+setCharacterStream,"将指定参数设置为给定的 
+               Reader对象，该对象是给定的字符长度。"
+getOwnerElement,"如果此属性未使用，则此属性附加到 
+               Element节点或 
+               null 。"
+getClipRect,已弃用，自JDK版本1.1起，被get clip bounds替代
+initialize,已过时。
+createElementNS,创建给定限定名称和名称空间URI的元素。
+createAttribute,"创建给定名称的 
+               Attr 。"
+editorBorderInsets,边界插入。
+getAccessibleContext,获取与此JSeparator关联的可访问上下文
+ignorableWhitespace,已过时。
+drop,"当拖动操作终止时，在此监听 
+               DropTarget注册的 
+               DropTarget的放置站点的可操作部分上放下时 
+               DropTarget 。"
+setPopupSize,将弹出窗口的大小设置为指定的宽度和高度
+getIconWidth,返回图标的宽度。
+padSpaceBetweenStrings,字符串之间的空间。
+of,"获得 
+               MonthDay的实例。"
+writeFloat,"将 
+               float值写入输出流，该值由4个字节组成。"
+and,返回一个组合谓词，表示此谓词和另一个谓词的短路逻辑AND。
+put,"相对批量 
+               放置方法 
+               （可选操作） 。"
+append,"将指定的char追加到此缓冲区 
+               （可选操作） 。"
+getLoginTimeout,获取此数据源在尝试连接到数据库时可以等待的最长时间（以秒为单位）。
+setCellRenderer,设置将用于绘制每个单元格的树单元格渲染器
+setClob,"将指定参数设置为 
+               Reader对象。"
+writeEmptyElement,将空元素标记写入输出
+getFontMetrics,获取当前字体的字体度量
+of,"获得 
+               MonthDay的实例。"
+setNCharacterStream,"将指定参数设置为 
+               Reader对象。"
+getNamespaceContext,返回当前位置的只读命名空间上下文。
+showInputDialog,返回指定组件的框架
+getShort,"用于读取短值的绝对 
+               get方法。"
+getChronology,获取此日期的年表。
+getLast,检索但不删除此双端队列的最后一个元素。
+focusGained,当组件获得键盘焦点时调用。
+getOffset,获取这些规则中指定时刻适用的偏移量。
+setScale,"将指定列的小数点右边的位数设置为给定的 
+               int 。"
+getChildCount,返回子节点数量
+reset,将校验和重置为其初始值。
+asDoubleBuffer,将此字节缓冲区的视图创建为双缓冲区。
+query,使用指定的查询查询此日期时间。
+enableClientWindowNotification,启用或禁用当前客户端窗口的指定输入方法的位置和状态的通知。
+submit,提交Runnable任务以执行并返回表示该任务的Future。
+getName,符号名称。
+newThread,"构造一个新的 
+               Thread 。"
+internalFrameDeactivated,内部框架取消激活时调用。
+setTransactionIsolation,"设置此 
+               RowSet对象的事务隔离级别。"
+addCellEditorListener,向编辑器停止时通知的列表添加侦听器，或取消编辑。
+getMinTileX,返回x方向上的最小瓦片索引
+getParent,"返回接收器的父级 
+               TreeNode 。"
+getWritableTile,检查一块瓷砖进行书写。
+setBinaryStream,"将此 
+               RowSet对象命令中的指定参数设置为给定的 
+               java.io.InputStream值。"
+setMono,打开或关闭单声道模式。
+remove,如果存在此键，则从此映射中移除此键的映射（可选操作）。
+setBigDecimal,"将指定参数设置为给定的 
+               java.math.BigDecimal值。"
+removePropertyChangeListener,"从 
+               BeanContextChild删除 
+               PropertyChangeListener ，以便在更改指定的属性时不再接收 
+               PropertyChangeEvents 。"
+thenRunAsync,返回一个新的CompletionStage，当此阶段正常完成时，使用提供的Executor执行给定的操作。
+getAttributeNamespace,返回提供的索引处的属性的名称空间
+setBinaryStream,"将此 
+               RowSet对象命令中的指定参数设置为给定输入流。"
+cancel,导致订阅服务器（最终）停止接收消息。
+runAfterEitherAsync,返回一个新的CompletionStage，当此或其他给定阶段正常完成时，使用提供的执行程序执行给定的操作。
+setFloat,"将此 
+               RowSet对象命令中的指定参数设置为给定的Java 
+               float值。"
+firstKey,返回此映射中当前的第一个（最低）键。
+getAnnotations,"返回此元素上 
+               存在的注释。"
+insert,"将 
+               child添加到接收器 
+               index 。"
+getSubString,"检索此 
+               Clob对象指定的 
+               CLOB值中指定子字符串的副本。"
+getMaxCharBounds,返回指定图形上下文中最大边界字符的边界
+hasTileWriters,返回是否签出任何图块以进行写入。
+ancestorResized,调整源的祖先的大小时调用。
+getElementAt,返回指定索引处的值。
+init,"初始化此 
+               CertPathChecker的内部状态。"
+getMethodType,返回MethodType，表示此堆栈帧表示的方法的参数类型和返回类型。
+importedKeyCascade,"对于列 
+               UPDATE_RULE ，指示当更新主键时，外键（导入的键）被更改为与其一致。"
+getTypeArguments,返回此类型的实际类型参数。
+getForeground,获取此对象的前景色。
+addRowSetListener,"注册给定的侦听器，以便将通知此 
+               RowSet对象上发生的事件。"
+addAll,将指定集中的所有元素添加到此属性。
+createURLStreamHandler,"使用指定的协议创建新的 
+               URLStreamHandler实例。"
+relativize,构造此路径与给定路径之间的相对路径。
+andThen,"返回首先将此运算符应用于其输入的 
+               after运算符，然后将 
+               after运算符应用于结果。"
+getChannelPressure,获得通道的键盘压力。
+uninstallingUI,被叫通知ComboPopup UI正在卸载。
+with,返回与此对象相同类型的调整对象，并进行调整。
+putFirst,将指定元素插入此双端队列的前面，等待空间可用。
+getVendorTypeNumber,返回数据类型的供应商特定类型编号。
+thenComparing,"返回一个字典顺序比较器，其中包含一个提取 
+               Comparable排序键的函数。"
+date,从时代，年代，月份和日期字段中获取此年表中的本地日期。
+containsAll,"如果此列表包含指定集合的所有元素，则返回 
+               true 。"
+getId,获取年表的ID。
+andThen,"返回一个组合 
+               BiConsumer ，它按顺序执行此操作，然后执行 
+               after操作。"
+getMouseMotionListener,返回将添加到组合框的鼠标移动侦听器或null。
+popupMenuWillBecomeVisible,在弹出菜单变为可见之前调用此方法
+getExtent,返回模型的范围，从模型的值开始的内部范围的长度。
+icSigBToA0Tag,ICC配置文件标记签名：'B2A0'。
+getSelectionModel,返回当前选择模型。
+writeShort,"将 
+               v的16个低位写入流。"
+ancestorAdded,当通过调用setVisible（true）或将其添加到组件层次结构中使源或其祖先之一可见时调用。
+getMaxRows,"检索此 
+               RowSet对象可包含的最大行数。"
+minimizeFrame,通常，这表示应在maximizeFrame（）调用之前将帧恢复到其大小和位置。
+removeLastOccurrence,从此双端队列中删除最后一次出现的指定元素。
+internalFrameIconified,在内部框架图标化时调用。
+writeDouble,"将 
+               double值写入输出流，该值由四个字节组成。"
+compact,"压缩此缓冲区 
+               （可选操作） 。"
+getInstrument,"获取一个 
+               Instrument从给定的 
+               Patch 。"
+getDayOfMonth,获取日期字段。
+duplicate,创建一个共享此缓冲区内容的新双缓冲区。
+accept,向正在构建的流添加元素。
+getTags,如果属性值必须是一组已知标记值之一，则此方法应返回标记数组。
+read,从该通道读取一个字节序列到给定的缓冲区。
+setActionCommand,"设置触发按钮时作为 
+               ActionEvent一部分发送的操作命令字符串。"
+timeLineOrder,"获取一个比较器，按时间顺序比较 
+               ChronoLocalDateTime ，忽略年表。"
+getCursor,获取此对象的光标。
+getColumnName,返回视图中列位置column处出现的列的名称
+getDeclaredType,"返回与type元素和实际类型参数对应的类型，给定 
+               containing type作为成员。"
+getHeight,返回缓冲图像的高度
+getSelectedPath,返回当前选中菜单项的路径
+open,打开资源，返回输入流以读取模块中的资源。
+mousePressed,在组件上按下鼠标按钮时调用。
+setProcessors,设置处理器（用于注释处理）。
+getEncoding,返回输入编码（如果已知）或null（如果未知）
+isIndeterminate,返回不确定属性的值
+visitEnumConstant,"在注释中访问 
+               枚举值。"
+setDividerLocation,设置分隔符的位置
+getAccessibleContext,"返回与此对象关联的 
+               AccessibleContext 。"
+getInitialSelectionValue,返回作为初始选项显示给用户的输入值
+getUpperBounds,"返回一个 
+               Type对象的数组，表示此类型变量的上限。"
+getValue,返回当前的校验和值。
+readBinaryStream,读取流中的下一个属性并将其作为未解释的字节流返回。
+setDataElements,从原始类型的传输类型数组中设置指定数据缓冲区中单个像素的数据
+readRef,"从流中读取SQL 
+               REF值并将其作为Java编程语言中的 
+               Ref对象返回。"
+getURI,按索引查找属性的名称空间URI。
+editingStopped,这告诉听众编辑器已经结束编辑
+activate,激活控制器。
+until,"计算此日期与另一个日期之间的时间段为 
+               ChronoPeriod 。"
+getFileSystem,返回创建此对象的文件系统。
+minus,返回与此对象相同类型的对象，并减去一定量。
+loadAllInstruments,"装载到 
+               Synthesizer包含在指定的所有仪器 
+               Soundbank 。"
+endDocument,已过时。
+setMaximum,"将模型的最大值设置为 
+               newMaximum 。"
+removeFocusListener,删除指定的焦点侦听器，以便它不再从此组件接收焦点事件。
+setDefaultNamespace,将URI绑定到默认命名空间此URI绑定在当前START_ELEMENT / END_ELEMENT对的范围内。
+isAfter,检查此日期是否在指定日期之后，忽略年表。
+isDirect,判断这个长缓冲区是否是直接缓冲区。
+setProperties,在添加了指示其已运行过的过滤器流的属性后，沿着源对象的属性传递
+floor,"返回此set中小于或等于给定元素的最大元素，如果没有这样的元素，则 
+               null 。"
+getSelectedAccessibleRows,返回表中的选定行。
+createSocketImpl,"创建一个新的 
+               SocketImpl实例。"
+isDirect,判断此短缓冲区是否是直接缓冲区。
+menuCanceled,菜单取消时调用。
+evaluateExpression,在指定的上下文中评估已编译的XPath表达式。
+getAnnotationsByType,"返回与此元素 
+               关联的注释。"
+removeAll,从此集合中删除指定集合中包含的所有元素（可选操作）。
+write,从给定缓冲区的子序列向该通道写入一个字节序列。
+getFloat,"以Java编程语言中 
+               float检索指定的JDBC 
+               FLOAT参数的值。"
+add,将指定的菜单项追加到此菜单的末尾
+isSignificant,如果此编辑被认为是重要的，则返回true。
+icSigBlueColorantTag,ICC配置文件标记签名：'bXYZ'。
+getAvailableLocales,返回相应输入方法支持的语言环境。
+run,执行计算。
+setInstance,设置布局样式的共享实例
+appMovedToBackground,当应用程序成为后台应用程序并且另一个应用程序成为前台应用程序时调用。
+get,返回此属性集在给定属性类别中包含的属性值。
+getMessageType,返回消息类型
+setBoundsForFrame,这是一种原始的重塑方法。
+hashCode,返回此颜色模型的哈希码
+getDescendantToggledPaths,返回已展开且为parent的后代的树路径的枚举
+getChars,获取一系列字符并将其复制到Segment中。
+getMute,获得此通道的当前静音状态。
+typePredBasic,"表示数据类型只能用于不使用 
+               LIKE谓词的 
+               WHERE搜索子句。"
+setColumnMargin,"将 
+               TableColumn的列边距设置为 
+               newMargin 。"
+setNamedItem,"使用其 
+               nodeName属性添加节点。"
+addItemListener,"将 
+               ItemListener添加到模型中。"
+setScrollOffset,设置滚动偏移量（以像素为单位）
+removeTransformer,取消注册提供的变压器。
+isPathSelected,如果路径标识的项当前被选中，则返回true
+getPublicId,此输入源的公共标识符。
+checkClientTrusted,给定对等方提供的部分或完整证书链，构建到受信任根的证书路径，如果可以验证，则返回该证书路径，并且基于身份验证类型对客户端SSL身份验证进行信任。
+statementClosed,"当驱动程序检测到 
+               PreparedStatement已关闭时，会在连接上注册的所有 
+               StatementEventListener上调用此方法。"
+name,返回套接字选项的名称。
+getCellSelectionEnabled,如果启用了行和列选择模型，则返回true
+close,关闭此频道。
+getActualTypeArguments,"返回一个 
+               Type对象的数组，表示此类型的实际类型参数。"
+now,从指定的时钟获得当前的月 - 日。
+applyAsLong,将此函数应用于给定的参数。
+increaseButton,增加按钮。
+getValueAt,返回row和column处的单元格值
+writeCharacters,将文本写入输出
+isWrapperFor,如果这实现了接口参数，或者直接或间接地作为对象的包装器，则返回true。
+getValue,获取扩展的DER编码值。
+getMaxPolyphony,获得此合成器可同时发声的最大音符数。
+writeLong,将下一个属性作为Java long写入流中。
+asType,返回此元素定义的类型。
+getNamespaceCount,返回在此START_ELEMENT或END_ELEMENT上声明的名称空间的计数，此方法仅在START_ELEMENT，END_ELEMENT或NAMESPACE上有效。
+setUnicodeStream,"已过时。
+
+使用setCharacterStream"
+isSpecified,一个标志，指示此属性是否实际在其元素的start-tag中指定，或者是否从架构中默认。
+getHour,获取当日时间字段。
+ancestorRemoved,当源或其中一个祖先通过调用setVisible（false）或从组件层次结构中删除时，调用它。
+icSigDisplayClass,ICC配置文件类签名：'mntr'。
+getNamespaces,返回超出范围的名称空间的迭代器。
+columnAdded,跟踪表格内容变化，列插入
+setBitOffset,将位偏移设置为0到7之间的整数，包括0和7。
+disabledTextColor,禁用文本的颜色。
+treeExpanded,树模型扩展通知
+menuDragMouseDragged,在菜单组件的显示区域中拖动鼠标时调用。
+getCompletions,向工具基础结构返回一个可重复的注释建议完成。
+getLocale,返回当前输入的语言环境。
+columnMoved,告诉听众列重新定位。
+getAnnotatedOwnerType,如果此类型表示嵌套类型，则返回此类型所属的潜在注释类型。
+getSize,返回列表的长度。
+setGroup,标识按钮所属的组 - 单选按钮所需的组，它们在组内是互斥的。
+icSigAToB0Tag,ICC配置文件标记签名：'A2B0'。
+dragMouseMoved,在拖动操作期间移动鼠标时调用。
+createValue,"创建从 
+               UIDefaults表中检索的实际值。"
+identity,返回一个始终返回其输入参数的函数。
+isValidateRoot,覆盖返回true，以便对此JScrollPane的任何后代的任何调用revalidate将导致从此JScrollPane开始的整个树被验证
+setCurrentNode,TreeWalker当前所在的节点。
+showInputDialog,返回此窗格显示的图标
+setAccessibleColumnHeader,返回具有给定标题的第一个选项卡索引，如果没有选项卡具有此标题，则返回-1
+unordered,"返回等效流，即 
+               unordered 。"
+getHeight,返回RenderedImage的高度。
+getMaxDescent,确定此字体度量对象描述的字体的最大下降
+getDocumentTypeDeclaration,将整个文档类型声明作为字符串返回，包括内部DTD子集。
+getPosition,输入源中的当前位置，包括已读取的所有外部实体和其他资源。
+removeValue,删除会话的应用程序层数据中绑定到给定名称的对象。
+getIconHeight,返回图标的高度。
+getAnnotatedActualTypeArguments,返回此参数化类型的可能带注释的实际类型参数。
+readFully,"从输入流中读取一些字节并将它们存储到缓冲区阵列 
+               b 。"
+setParent,"将接收方的父级设置为 
+               newParent 。"
+markCompletelyDirty,将组件标记为完全脏
+parse,"从文本字符串（如 
+               2007-12获取 
+               YearMonth的实例。"
+getCertPath,返回构建的证书路径。
+of,返回包含六个元素的不可修改集。
+skip,重写过滤输入流跳过以在跳过后更新进度监视器
+writeBytes,将字符串写入输出流。
+setAccessibleRowHeader,返回指定选项卡组件的选项卡索引
+intervalAdded,在index0中的索引之后发送，index1间隔已插入数据模型中。
