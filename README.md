@@ -4,7 +4,7 @@ Datasets
 This repository includes two key datasets:
 # English Dataset:
 Method Names with English Functional Descriptions (Dataset of Baseline).
-# Dataset 2:
+# Chinese Dataset:
 Method Names with Chinese Functional Descriptions.
 Each dataset is crucial for training and evaluating the models to ensure they perform effectively across linguistic boundaries.
 
