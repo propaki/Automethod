@@ -1,280 +1,301 @@
-{
-  "conversations": [
-    {
-      "human": "Hello system, let's dive into some Java programming concepts today.",
-      "system": "Sounds good! I'm excited to learn more."
-    },
-    {
-      "human": "Great! Let's start with a practical exercise. Here's a functional description: 'This function takes a list of integers as input and returns the sum of all even numbers in the list.' Now, can you suggest a method name in Java for this function?",
-      "system": "Sure! Based on the description, the primary action performed by this function is to sum."
-    },    
-    {
-      "human": "Excellent! Now, what is the object or data the function is acting upon?",
-      "system": "The object or data the function is acting upon is a list of integers."
-    },    
-    {
-      "human": "Good! Now, combine the identified verb and object into a phrase.",
-      "system": "The phrase would be 'sumIntegersList'."
-    },    
-    {
-      "human": "Okay. Now, apply Java's naming convention and transform the phrase into a method name.",
-      "system": "In Java's camelCase convention, it would be 'sumIntegersList'."
-    },    
-    {
-      "human": "Lastly, assess the method name for clarity and conciseness. Does it effectively describe the function's purpose?",
-      "system": "Yes, I believe 'sumIntegersList' effectively describes the function's purpose as it clearly indicates that it's summing a list of integers."
-    },    
-    {
-      "human": "将此字节缓冲区的视图创建为短缓冲区。",
-      "system": "asShortBuffer"
-    },
-    {
-      "human": "根据给定的参数创建输入方法事件，并将其分派给客户端组件。",
-      "system": "dispatchInputMethodEvent"
-    },
-    {
-      "human": "此转换是否表示本地时间线的重叠。",
-      "system": "isOverlap"
-    },
-    {
-      "human": "使用Java编程语言中的 boolean检索JDBC BIT或 BOOLEAN参数的值。",
-      "system": "getBoolean"
-    },
-    {
-      "human": "ICC配置文件常量：保留。",
-      "system": "icTagReserved"
-    },
-    {
-      "human": "被叫通知ComboPopup UI正在卸载。",
-      "system": "uninstallingUI"
-    },
-    {
-      "human": "创建一个新的 ContentHandler以从 URLStreamHandler读取对象。",
-      "system": "createContentHandler"
-    },
-    {
-      "human": "创建一个共享此缓冲区内容的新的只读字节缓冲区。",
-      "system": "asReadOnlyBuffer"
-    },
-    {
-      "human": "当隐藏的应用程序再次显示时调用（但不一定显示在前台）。",
-      "system": "appUnhidden"
-    },
-    {
-      "human": "创建一个共享此缓冲区内容的新的只读长缓冲区。",
-      "system": "asReadOnlyBuffer"
-    },
-    {
-      "human": "从模型中删除 ItemListener。",
-      "system": "removeItemListener"
-    },
-    {
-      "human": "创建一个共享此缓冲区内容的新的只读浮点缓冲区。",
-      "system": "asReadOnlyBuffer"
-    },
-    {
-      "human": "确定指定的 ImageConsumer对象当前是否已在此 ImageProducer注册为其消费者之一。",
-      "system": "isConsumer"
-    },
-    {
-      "human": "以ascii流的 CLOB检索此 Clob对象指定的 CLOB值。",
-      "system": "getAsciiStream"
-    },
-    {
-      "human": "在指定的索引处插入指定的字符串。",
-      "system": "insertTextAtIndex"
-    },
-    {
-      "human": "检查偏移日期时间是否对这些规则有效。",
-      "system": "isValidOffset"
-    },
-    {
-      "human": "删除ActionListener",
-      "system": "removeActionListener"
-    },
-    {
-      "human": "将此字节缓冲区的视图创建为浮点缓冲区。",
-      "system": "asFloatBuffer"
-    },
-    {
-      "human": "检索JDBC的价值 FLOAT参数为 float的Java编程语言。",
-      "system": "getFloat"
-    },
-    {
-      "human": "将此事件作为结束元素事件返回，如果此事件不是结束元素，则可能导致类强制转换异常。",
-      "system": "asEndElement"
-    },
-    {
-      "human": "将序号位置 parameterIndex的OUT参数注册到JDBC类型 sqlType。",
-      "system": "registerOutParameter"
-    },
-    {
-      "human": "不推荐使用，要删除：此API元素将在以后的版本中删除。",
-      "system": "setPrincipal"
-    },
-    {
-      "human": "在Java编程语言中以 boolean检索指定的JDBC BIT或 BOOLEAN参数的值。",
-      "system": "getBoolean"
-    },
-    {
-      "human": "将命名空间写入输出流如果此方法的前缀参数为空字符串“xmlns”或null，则此方法将委托给writeDefaultNamespace",
-      "system": "writeNamespace"
-    },
-    {
-      "human": "将此事件作为start元素事件返回，如果此事件不是start元素，则可能导致类强制转换异常。",
-      "system": "asStartElement"
-    },
-    {
-      "human": "将名为 parameterName的OUT参数注册到JDBC类型 sqlType。",
-      "system": "registerOutParameter"
-    },
-    {
-      "human": "创建一个共享此缓冲区内容的新的只读char缓冲区。",
-      "system": "asReadOnlyBuffer"
-    },
-    {
-      "human": "测试一个方法的签名是否是另一个类的子签名。",
-      "system": "isSubsignature"
-    },
-    {
-      "human": "将名为 parameterName的参数注册为JDBC类型 sqlType。",
-      "system": "registerOutParameter"
-    },
-    {
-      "human": "该对象实现writeExternal方法，通过调用DataOutput的方法来保存其内容，或者为对象，字符串和数组调用ObjectOutput的writeObject方法。",
-      "system": "writeExternal"
-    },
-    {
-      "human": "确定此属性编辑器是否支持自定义编辑器。",
-      "system": "supportsCustomEditor"
-    },
-    {
-      "human": "从xml声明中获取独立声明",
-      "system": "isStandalone"
-    },
-    {
-      "human": "在系统从睡眠中醒来后调用。",
-      "system": "systemAwoke"
-    },
-    {
-      "human": "当前的KeyboardFocusManager调用此方法，请求此KeyEventDispatcher代表它调度指定的事件。",
-      "system": "dispatchKeyEvent"
-    },
-    {
-      "human": "根据详细的度量标准信息创建多主字体的新实例。",
-      "system": "deriveMMFont"
-    },
-    {
-      "human": "ICC配置文件常量：curveType计数。",
-      "system": "icCurveCount"
-    },
-    {
-      "human": "根据指定数组中包含的设计轴值创建多主字体的新实例。",
-      "system": "deriveMMFont"
-    },
-    {
-      "human": "获得 MidiDevice对象，它是这个的所有者 Transmitter。",
-      "system": "getMidiDevice"
-    },
-    {
-      "human": "获取此对象的 FontMetrics。",
-      "system": "getFontMetrics"
-    },
-    {
-      "human": "将事件调度到输入方法。",
-      "system": "dispatchEvent"
-    },
-    {
-      "human": "创建并返回能够处理来自任何支持的文档风格的数据的 PrintJob。",
-      "system": "createPrintJob"
-    },
-    {
-      "human": "当通过调用setVisible（true）或将其添加到组件层次结构中使源或其祖先之一可见时调用。",
-      "system": "ancestorAdded"
-    },
-    {
-      "human": "使用特定格式化程序从文本字符串中获取 YearMonth的实例。",
-      "system": "parse"
-    },
-    {
-      "human": "在可用变量集中查找变量。",
-      "system": "resolveVariable"
-    },
-    {
-      "human": "部分解析一个名字。",
-      "system": "resolveToClass"
-    },
-    {
-      "human": "部分解析一个名字。",
-      "system": "resolveToClass"
-    },
-    {
-      "human": "以 java.sql.Timestamp对象的形式检索JDBC TIMESTAMP参数的值。",
-      "system": "getTimestamp"
-    },
-    {
-      "human": "返回一个新的CompletionStage，当这个或另一个给定的阶段正常完成时，将执行相应的结果作为所提供函数的参数。",
-      "system": "applyToEither"
-    },
-    {
-      "human": "创建具有正确大小和波段数的归零目标Raster。",
-      "system": "createCompatibleDestRaster"
-    },
-    {
-      "human": "该对象实现了readExternal方法，通过为原始类型调用DataInput方法并为对象，字符串和数组调用readObject来恢复其内容。",
-      "system": "readExternal"
-    },
-    {
-      "human": "用于写入浮点值的相对 put方法（可选操作）。",
-      "system": "putFloat"
-    },
-    {
-      "human": "获取此对象的 FontMetrics。",
-      "system": "getFontMetrics"
-    },
-    {
-      "human": "创建一个新的 ShardingKeyBuilder实例",
-      "system": "createShardingKeyBuilder"
-    },
-    {
-      "human": "创建一个新的 PooledConnectionBuilder实例",
-      "system": "createPooledConnectionBuilder"
-    },
-    {
-      "human": "评估指定上下文中的XPath表达式。",
-      "system": "evaluateExpression"
-    },
-    {
-      "human": "评估指定上下文中的XPath表达式。",
-      "system": "evaluateExpression"
-    },
-    {
-      "human": "使用不同的时区返回此日期时间的副本，如果可能，保留本地日期时间。",
-      "system": "withZoneSameLocal"
-    },
-    {
-      "human": "使用不同的时区返回此日期时间的副本，如果可能，保留本地日期时间。",
-      "system": "withZoneSameLocal"
-    },
-    {
-      "human": "将 ItemListener添加到模型中。",
-      "system": "addItemListener"
-    },
-    {
-      "human": "创建一个共享此缓冲区内容的新的只读int缓冲区。",
-      "system": "asReadOnlyBuffer"
-    },
-    {
-      "human": "从模型中删除 ChangeListener。",
-      "system": "removeChangeListener"
-    },
-    {
-      "human": "如果接收者允许孩子，则返回true。",
-      "system": "getAllowsChildren"
-    },
-    {
-      "human": "以Java编程语言中 java.io.Reader对象的形式检索指定参数的值。",
-      "system": "getCharacterStream"
-    }
-  ]
-}
+{"messages": [{"role": "system", "content": "Marv, experienced developer, suggests clear method names based on functional descriptions, following Java naming conventions."}, {"role": "user", "content": "Selects the best text data flavor from an array of data flavors."}, {"role": "assistant", "content": "selectBestTextFlavor"}]}
+{"messages": [{"role": "user", "content": "将此字节缓冲区的视图创建为短缓冲区。"}, {"role": "assistant", "content": "asShortBuffer"}]}
+{"messages": [{"role": "user", "content": "此转换是否表示本地时间线的重叠。"}, {"role": "assistant", "content": "isOverlap"}]}
+{"messages": [{"role": "user", "content": "使用Java编程语言中的boolean检索JDBC BIT或 BOOLEAN参数的值。"}, {"role": "assistant", "content": "getBoolean"}]}
+{"messages": [{"role": "user", "content": "ICC配置文件常量：保留。"}, {"role": "assistant", "content": "icTagReserved"}]}
+{"messages": [{"role": "user", "content": "被叫通知ComboPopup UI正在卸载。"}, {"role": "assistant", "content": "uninstallingUI"}]}
+{"messages": [{"role": "user", "content": "创建一个新的ContentHandler以从URLStreamHandler读取对象。"}, {"role": "assistant", "content": "createContentHandler"}]}
+{"messages": [{"role": "user", "content": "创建一个共享此缓冲区内容的新的只读字节缓冲区。"}, {"role": "assistant", "content": "asReadOnlyBuffer"}]}
+{"messages": [{"role": "user", "content": "当隐藏的应用程序再次显示时调用（但不一定显示在前台）。"}, {"role": "assistant", "content": "appUnhidden"}]}
+{"messages": [{"role": "user", "content": "创建一个共享此缓冲区内容的新的只读长缓冲区。"}, {"role": "assistant", "content": "asReadOnlyBuffer"}]}
+{"messages": [{"role": "user", "content": "从模型中删除ItemListener。"}, {"role": "assistant", "content": "removeItemListener"}]}
+{"messages": [{"role": "user", "content": "创建一个共享此缓冲区内容的新的只读浮点缓冲区。"}, {"role": "assistant", "content": "asReadOnlyBuffer"}]}
+{"messages": [{"role": "user", "content": "确定指定的ImageConsumer对象当前是否已在此ImageProducer注册为其消费者之一。"}, {"role": "assistant", "content": "isConsumer"}]}
+{"messages": [{"role": "user", "content": "以ascii流的CLOB检索此Clob对象指定的CLOB值。"}, {"role": "assistant", "content": "getAsciiStream"}]}
+{"messages": [{"role": "user", "content": "在指定的索引处插入指定的字符串。"}, {"role": "assistant", "content": "insertTextAtIndex"}]}
+{"messages": [{"role": "user", "content": "检查偏移日期时间是否对这些规则有效。"}, {"role": "assistant", "content": "isValidOffset"}]}
+{"messages": [{"role": "user", "content": "删除ActionListener"}, {"role": "assistant", "content": "removeActionListener"}]}
+{"messages": [{"role": "user", "content": "在以指定节点为根的子TreeWalker创建新的TreeWalker。"}, {"role": "assistant", "content": "createTreeWalker"}]}
+{"messages": [{"role": "user", "content": "允许应用程序解析外部资源。"}, {"role": "assistant", "content": "resolveResource"}]}
+{"messages": [{"role": "user", "content": "将序号位置parameterIndex的OUT参数注册到JDBC类型sqlType。"}, {"role": "assistant", "content": "registerOutParameter"}]}
+{"messages": [{"role": "user", "content": "将序号位置 parameterIndex的OUT参数注册到JDBC类型 sqlType 。"}, {"role": "assistant", "content": "registerOutParameter"}]}
+{"messages": [{"role": "user", "content": "询问编辑器是否可以使用 anEvent开始编辑。"}, {"role": "assistant", "content": "isCellEditable"}]}
+{"messages": [{"role": "user", "content": "将此字节缓冲区的视图创建为浮点缓冲区。"}, {"role": "assistant", "content": "asFloatBuffer"}]}
+{"messages": [{"role": "user", "content": "检索JDBC的价值 FLOAT参数为 float的Java编程语言。"}, {"role": "assistant", "content": "getFloat"}]}
+{"messages": [{"role": "user", "content": "将此事件作为结束元素事件返回，如果此事件不是结束元素，则可能导致类强制转换异常。"}, {"role": "assistant", "content": "asEndElement"}]}
+{"messages": [{"role": "user", "content": "将序号位置 parameterIndex的参数注册为JDBC类型 sqlType 。"}, {"role": "assistant", "content": "registerOutParameter"}]}
+{"messages": [{"role": "user", "content": "不推荐使用，要删除：此API元素将在以后的版本中删除。"}, {"role": "assistant", "content": "setPrincipal"}]}
+{"messages": [{"role": "user", "content": "在Java编程语言中以 boolean检索指定的JDBC BIT或 BOOLEAN参数的值。"}, {"role": "assistant", "content": "getBoolean"}]}
+{"messages": [{"role": "user", "content": "将命名空间写入输出流如果此方法的前缀参数为空字符串“xmlns”或null，则此方法将委托给writeDefaultNamespace"}, {"role": "assistant", "content": "writeNamespace"}]}
+{"messages": [{"role": "user", "content": "将此事件作为start元素事件返回，如果此事件不是start元素，则可能导致类强制转换异常。"}, {"role": "assistant", "content": "asStartElement"}]}
+{"messages": [{"role": "user", "content": "将名为 parameterName的OUT参数注册到JDBC类型 sqlType 。"}, {"role": "assistant", "content": "registerOutParameter"}]}
+{"messages": [{"role": "user", "content": "将名为 parameterName的OUT参数注册到JDBC类型 sqlType 。"}, {"role": "assistant", "content": "registerOutParameter"}]}
+{"messages": [{"role": "user", "content": "创建一个共享此缓冲区内容的新的只读char缓冲区。"}, {"role": "assistant", "content": "asReadOnlyBuffer"}]}
+{"messages": [{"role": "user", "content": "测试一个方法的签名是否是另一个类的 子签名 。"}, {"role": "assistant", "content": "isSubsignature"}]}
+{"messages": [{"role": "user", "content": "将名为 parameterName的参数注册为JDBC类型 sqlType 。"}, {"role": "assistant", "content": "registerOutParameter"}]}
+{"messages": [{"role": "user", "content": "将名为 parameterName的参数注册为JDBC类型 sqlType 。"}, {"role": "assistant", "content": "registerOutParameter"}]}
+{"messages": [{"role": "user", "content": "该对象实现writeExternal方法，通过调用DataOutput的方法来保存其内容，或者为对象，字符串和数组调用ObjectOutput的writeObject方法。"}, {"role": "assistant", "content": "writeExternal"}]}
+{"messages": [{"role": "user", "content": "确定此属性编辑器是否支持自定义编辑器。"}, {"role": "assistant", "content": "supportsCustomEditor"}]}
+{"messages": [{"role": "user", "content": "从xml声明中获取独立声明"}, {"role": "assistant", "content": "isStandalone"}]}
+{"messages": [{"role": "user", "content": "在系统从睡眠中醒来后调用。"}, {"role": "assistant", "content": "systemAwoke"}]}
+{"messages": [{"role": "user", "content": "当前的KeyboardFocusManager调用此方法，请求此KeyEventDispatcher代表它调度指定的事件。"}, {"role": "assistant", "content": "dispatchKeyEvent"}]}
+{"messages": [{"role": "user", "content": "根据详细的度量标准信息创建多主字体的新实例。"}, {"role": "assistant", "content": "deriveMMFont"}]}
+{"messages": [{"role": "user", "content": "ICC配置文件常量：curveType计数。"}, {"role": "assistant", "content": "icCurveCount"}]}
+{"messages": [{"role": "user", "content": "根据指定数组中包含的设计轴值创建多主字体的新实例。"}, {"role": "assistant", "content": "deriveMMFont"}]}
+{"messages": [{"role": "user", "content": "获得 MidiDevice对象，它是这个的所有者 Transmitter 。"}, {"role": "assistant", "content": "getMidiDevice"}]}
+{"messages": [{"role": "user", "content": "获取此对象的 FontMetrics 。"}, {"role": "assistant", "content": "getFontMetrics"}]}
+{"messages": [{"role": "user", "content": "将事件调度到输入方法。"}, {"role": "assistant", "content": "dispatchEvent"}]}
+{"messages": [{"role": "user", "content": "创建并返回能够处理来自任何支持的文档风格的数据的 PrintJob 。"}, {"role": "assistant", "content": "createPrintJob"}]}
+{"messages": [{"role": "user", "content": "当通过调用setVisible（true）或将其添加到组件层次结构中使源或其祖先之一可见时调用。"}, {"role": "assistant", "content": "ancestorAdded"}]}
+{"messages": [{"role": "user", "content": "使用特定格式化程序从文本字符串中获取 YearMonth的实例。"}, {"role": "assistant", "content": "parse"}]}
+{"messages": [{"role": "user", "content": "在可用变量集中查找变量。"}, {"role": "assistant", "content": "resolveVariable"}]}
+{"messages": [{"role": "user", "content": "部分解析一个名字。"}, {"role": "assistant", "content": "resolveToClass"}]}
+{"messages": [{"role": "user", "content": "以 java.sql.Timestamp对象的形式检索JDBC TIMESTAMP参数的值。"}, {"role": "assistant", "content": "getTimestamp"}]}
+{"messages": [{"role": "user", "content": "返回一个新的CompletionStage，当这个或另一个给定的阶段正常完成时，将执行相应的结果作为所提供函数的参数。"}, {"role": "assistant", "content": "applyToEither"}]}
+{"messages": [{"role": "user", "content": "该对象实现了readExternal方法，通过为原始类型调用DataInput方法并为对象，字符串和数组调用readObject来恢复其内容。"}, {"role": "assistant", "content": "readExternal"}]}
+{"messages": [{"role": "user", "content": "用于写入浮点值的相对 put方法 （可选操作）。"}, {"role": "assistant", "content": "putFloat"}]}
+{"messages": [{"role": "user", "content": "PropertyEditor可以选择提供编辑其属性值的完整自定义组件。"}, {"role": "assistant", "content": "getCustomEditor"}]}
+{"messages": [{"role": "user", "content": "在此转换期间检查指定的偏移量是否有效。"}, {"role": "assistant", "content": "isValidOffset"}]}
+{"messages": [{"role": "user", "content": "检索 ResultSet含有该原始值对象 RowSet对象。"}, {"role": "assistant", "content": "getOriginal"}]}
+{"messages": [{"role": "user", "content": "读取四个输入字节并返回 float值。"}, {"role": "assistant", "content": "readFloat"}]}
+{"messages": [{"role": "user", "content": "使用给定的 Calendar对象检索指定的JDBC TIMESTAMP参数的值作为 java.sql.Timestamp对象，以构造 Timestamp对象。"}, {"role": "assistant", "content": "getTimestamp"}]}
+{"messages": [{"role": "user", "content": "检索此 RowSet对象是否为只读。"}, {"role": "assistant", "content": "isReadOnly"}]}
+{"messages": [{"role": "user", "content": "获取星期几字段，即枚举 DayOfWeek 。"}, {"role": "assistant", "content": "getDayOfWeek"}]}
+{"messages": [{"role": "user", "content": "用于写入浮点值的绝对 put方法 （可选操作）。"}, {"role": "assistant", "content": "putFloat"}]}
+{"messages": [{"role": "user", "content": "如果参数 isId是 true，则此方法将指定的属性声明为用户确定的ID属性。"}, {"role": "assistant", "content": "setIdAttribute"}]}
+{"messages": [{"role": "user", "content": "将文本写入输出"}, {"role": "assistant", "content": "writeCharacters"}]}
+{"messages": [{"role": "user", "content": "确定此 Object是否已被销毁。"}, {"role": "assistant", "content": "isDestroyed"}]}
+{"messages": [{"role": "user", "content": "返回父级中的子索引。"}, {"role": "assistant", "content": "getIndexOfChild"}]}
+{"messages": [{"role": "user", "content": "返回 true在此元素上被指定给定名称的属性或具有默认值， false否则。"}, {"role": "assistant", "content": "hasAttribute"}]}
+{"messages": [{"role": "user", "content": "获取 java.awt.Container与此相关 BeanContext 。"}, {"role": "assistant", "content": "getContainer"}]}
+{"messages": [{"role": "user", "content": "确定此doc对象将提供其打印数据的doc flavor。"}, {"role": "assistant", "content": "getDocFlavor"}]}
+{"messages": [{"role": "user", "content": "ICC配置文件标题位置：配置文件光源。"}, {"role": "assistant", "content": "icHdrIlluminant"}]}
+{"messages": [{"role": "user", "content": "允许应用程序注册DTD事件处理程序。"}, {"role": "assistant", "content": "setDTDHandler"}]}
+{"messages": [{"role": "user", "content": "以 java.sql.Timestamp对象的形式检索指定的JDBC TIMESTAMP参数的值。"}, {"role": "assistant", "content": "getTimestamp"}]}
+{"messages": [{"role": "user", "content": "已过时。\n\n使用getBigDecimal(int parameterIndex)或getBigDecimal(String parameterName)"}, {"role": "assistant", "content": "getBigDecimal"}]}
+{"messages": [{"role": "user", "content": "返回此 MonthDay的副本，并更改日期。"}, {"role": "assistant", "content": "withDayOfMonth"}]}
+{"messages": [{"role": "user", "content": "要使用的基URI（参见[ IETF RFC 2396 ]中的第5.1.4节）），用于将相对 systemId解析为绝对URI。"}, {"role": "assistant", " content": "setBaseURI"}]}
+{"messages": [{"role": "user", "content": "使用给定的 Calendar对象检索JDBC TIMESTAMP参数的值作为 java.sql.Timestamp对象，以构造 Timestamp对象。"}, {"role": "assistant", "content": "getTimestamp"}]}
+{"messages": [{"role": "user", "content": "返回 ResourceBundle.Control实例，该实例用于处理给定 baseName资源包加载。"}, {"role": "assistant", "content": "getControl"}]}
+{"messages": [{"role": "user", "content": "返回 true如果存在至少一个消费者等待经由以接收元件 BlockingQueue.take()或定时 poll 。"}, {"role": "assistant", "content": "hasWaitingConsumer"}]}
+{"messages": [{"role": "user", "content": "该常量指示参数将允许 NULL值。"}, {"role": "assistant", "content": "parameterNullable"}]}
+{"messages": [{"role": "user", "content": "为此Templates对象创建新的转换上下文。"}, {"role": "assistant", "content": "newTransformer"}]}
+{"messages": [{"role": "user", "content": "评估指定上下文中的XPath表达式。"}, {"role": "assistant", "content": "evaluateExpression"}]}
+{"messages": [{"role": "user", "content": "使用不同的时区返回此日期时间的副本，如果可能，保留本地日期时间。"}, {"role": "assistant", "content": "withZoneSameLocal"}]}
+{"messages": [{"role": "user", "content": "将 ItemListener添加到模型中。"}, {"role": "assistant", "content": "addItemListener"}]}
+{"messages": [{"role": "user", "content": "创建一个共享此缓冲区内容的新的只读int缓冲区。"}, {"role": "assistant", "content": "asReadOnlyBuffer"}]}
+{"messages": [{"role": "user", "content": "从模型中删除 ChangeListener 。"}, {"role": "assistant", "content": "removeChangeListener"}]}
+{"messages": [{"role": "user", "content": "如果接收者允许孩子，则返回true。"}, {"role": "assistant", "content": "getAllowsChildren"}]}
+{"messages": [{"role": "user", "content": "以Java编程语言中 java.io.Reader对象的形式检索指定参数的值。"}, {"role": "assistant", "content": "getCharacterStream"}]}
+{"messages": [{"role": "user", "content": "获取一个 Instrument从给定的 Patch 。"}, {"role": "assistant", "content": "getInstrument"}]}
+{"messages": [{"role": "user", "content": "将此SQLXML实例指定的XML值检索为java.io.Reader对象。"}, {"role": "assistant", "content": "getCharacterStream"}]}
+{"messages": [{"role": "user", "content": "检索由name指定的节点。"}, {"role": "assistant", "content": "getNamedItem"}]}
+{"messages": [{"role": "user", "content": "创建给定名称的 Attr 。"}, {"role": "assistant", "content": "createAttribute"}]}
+{"messages": [{"role": "user", "content": "从模型中删除 ActionListener 。"}, {"role": "assistant", "content": "removeActionListener"}]}
+{"messages": [{"role": "user", "content": "当源或其中一个祖先通过调用setVisible（false）或从组件层次结构中删除时，调用它。"}, {"role": "assistant", "content": "ancestorRemoved"}]}
+{"messages": [{"role": "user", "content": "用于检查此事件是否为属性的实用程序函数。"}, {"role": "assistant", "content": "isAttribute"}]}
+{"messages": [{"role": "user", "content": "用于写入double值的相对 put方法 （可选操作） 。"}, {"role": "assistant", "content": "putDouble"}]}
+{"messages": [{"role": "user", "content": "返回此节点的子节点上的迭代器。"}, {"role": "assistant", "content": "getChildren"}]}
+{"messages": [{"role": "user", "content": "创建初始上下文以开始名称解析。"}, {"role": "assistant", "content": "getInitialContext"}]}
+{"messages": [{"role": "user", "content": "从文本字符串（如 --12-03获取 MonthDay的实例。"}, {"role": "assistant", "content": "parse"}]}
+{"messages": [{"role": "user", "content": "返回当前的DTD处理程序。"}, {"role": "assistant", "content": "getDTDHandler"}]}
+{"messages": [{"role": "user", "content": "将此时间与时区相结合以创建 ChronoZonedDateTime 。"}, {"role": "assistant", "content": "atZone"}]}
+{"messages": [{"role": "user", "content": "检查是否支持将参数设置为特定值。"}, {"role": "assistant", "content": "canSetParameter"}]}
+{"messages": [{"role": "user", "content": "用于读取浮点值的绝对 get方法。"}, {"role": "assistant", "content": "getFloat"}]}
+{"messages": [{"role": "user", "content": "从流中读取4个字节，并（概念上）根据当前字节顺序连接它们，并将结果返回为 float 。"}, {"role": "assistant", "content": "readFloat"}]}
+{"messages": [{"role": "user", "content": "判断此缓冲区是否为只读。"}, {"role": "assistant", "content": "isReadOnly"}]}
+{"messages": [{"role": "user", "content": "在指定的上下文中评估已编译的XPath表达式。"}, {"role": "assistant", "content": "evaluateExpression"}]}
+{"messages": [{"role": "user", "content": "此方法使用单个方法调用设置所有模型的数据。"}, {"role": "assistant", "content": "setRangeProperties"}]}
+{"messages": [{"role": "user", "content": "添加在模块解析期间要考虑的根模块。"}, {"role": "assistant", "content": "addModules"}]}
+{"messages": [{"role": "user", "content": "判断此频道是否已打开。"}, {"role": "assistant", "content": "isOpen"}]}
+{"messages": [{"role": "user", "content": "用于写入double值的绝对 put方法 （可选操作） 。"}, {"role": "assistant", "content": "putDouble"}]}
+{"messages": [{"role": "user", "content": "在指定的上下文中计算已编译的XPath表达式，并使用通过 class type指定的类型返回结果。"}, {"role": "assistant", "content": "evaluateExpression"}]}
+{"messages": [{"role": "user", "content": "判断文件是否是包含不透明内容的常规文件。"}, {"role": "assistant", "content": "isRegularFile"}]}
+{"messages": [{"role": "user", "content": "获取 BeanContext与此相关 BeanContextChild 。"}, {"role": "assistant", "content": "getBeanContext"}]}
+{"messages": [{"role": "user", "content": "返回将添加到组合框的键侦听器或null。"}, {"role": "assistant", "content": "getKeyListener"}]}
+{"messages": [{"role": "user", "content": "用于检查此事件是否为字符的实用程序函数。"}, {"role": "assistant", "content": "isCharacters"}]}
+{"messages": [{"role": "user", "content": "在指定的 source的上下文中计算XPath表达式，并返回指定的结果。"}, {"role": "assistant", "content": "evaluateExpression"}]}
+{"messages": [{"role": "user", "content": "返回文件扩展名的不可变列表，通常标识以此 ScriptEngine支持的语言编写的脚本。"}, {"role": "assistant", "content": "getExtensions"}]}
+{"messages": [{"role": "user", "content": "检索一个 XAResource对象，事务管理器将使用管理这个 XAConnection在分布式事务对象的参与。"}, {"role": "assistant", "content": "getXAResource"}]}
+{"messages": [{"role": "user", "content": "在此目录中打开或创建文件，返回可搜索的字节通道以访问该文件。"}, {"role": "assistant", "content": "newByteChannel"}]}
+{"messages": [{"role": "user", "content": "对 Iterable每个元素执行给定操作，直到处理 Iterable所有元素或操作引发异常。"}, {"role": "assistant", "content": "forEach"}]}
+{"messages": [{"role": "user", "content": "允许应用程序解析外部实体。"}, {"role": "assistant", "content": "resolveEntity"}]}
+{"messages": [{"role": "user", "content": "ICC Profile Rendering Intent：Perceptual。"}, {"role": "assistant", "content": "icPerceptual"}]}
+{"messages": [{"role": "user", "content": "在指定的上下文中计算XPath表达式，并使用通过 class type指定的类型返回结果"}, {"role": "assistant", "content": "evaluateExpression"}]}
+{"messages": [{"role": "user", "content": "不推荐使用，要删除：此API元素将在以后的版本中删除。"}, {"role": "assistant", "content": "isMember"}]}
+{"messages": [{"role": "user", "content": "返回将从此流中读取数据值的字节顺序，作为 java.nio.ByteOrder枚举的实例。"}, {"role": "assistant", "content": "getByteOrder"}]}
+{"messages": [{"role": "user", "content": "获得合成器的默认音库（如果存在）。"}, {"role": "assistant", "content": "getDefaultSoundbank"}]}
+{"messages": [{"role": "user", "content": "检索JDBC的价值 DOUBLE参数为 double的Java编程语言。"}, {"role": "assistant", "content": "getDouble"}]}
+{"messages": [{"role": "user", "content": "访问交叉点类型。"}, {"role": "assistant", "content": "visitIntersection"}]}
+{"messages": [{"role": "user", "content": "在月底返回 LocalDate 。"}, {"role": "assistant", "content": "atEndOfMonth"}]}
+{"messages": [{"role": "user", "content": "将此日期时间转换为 Instant 。"}, {"role": "assistant", "content": "toInstant"}]}
+{"messages": [{"role": "user", "content": "将名称解析为其组件。"}, {"role": "assistant", "content": "parse"}]}
+{"messages": [{"role": "user", "content": "测试一种类型是否可以分配给另一种类型。"}, {"role": "assistant", "content": "isAssignable"}]}
+{"messages": [{"role": "user", "content": "接收不可恢复错误的通知。"}, {"role": "assistant", "content": "fatalError"}]}
+{"messages": [{"role": "user", "content": "对于列 UPDATE_RULE ，指示如果主键已由另一个表作为外键导入，则可能不会更新主键。"}, {"role": "assistant", "content": "importedKeyRestrict"}]}
+{"messages": [{"role": "user", "content": "此方法允许将事件分派到实现事件模型中。"}, {"role": "assistant", "content": "dispatchEvent"}]}
+{"messages": [{"role": "user", "content": "返回此 YearMonth的副本，并添加指定的月份数。"}, {"role": "assistant", "content": "plusMonths"}]}
+{"messages": [{"role": "user", "content": "返回创建此对象的文件系统。"}, {"role": "assistant", "content": "getFileSystem"}]}
+{"messages": [{"role": "user", "content": "指示 Source对象是否为空。"}, {"role": "assistant", "content": "isEmpty"}]}
+{"messages": [{"role": "user", "content": "将此 RowSet对象命令中的指定参数设置为给定的Java float值。"}, {"role": "assistant", "content": "setFloat"}]}
+{"messages": [{"role": "user", "content": "检索 ResultSet包含当前行原始值的 ResultSet对象。"}, {"role": "assistant", "content": "getOriginalRow"}]}
+{"messages": [{"role": "user", "content": "使布局无效，表明如果布局管理器缓存了信息，则应将其丢弃。"}, {"role": "assistant", "content": "invalidateLayout"}]}
+{"messages": [{"role": "user", "content": "访问NoType实例。"}, {"role": "assistant", "content": "visitNoType"}]}
+{"messages": [{"role": "user", "content": "iconOnly价值。"}, {"role": "assistant", "content": "iconOnly"}]}
+{"messages": [{"role": "user", "content": "访问可执行类型。"}, {"role": "assistant", "content": "visitExecutable"}]}
+{"messages": [{"role": "user", "content": "检索JDBC的价值 SMALLINT参数为 short的Java编程语言。"}, {"role": "assistant", "content": "getShort"}]}
+{"messages": [{"role": "user", "content": "读取一个输入字节，并返回 true如果该字节不为零， false如果该字节是零。"}, {"role": "assistant", "content": "readBoolean"}]}
+{"messages": [{"role": "user", "content": "实现XMLResolver 。"}, {"role": "assistant", "content": "resolveEntity"}]}
+{"messages": [{"role": "user", "content": "表示可能不允许 NULL值。"}, {"role": "assistant", "content": "attributeNoNulls"}]}
+{"messages": [{"role": "user", "content": "打开或关闭全向模式。"}, {"role": "assistant", "content": "setOmni"}]}
+{"messages": [{"role": "user", "content": "返回一个Iterator ，它遍历此枚举所涵盖的其余元素。"}, {"role": "assistant", "content": "asIterator"}]}
+{"messages": [{"role": "user", "content": "报告此驱动程序是否是真正的JDBC Compliant™驱动程序。"}, {"role": "assistant", "content": "jdbcCompliant"}]}
+{"messages": [{"role": "user", "content": "设置插入符的可见性。"}, {"role": "assistant", "content": "setVisible"}]}
+{"messages": [{"role": "user", "content": "该常量指示列不允许 NULL值。"}, {"role": "assistant", "content": "columnNoNulls"}]}
+{"messages": [{"role": "user", "content": "遵守 Object.hashCode的总合同。"}, {"role": "assistant", "content": "hashCode"}]}
+{"messages": [{"role": "user", "content": "从区域设置获得 Chronology的
+{"messages": [{"role": "user", "content": "不推荐使用，要删除：此API元素将在以后的版本中删除。"}, {"role": "assistant", "content": "getGuarantor"}]}
+{"messages": [{"role": "user", "content": "重新制作乐器。"}, {"role": "assistant", "content": "remapInstrument"}]}
+{"messages": [{"role": "user", "content": "检索 Connection传递给该对象 RowSet对象。"}, {"role": "assistant", "content": "getConnection"}]}
+{"messages": [{"role": "user", "content": "删除两个索引之间的文本。"}, {"role": "assistant", "content": "delete"}]}
+{"messages": [{"role": "user", "content": "ICC配置文件头位置：各种位设置。"}, {"role": "assistant", "content": "icHdrFlags"}]}
+{"messages": [{"role": "user", "content": "获取一个空的AttributeSet。"}, {"role": "assistant", "content": "getEmptySet"}]}
+{"messages": [{"role": "user", "content": "如果此 ImageInputStream缓存数据本身以允许向后搜索，则返回 true ，并且缓存保存在临时文件中。"}, {"role": "assistant", "content": "isCachedFile"}]}
+{"messages": [{"role": "user", "content": "读取double值的相对 get方法。"}, {"role": "assistant", "content": "getDouble"}]}
+{"messages": [{"role": "user", "content": "以 java.math.BigDecimal对象的形式检索JDBC NUMERIC参数的值，该值包含小数点右侧的位数。"}, {"role": "assistant", "content": "getBigDecimal"}]}
+{"messages": [{"role": "user", "content": "以流的形式检索此SQLXML实例指定的XML值。"}, {"role": "assistant", "content": "getBinaryStream"}]}
+{"messages": [{"role": "user", "content": "设置对象的可见状态。"}, {"role": "assistant", "content": "setVisible"}]}
+{"messages": [{"role": "user", "content": "在给定公钥类型和对等方识别的证书颁发机构列表（如果有）的情况下，获取用于对安全套接字的客户端进行身份验证的匹配别名。"}, {"role": "assistant", "content": "getClientAliases"}]}
+{"messages": [{"role": "user", "content": "此方法返回 Insets描述相对于实现Component的几何的自动滚动区域或边框。"}, {"role": "assistant", "content": "getAutoscrollInsets"}]}
+{"messages": [{"role": "user", "content": "移动源或其祖先之一时调用。"}, {"role": "assistant", "content": "ancestorMoved"}]}
+{"messages": [{"role": "user", "content": "该 initMouseEvent方法用于初始化的值 MouseEvent通过创建 DocumentEvent接口。"}, {"role": "assistant", "content": "initMouseEvent"}]}
+{"messages": [{"role": "user", "content": "返回此 ZonedDateTime的副本，并更改了分钟。"}, {"role": "assistant", "content": "withMinute"}]}
+{"messages": [{"role": "user", "content": "创建相应输入方法的新实例。"}, {"role": "assistant", "content": "createInputMethod"}]}
+{"messages": [{"role": "user", "content": "测试是否可以使用 redefineModule修改模块。"}, {"role": "assistant", "content": "isModifiableModule"}]}
+{"messages": [{"role": "user", "content": "不推荐使用，要删除：此API元素将在以后的版本中删除。"}, {"role": "assistant", "content": "isOwner"}]}
+{"messages": [{"role": "user", "content": "指定创建连接时使用的 shardingKey"}, {"role": "assistant", "content": "shardingKey"}]}
+{"messages": [{"role": "user", "content": "指定创建连接时使用的 shardingKey"}, {"role": "assistant", "content": "shardingKey"}]}
+{"messages": [{"role": "user", "content": "返回指定键映射到的值，如果此映射不包含键的映射，则返回 defaultValue 。"}, {"role": "assistant", "content": "getOrDefault"}]}
+{"messages": [{"role": "user", "content": "返回相应输入方法支持的语言环境。"}, {"role": "assistant", "content": "getAvailableLocales"}]}
+{"messages": [{"role": "user", "content": "JComboBox的实例。"}, {"role": "assistant", "content": "comboBox"}]}
+{"messages": [{"role": "user", "content": "创建一个空的 DocumentType节点。"}, {"role": "assistant", "content": "createDocumentType"}]}
+{"messages": [{"role": "user", "content": "获得 string命名提供音库的公司。"}, {"role": "assistant", "content": "getVendor"}]}
+{"messages": [{"role": "user", "content": "指定创建连接时要使用的 superShardingKey"}, {"role": "assistant", "content": "superShardingKey"}]}
+{"messages": [{"role": "user", "content": "读取流中的下一个属性并将其作为 boolean以Java编程语言返回。"}, {"role": "assistant", "content": "readBoolean"}]}
+{"messages": [{"role": "user", "content": "通常，请指示此框架已失去焦点。"}, {"role": "assistant", "content": "deactivateFrame"}]}
+{"messages": [{"role": "user", "content": "获取从给定父元素中删除的子元素。"}, {"role": "assistant", "content": "getChildrenRemoved"}]}
+{"messages": [{"role": "user", "content": "ICC配置文件标题位置：主要平台。"}, {"role": "assistant", "content": "icHdrPlatform"}]}
+{"messages": [{"role": "user", "content": "指示最佳行标识符的范围是非常临时的，仅在使用行时持久。"}, {"role": "assistant", "content": "bestRowTemporary"}]}
+{"messages": [{"role": "user", "content": "将下一个属性作为java.sql.Timestamp对象写入流中。"}, {"role": "assistant", "content": "writeTimestamp"}]}
+{"messages": [{"role": "user", "content": "测试两个 TypeMirror对象是否表示相同的类型。"}, {"role": "assistant", "content": "isSameType"}]}
+{"messages": [{"role": "user", "content": "在发布者或订阅服务器遇到不可恢复的错误时调用的方法，之后订阅服务器不会调用其他订阅服务器方法。"}, {"role": "assistant", "content": "onError"}]}
+{"messages": [{"role": "user", "content": "以流的 BLOB检索此 Blob实例指定的 BLOB值。"}, {"role": "assistant", "content": "getBinaryStream"}]}
+{"messages": [{"role": "user", "content": "RowSorter发生变化的通知。"}, {"role": "assistant", "content": "sorterChanged"}]}
+{"messages": [{"role": "user", "content": "通常，应调整框架的大小以匹配其父级边界。"}, {"role": "assistant", "content": "maximizeFrame"}]}
+{"messages": [{"role": "user", "content": "检查每月的日期是否有效。"}, {"role": "assistant", "content": "isValidDay"}]}
+{"messages": [{"role": "user", "content": "这个方法指示bean可以使用Gui。"}, {"role": "assistant", "content": "okToUseGui"}]}
+{"messages": [{"role": "user", "content": "在给定公钥类型和对等方识别的证书颁发机构列表（如果有）的情况下，获取用于验证安全套接字的服务器端的匹配别名。"}, {"role": "assistant", "content": "getServerAliases"}]}
+{"messages": [{"role": "user", "content": "对于列 UPDATE_RULE ，指示当更新主键时，外键（导入的键）被更改为与其一致。"}, {"role": "assistant", "content": "importedKeyCascade"}]}
+{"messages": [{"role": "user", "content": "用于读取double值的绝对 get方法。"}, {"role": "assistant", "content": "getDouble"}]}
+{"messages": [{"role": "user", "content": "确定对象是否可见。"}, {"role": "assistant", "content": "isVisible"}]}
+{"messages": [{"role": "user", "content": "返回当前内容处理程序。"}, {"role": "assistant", "content": "getContentHandler"}]}
+{"messages": [{"role": "user", "content": "将模型的最大值设置为 newMaximum 。"}, {"role": "assistant", "content": "setMaximum"}]}
+{"messages": [{"role": "user", "content": "返回一个空值友好的比较器， null视为小于非null。"}, {"role": "assistant", "content": "nullsFirst"}]}
+{"messages": [{"role": "user", "content": "导致当前线程等待，直到发出信号或中断，或者指定的截止时间过去。"}, {"role": "assistant", "content": "awaitUntil"}]}
+{"messages": [{"role": "user", "content": "使用给定的选项卡扩展实现时确定所需的跨度。"}, {"role": "assistant", "content": "getTabbedSpan"}]}
+{"messages": [{"role": "user", "content": "编译脚本（源读取自 Reader ）以供稍后执行。"}, {"role": "assistant", "content": "compile"}]}
+{"messages": [{"role": "user", "content": "从JTextComponent的界面中删除UI时调用。"}, {"role": "assistant", "content": "deinstall"}]}
+{"messages": [{"role": "user", "content": "删除此文件对象。"}, {"role": "assistant", "content": "delete"}]}
+{"messages": [{"role": "user", "content": "此方法返回一个专用对象，该对象实现指定功能和版本的专用API，如 DOM Features中所述 。"}, {"role": "assistant", "content": "getFeature"}]}
+{"messages": [{"role": "user", "content": "将下一个属性作为ASCII字符流写入流中。"}, {"role": "assistant", "content": "writeAsciiStream"}]}
+{"messages": [{"role": "user", "content": "返回此 ZonedDateTime的副本，并添加指定的秒数。"}, {"role": "assistant", "content": "plusSeconds"}]}
+{"messages": [{"role": "user", "content": "使用不同的时区返回此日期时间的副本，保留该瞬间。"}, {"role": "assistant", "content": "withZoneSameInstant"}]}
+{"messages": [{"role": "user", "content": "此 Document的默认 AbstractView Document ，如果没有， null 。"}, {"role": "assistant", "content": "getDefaultView"}]}
+{"messages": [{"role": "user", "content": "创建一个共享此缓冲区内容的新双缓冲区。"}, {"role": "assistant", "content": "duplicate"}]}
+{"messages": [{"role": "user", "content": "返回定位 系统模块的模块查找器。"}, {"role": "assistant", "content": "ofSystem"}]}
+{"messages": [{"role": "user", "content": "如果指定键的值存在且为非null，则尝试在给定键及其当前映射值的情况下计算新映射。"}, {"role": "assistant", "content": "computeIfPresent"}]}
+{"messages": [{"role": "user", "content": "将此字节缓冲区的视图创建为int缓冲区。"}, {"role": "assistant", "content": "asIntBuffer"}]}
+{"messages": [{"role": "user", "content": "返回对元素的第一个子节点的引用，该节点是Element类型。"}, {"role": "assistant", "content": "getFirstElementChild"}]}
+{"messages": [{"role": "user", "content": "当系统即将睡觉时调用。"}, {"role": "assistant", "content": "systemAboutToSleep"}]}
+{"messages": [{"role": "user", "content": "返回一个新实例，此期间的每个金额都被否定。"}, {"role": "assistant", "content": "negated"}]}
+{"messages": [{"role": "user", "content": "访问 提供者指令。"}, {"role": "assistant", "content": "visitProvides"}]}
+{"messages": [{"role": "user", "content": "判断文件是否不是常规文件，目录或符号链接。"}, {"role": "assistant", "content": "isOther"}]}
+{"messages": [{"role": "user", "content": "以Java编程语言中 double检索指定的JDBC DOUBLE参数的值。"}, {"role": "assistant", "content": "getDouble"}]}
+{"messages": [{"role": "user", "content": "返回 Accessible子 Accessible （如果存在），包含在本地坐标 Point 。"}, {"role": "assistant", "content": "getAccessibleAt"}]}
+{"messages": [{"role": "user", "content": "将此 RowSet对象命令中的指定参数设置为给定的Java boolean值。"}, {"role": "assistant", "content": "setBoolean"}]}
+{"messages": [{"role": "user", "content": "返回此 ZonedDateTime的副本，并更改日期。"}, {"role": "assistant", "content": "withDayOfYear"}]}
+{"messages": [{"role": "user", "content": "返回表中行和列的索引。"}, {"role": "assistant", "content": "getAccessibleIndex"}]}
+{"messages": [{"role": "user", "content": "使用提供的formatter格式化对象。"}, {"role": "assistant", "content": "formatTo"}]}
+{"messages": [{"role": "user", "content": "返回tile宽度（以像素为单位）。"}, {"role": "assistant", "content": "getTileWidth"}]}
+{"messages": [{"role": "user", "content": "创建一个共享此缓冲区内容的新浮点缓冲区。"}, {"role": "assistant", "content": "duplicate"}]}
+{"messages": [{"role": "user", "content": "返回当前事件的前缀，如果事件没有前缀，则返回null"}, {"role": "assistant", "content": "getPrefix"}]}
+{"messages": [{"role": "user", "content": "返回SSL密码套件的名称，该密码套件用于会话中的所有连接。"}, {"role": "assistant", "content": "getCipherSuite"}]}
+{"messages": [{"role": "user", "content": "报告此上下文中当前是否提供给定服务。"}, {"role": "assistant", "content": "hasService"}]}
+{"messages": [{"role": "user", "content": "读取短值的相对 get方法。"}, {"role": "assistant", "content": "getShort"}]}
+{"messages": [{"role": "user", "content": "返回此属性的QName"}, {"role": "assistant", "content": "getName"}]}
+{"messages": [{"role": "user", "content": "返回此 ZonedDateTime的副本，并在第二分钟更改。"}, {"role": "assistant", "content": "withSecond"}]}
+{"messages": [{"role": "user", "content": "设置用于给定位置的段落的逻辑样式。"}, {"role": "assistant", "content": "setLogicalStyle"}]}
+{"messages": [{"role": "user", "content": "创建并返回一个 Connection对象，该对象是此 PooledConnection对象表示的物理连接的句柄。"}, {"role": "assistant", "content": "getConnection"}]}
+{"messages": [{"role": "user", "content": "创建一个共享此缓冲区内容的新长缓冲区。"}, {"role": "assistant", "content": "duplicate"}]}
+{"messages": [{"role": "user", "content": "注册指定的输出参数。"}, {"role": "assistant", "content": "registerOutParameter"}]}
+{"messages": [{"role": "user", "content": "创建一个共享此缓冲区内容的新短缓冲区。"}, {"role": "assistant", "content": "duplicate"}]}
+{"messages": [{"role": "user", "content": "BeanContext和 BeanContextServices实现器使用此全局锁来序列化 BeanContext层次结构中的更改以及任何服务请求等。"}, {"role": "assistant", "content": "globalHierarchyLock"}]}
+{"messages": [{"role": "user", "content": "通常，这表示应在maximizeFrame（）调用之前将帧恢复到其大小和位置。"}, {"role": "assistant", "content": "minimizeFrame"}]}
+{"messages": [{"role": "user", "content": "将 ChangeListener添加到模型中。"}, {"role": "assistant", "content": "addChangeListener"}]}
+{"messages": [{"role": "user", "content": "尝试通过publicId在目录中查找匹配的条目。"}, {"role": "assistant", "content": "matchPublic"}]}
+{"messages": [{"role": "user", "content": "在为给定的Subscription调用任何其他Subscriber方法之前调用的方法。"}, {"role": "assistant", "content": "onSubscribe"}]}
+{"messages": [{"role": "user", "content": "如果应选择编辑单元格，则返回true，否则返回false。"}, {"role": "assistant", "content": "shouldSelectCell"}]}
+{"messages": [{"role": "user", "content": "表示最佳行标识符可能是也可能不是伪列。"}, {"role": "assistant", "content": "bestRowUnknown"}]}
+{"messages": [{"role": "user", "content": "当该元素被视为给定类型的成员或以其他方式直接包含时，返回该元素的类型。"}, {"role": "assistant", "content": "asMemberOf"}]}
+{"messages": [{"role": "user", "content": "返回由此日期表示的年份长度，由日历系统定义。"}, {"role": "assistant", "content": "lengthOfYear"}]}
+{"messages": [{"role": "user", "content": "设置处理器（用于注释处理）。"}, {"role": "assistant", "content": "setProcessors"}]}
+{"messages": [{"role": "user", "content": "ICC配置文件标题位置：配置文件创建者。"}, {"role": "assistant", "content": "icHdrCreator"}]}
+{"messages": [{"role": "user", "content": "使用给定的 Calendar对象将指定参数设置为给定的 java.sql.Timestamp值。"}, {"role": "assistant", "content": "setTimestamp"}]}
+{"messages": [{"role": "user", "content": "当从菜单选择中添加或删除 MenuSelectionManager时，请 MenuElement 。"}, {"role": "assistant", "content": "menuSelectionChanged"}]}
+{"messages": [{"role": "user", "content": "创建一个共享此缓冲区内容的新字节缓冲区。"}, {"role": "assistant", "content": "duplicate"}]}
+{"messages": [{"role": "user", "content": "通知 Component进行自动滚动"}, {"role": "assistant", "content": "autoscroll"}]}
+{"messages": [{"role": "user", "content": "将给定的路径字符串转换为 Path并按照 resolveSibling方法指定的方式将其解析为此路径的 parent路径。"}, {"role": "assistant", "content": "resolveSibling"}]}
+{"messages": [{"role": "user", "content": "检索用于将Ascii字符写入此 Clob对象表示的 CLOB值的流，从位置 pos开始。"}, {"role": "assistant", "content": "setAsciiStream"}]}
+{"messages": [{"role": "user", "content": "检查此期间的所有受支持单位是否为零。"}, {"role": "assistant", "content": "isZero"}]}
+{"messages": [{"role": "user", "content": "重新应用编辑。"}, {"role": "assistant", "content": "redo"}]}
+{"messages": [{"role": "user", "content": "通知已注册的侦听器 RowSet对象的光标已移动。"}, {"role": "assistant", "content": "cursorMoved"}]}
+{"messages": [{"role": "user", "content": "测试类是否可由 retransformation或 redefinition修改。"}, {"role": "assistant", "content": "isModifiableClass"}]}
+{"messages": [{"role": "user", "content": "使用银行和程序（补丁）号码更改程序。"}, {"role": "assistant", "content": "programChange"}]}
+{"messages": [{"role": "user", "content": "将这个月和一年结合起来创建一个 LocalDate 。"}, {"role": "assistant", "content": "atYear"}]}
+{"messages": [{"role": "user", "content": "解析在解析期间将 ChronoField值解析为日期。"}, {"role": "assistant", "content": "resolveDate"}]}
+{"messages": [{"role": "user", "content": "检索但不删除此双端队列的第一个元素。"}, {"role": "assistant", "content": "getFirst"}]}
+{"messages": [{"role": "user", "content": "将位偏移设置为0到7之间的整数，包括0和7。"}, {"role": "assistant", "content": "setBitOffset"}]}
+{"messages": [{"role": "user", "content": "所述 DOMConfiguration使用由对象 LSSerializer序列化DOM节点时。"}, {"role": "assistant", "content": "getDomConfig"}]}
+{"messages": [{"role": "user", "content": "如果弹出窗口可见（当前正在显示），则返回true。"}, {"role": "assistant", "content": "isVisible"}]}
+{"messages": [{"role": "user", "content": "从该流读取一个字节，并返回一个 boolean的值 true如果是非零， false ，如果它是零。"}, {"role": "assistant", "content": "readBoolean"}]}
+{"messages": [{"role": "user", "content": "此方法指示bean不应使用Gui。"}, {"role": "assistant", "content": "dontUseGui"}]}
+{"messages": [{"role": "user", "content": "如果 rowIndex和 columnIndex处的单元格是可编辑的，则返回true。"}, {"role": "assistant", "content": "isCellEditable"}]}
+{"messages": [{"role": "user", "content": "对此映射中的每个条目执行给定操作，直到处理完所有条目或操作引发异常。"}, {"role": "assistant", "content": "forEach"}]}
+{"messages": [{"role": "user", "content": "重新定义模块以展开它读取的模块集，它导出或打开的软件包集，或它使用或提供的服务。"}, {"role": "assistant", "content": "redefineModule"}]}
+{"messages": [{"role": "user", "content": "释放密钥时调用。"}, {"role": "assistant", "content": "keyReleased"}]}
+{"messages": [{"role": "user", "content": "返回具有指定组件类型的数组类型。"}, {"role": "assistant", "content": "getArrayType"}]}
+{"messages": [{"role": "user", "content": "创建给定限定名称和名称空间URI的元素。"}, {"role": "assistant", "content": "createElementNS"}]}
+{"messages": [{"role": "user", "content": "在逻辑样式层次结构中添加新样式。"}, {"role": "assistant", "content": "addStyle"}]}
+{"messages": [{"role": "user", "content": "返回给定包名称和语言环境的 ResourceBundle 。"}, {"role": "assistant", "content": "getBundle
+{"messages": [{"role": "user", "content": "返回 Code属性的代码数组的索引，该属性包含此堆栈帧表示的执行点。"}, {"role": "assistant", "content": "getByteCodeIndex"}]}
+{"messages": [{"role": "user", "content": "检查此字段是否表示日期的组成部分。"}, {"role": "assistant", "content": "isDateBased"}]}
+{"messages": [{"role": "user", "content": "以Java编程语言中 short检索指定的JDBC SMALLINT参数的值。"}, {"role": "assistant", "content": "getShort"}]}
+{"messages": [{"role": "user", "content": "当系统显示从省电睡眠中唤醒时调用。"}, {"role": "assistant", "content": "screenAwoke"}]}
+{"messages": [{"role": "user", "content": "使用其 nodeName属性添加节点。"}, {"role": "assistant", "content": "setNamedItem"}]}
+{"messages": [{"role": "user", "content": "返回要将包导出到的特定模块，如果将包导出到所有对此模块具有可读性的模块，则返回null。"}, {"role": "assistant", "content": "getTargetModules"}]}
+{"messages": [{"role": "user", "content": "该方法一个可能的返回值 DatabaseMetaData.getSQLStateType ，其用于指示该方法返回的值是否 SQLException.getSQLState是X /打开（现在知道的公开组）SQL CLI SQLSTATE值。"}, {"role": "assistant", "content": "sqlStateXOpen"}]}
+{"messages": [{"role": "user", "content": "获取绑定到当前作用域中的Namespace URI的所有前缀。"}, {"role": "assistant", "content": "getPrefixes"}]}
+{"messages": [{"role": "user", "content": "获取结果。"}, {"role": "assistant", "content": "getAsBoolean"}]}
+{"messages": [{"role": "user", "content": "在index0中的索引之后发送，index1间隔已从数据模型中删除。"}, {"role": "assistant", "content": "intervalRemoved"}]}
+{"messages": [{"role": "user", "content": "使用给定的 java.sql.Timestamp值设置此 RowSet对象命令中的指定参数。"}, {"role": "assistant", "content": "setTimestamp"}]}
+{"messages": [{"role": "user", "content": "将指定参数设置为给定的Java float值。"}, {"role": "assistant", "content": "setFloat"}]}
+{"messages": [{"role": "user", "content": "确定插入符号当前是否可见。"}, {"role": "assistant", "content": "isVisible"}]}
+{"messages": [{"role": "user", "content": "返回一个包含此事件中字符的数组。"}, {"role": "assistant", "content": "getTextCharacters"}]}
+{"messages": [{"role": "user", "content": "从实现此接口的对象中检索 Control的数组。"}, {"role": "assistant", "content": "getControls"}]}
+{"messages": [{"role": "user", "content": "以Java编程语言中 java.io.Reader对象的形式检索指定参数的值。"}, {"role": "assistant", "content": "getNCharacterStream"}]}
+{"messages": [{"role": "user", "content": "将指定列的SQL类型设置为给定的类型。"}, {"role": "assistant", "content": "setColumnType"}]}
+{"messages": [{"role": "user", "content": "获取与此处理程序关联的 Transformer ，这是设置参数和输出属性所必需的。"}, {"role": "assistant", "content": "getTransformer"}]}
+{"messages": [{"role": "user", "content": "返回将添加到组合框的鼠标侦听器或null。"}, {"role": "assistant", "content": "getMouseListener"}]}
+{"messages": [{"role": "user", "content": "只要树中的项目已折叠，就会调用此方法。"}, {"role": "assistant", "content": "treeCollapsed"}]}
+
+
