@@ -1,0 +1,187 @@
+Description,Method
+将此字节缓冲区的视图创建为短缓冲区。,asShortBuffer
+根据给定的参数创建输入方法事件，并将其分派给客户端组件。,dispatchInputMethodEvent
+此转换是否表示本地时间线的重叠。,isOverlap
+"使用Java编程语言中的 
+               boolean检索JDBC 
+               BIT或 
+               BOOLEAN参数的值。",getBoolean
+ICC配置文件常量：保留。,icTagReserved
+被叫通知ComboPopup UI正在卸载。,uninstallingUI
+"创建一个新的 
+               ContentHandler以从 
+               URLStreamHandler读取对象。",createContentHandler
+创建一个共享此缓冲区内容的新的只读字节缓冲区。,asReadOnlyBuffer
+当隐藏的应用程序再次显示时调用（但不一定显示在前台）。,appUnhidden
+创建一个共享此缓冲区内容的新的只读长缓冲区。,asReadOnlyBuffer
+"从模型中删除 
+               ItemListener 。",removeItemListener
+创建一个共享此缓冲区内容的新的只读浮点缓冲区。,asReadOnlyBuffer
+"确定指定的 
+               ImageConsumer对象当前是否已在此 
+               ImageProducer注册为其消费者之一。",isConsumer
+"以ascii流的 
+               CLOB检索此 
+               Clob对象指定的 
+               CLOB值。",getAsciiStream
+在指定的索引处插入指定的字符串。,insertTextAtIndex
+检查偏移日期时间是否对这些规则有效。,isValidOffset
+删除ActionListener,removeActionListener
+"在以指定节点为根的子 
+               TreeWalker创建新的 
+               TreeWalker 。",createTreeWalker
+允许应用程序解析外部资源。,resolveResource
+"将序号位置 
+               parameterIndex的OUT参数注册到JDBC类型 
+               sqlType 。",registerOutParameter
+"将序号位置 
+               parameterIndex的OUT参数注册到JDBC类型 
+               sqlType 。",registerOutParameter
+"询问编辑器是否可以使用 
+               anEvent开始编辑。",isCellEditable
+将此字节缓冲区的视图创建为浮点缓冲区。,asFloatBuffer
+"检索JDBC的价值 
+               FLOAT参数为 
+               float的Java编程语言。",getFloat
+将此事件作为结束元素事件返回，如果此事件不是结束元素，则可能导致类强制转换异常。,asEndElement
+"将序号位置 
+               parameterIndex的参数注册为JDBC类型 
+               sqlType 。",registerOutParameter
+不推荐使用，要删除：此API元素将在以后的版本中删除。,setPrincipal
+"在Java编程语言中以 
+               boolean检索指定的JDBC 
+               BIT或 
+               BOOLEAN参数的值。",getBoolean
+将命名空间写入输出流如果此方法的前缀参数为空字符串“xmlns”或null，则此方法将委托给writeDefaultNamespace,writeNamespace
+将此事件作为start元素事件返回，如果此事件不是start元素，则可能导致类强制转换异常。,asStartElement
+"将名为 
+               parameterName的OUT参数注册到JDBC类型 
+               sqlType 。",registerOutParameter
+"将名为 
+               parameterName的OUT参数注册到JDBC类型 
+               sqlType 。",registerOutParameter
+创建一个共享此缓冲区内容的新的只读char缓冲区。,asReadOnlyBuffer
+"测试一个方法的签名是否是另一个类的 
+               子签名 。",isSubsignature
+"将名为 
+               parameterName的参数注册为JDBC类型 
+               sqlType 。",registerOutParameter
+"将名为 
+               parameterName的参数注册为JDBC类型 
+               sqlType 。",registerOutParameter
+该对象实现writeExternal方法，通过调用DataOutput的方法来保存其内容，或者为对象，字符串和数组调用ObjectOutput的writeObject方法。,writeExternal
+确定此属性编辑器是否支持自定义编辑器。,supportsCustomEditor
+从xml声明中获取独立声明,isStandalone
+在系统从睡眠中醒来后调用。,systemAwoke
+当前的KeyboardFocusManager调用此方法，请求此KeyEventDispatcher代表它调度指定的事件。,dispatchKeyEvent
+根据详细的度量标准信息创建多主字体的新实例。,deriveMMFont
+ICC配置文件常量：curveType计数。,icCurveCount
+根据指定数组中包含的设计轴值创建多主字体的新实例。,deriveMMFont
+"获得 
+               MidiDevice对象，它是这个的所有者 
+               Transmitter 。",getMidiDevice
+"获取此对象的 
+               FontMetrics 。",getFontMetrics
+将事件调度到输入方法。,dispatchEvent
+"创建并返回能够处理来自任何支持的文档风格的数据的 
+               PrintJob 。",createPrintJob
+当通过调用setVisible（true）或将其添加到组件层次结构中使源或其祖先之一可见时调用。,ancestorAdded
+"使用特定格式化程序从文本字符串中获取 
+               YearMonth的实例。",parse
+在可用变量集中查找变量。,resolveVariable
+部分解析一个名字。,resolveToClass
+部分解析一个名字。,resolveToClass
+"以 
+               java.sql.Timestamp对象的形式检索JDBC 
+               TIMESTAMP参数的值。",getTimestamp
+返回一个新的CompletionStage，当这个或另一个给定的阶段正常完成时，将执行相应的结果作为所提供函数的参数。,applyToEither
+创建具有正确大小和波段数的归零目标Raster。,createCompatibleDestRaster
+该对象实现了readExternal方法，通过为原始类型调用DataInput方法并为对象，字符串和数组调用readObject来恢复其内容。,readExternal
+"用于写入浮点值的相对 
+               put方法 
+               （可选操作） 。",putFloat
+PropertyEditor可以选择提供编辑其属性值的完整自定义组件。,getCustomEditor
+在此转换期间检查指定的偏移量是否有效。,isValidOffset
+"检索 
+               ResultSet含有该原始值对象 
+               RowSet对象。",getOriginal
+"读取四个输入字节并返回 
+               float值。",readFloat
+"使用给定的 
+               Calendar对象检索指定的JDBC 
+               TIMESTAMP参数的值作为 
+               java.sql.Timestamp对象，以构造 
+               Timestamp对象。",getTimestamp
+"检索此 
+               RowSet对象是否为只读。",isReadOnly
+"获取星期几字段，即枚举 
+               DayOfWeek 。",getDayOfWeek
+"用于写入浮点值的绝对 
+               put方法 
+               （可选操作） 。",putFloat
+"如果参数 
+               isId是 
+               true ，则此方法将指定的属性声明为用户确定的ID属性。",setIdAttribute
+将文本写入输出,writeCharacters
+将文本写入输出,writeCharacters
+"创建一个 
+               EntityReference对象。",createEntityReference
+"确定此 
+               Object是否已被销毁。",isDestroyed
+返回父级中的子索引。,getIndexOfChild
+"返回 
+               true在此元素上被指定给定名称的属性或具有默认值， 
+               false否则。",hasAttribute
+"获取 
+               java.awt.Container与此相关 
+               BeanContext 。",getContainer
+确定此doc对象将提供其打印数据的doc flavor。,getDocFlavor
+ICC配置文件标题位置：配置文件光源。,icHdrIlluminant
+允许应用程序注册DTD事件处理程序。,setDTDHandler
+"以 
+               java.sql.Timestamp对象的形式检索指定的JDBC 
+               TIMESTAMP参数的值。",getTimestamp
+"已过时。
+
+使用getBigDecimal(int parameterIndex)或getBigDecimal(String parameterName)",getBigDecimal
+"返回此 
+               MonthDay的副本，并更改日期。",withDayOfMonth
+"要使用的基URI（参见[ 
+               IETF RFC 2396 ]中的第5.1.4节）），用于将相对 
+               systemId解析为绝对URI。",setBaseURI
+"使用给定的 
+               Calendar对象检索JDBC 
+               TIMESTAMP参数的值作为 
+               java.sql.Timestamp对象，以构造 
+               Timestamp对象。",getTimestamp
+"返回 
+               ResourceBundle.Control实例，该实例用于处理给定 
+               baseName资源包加载。",getControl
+"返回 
+               true如果存在至少一个消费者等待经由以接收元件 
+               BlockingQueue.take()或定时 
+               poll 。",hasWaitingConsumer
+"该常量指示参数将允许 
+               NULL值。",parameterNullable
+为此Templates对象创建新的转换上下文。,newTransformer
+"创建一个新的 
+               ShardingKeyBuilder实例",createShardingKeyBuilder
+"创建一个新的 
+               PooledConnectionBuilder实例",createPooledConnectionBuilder
+评估指定上下文中的XPath表达式。,evaluateExpression
+评估指定上下文中的XPath表达式。,evaluateExpression
+使用不同的时区返回此日期时间的副本，如果可能，保留本地日期时间。,withZoneSameLocal
+使用不同的时区返回此日期时间的副本，如果可能，保留本地日期时间。,withZoneSameLocal
+"将 
+               ItemListener添加到模型中。",addItemListener
+创建一个共享此缓冲区内容的新的只读int缓冲区。,asReadOnlyBuffer
+"从模型中删除 
+               ChangeListener 。",removeChangeListener
+如果接收者允许孩子，则返回true。,getAllowsChildren
+"以Java编程语言中 
+               java.io.Reader对象的形式检索指定参数的值。",getCharacterStream
+不推荐使用，要删除：此API元素将在以后的版本中删除。,getPrincipal
+"获取一个 
+               Instrument从给定的 
+               Patch 。",getInstrument
+将此SQLXML实例指定的XML值检索为java.io.Reader对象。,getCharacterStream
