@@ -2,8 +2,8 @@
 mNamer: A tool leveraging LLMs to auto-suggest descriptive method names from functional descriptions. It uses a multistage training approach to bridge semantic gaps, enhancing code quality
 Datasets
 This repository includes two key datasets:
-# Dataset 1:
-Method Names with English Functional Descriptions.
+# English Dataset:
+Method Names with English Functional Descriptions (Dataset of Baseline).
 # Dataset 2:
 Method Names with Chinese Functional Descriptions.
 Each dataset is crucial for training and evaluating the models to ensure they perform effectively across linguistic boundaries.
