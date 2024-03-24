@@ -1,0 +1,501 @@
+Functional Description,Method Name
+returns an image which gets pixel data from the specified url   ,getImage
+notifies this object that it is no longer the clipboard owner   ,lostOwnership
+returns the audio clip object specified by the url and name arguments   ,getAudioClip
+determines this check box ' s group   ,getCheckboxGroup
+specifies the desired print resolution for pages using these attributes   ,setPrinterResolution
+creates a text hit info whose character index is offset by delta from the char index of this text hit info   ,getOffsetHit
+set the visible state of the object   ,setVisible
+returns the justification information for this graphic attribute   ,getJustificationInfo
+returns the paper size for pages using these attributes   ,getMedia
+creates this toolkit ' s implementation of checkbox menu item using the specified peer interface   ,createCheckboxMenuItem
+returns the event type   ,getId
+compares this image graphic attribute to the specified image graphic attribute   ,equals
+"introspect on a java bean and learn about all its properties , exposed methods , and events   ",getBeanInfo
+returns whether the focus traversal policy has been explicitly set for this container   ,isFocusTraversalPolicySet
+get the height of the pixel buffer after adjusting for image height   ,getHeight
+the pixels of the image are delivered using one or more calls to the set pixels method   ,setPixels
+extract the appropriate property value from the event and pass it to the action associated with this event handler   ,invoke
+indicates whether or not this font can display the characters in the specified text starting at start and ending at limit   ,canDisplayUpTo
+returns whether or not alpha is supported in this color model   ,hasAlpha
+sets the vertical gap between components   ,setVgap
+returns an array of all the objects currently registered as foo listeners upon this window   ,getListeners
+returns the default graphics configuration associated with this graphics device   ,getDefaultConfiguration
+"returns the "" best "" configuration possible that passes the criteria defined in the graphics config template   ",getBestConfiguration
+returns whether the drawing buffer was lost since the last call to get draw graphics   ,contentsLost
+"invoked by bean context services , this method releases a nested bean context child ' s or any arbitrary object associated with a bean context child reference to the specified service   ",releaseService
+compares this image graphic attribute to the specified object   ,equals
+"returns the width , in 1 / 72nds of an inch , of the imageable area of the page   ",getImageableWidth
+returns an array of all the objects chained as foo listeners by the specified java util event listener   ,getListeners
+deny knowledge about the class and customizer of the bean   ,getBeanDescriptor
+returns the vertical gap between components   ,getVgap
+returns the height of this paper object ' s imageable area   ,getImageableHeight
+a convenience method to return a parameter as a float   ,getFloatParameter
+a service provided by the nesting bean context has been revoked   ,serviceRevoked
+returns the pixel stride of this component sample model   ,getPixelStride
+this method is called by trusted subclasses of object output stream that constructed object output stream using the protected no - arg constructor   ,readObjectOverride
+creates the menu item ' s peer   ,addNotify
+replaces an object in the list of parameters with a character   ,set
+"returns , for jobs using these attributes , the last page inclusive to be printed , if a range of pages is to be printed   ",getToPage
+updates the text measurer after a single character has been deleted from the paragraph currently represented by this text measurer   ,deleteChar
+"notifies the input method that a client component has been removed from its containment hierarchy , or that input method support has been disabled for the component   ",removeNotify
+returns a similar alpha composite object that uses the specified compositing rule   ,derive
+returns the set of focus traversal keys for a given traversal operation for this container   ,getFocusTraversalKeys
+determines whether or not the specified angle is within the angular extents of the arc   ,containsAngle
+gets an array containing all children of this bean context that match the types contained in arry   ,toArray
+checks whether or not this font has uniform line metrics   ,hasUniformLineMetrics
+fires a property change event to listeners that have been registered to track updates of all properties or a property with the specified name   ,firePropertyChange
+returns the lookup table data by reference   ,getTable
+returns the text that is presented by this text component   ,getText
+"the instantiate child method is a convenience hook in bean context to simplify the task of instantiating a bean , nested , into a bean context   ",instantiateChild
+create a copy of this object   ,clone
+"creates a text hit info at the specified offset , associated with the character before the offset   ",beforeOffset
+sets the visible state of the object   ,setVisible
+removes all items from this menu   ,removeAll
+creates the peer of the canvas   ,addNotify
+determines whether this input method is enabled   ,isCompositionEnabled
+returns the sample model that describes the layout of the image data   ,getSampleModel
+returns a shaper for the provided unicode range   ,getShaper
+compares this font object to the specified object   ,equals
+sets the language - sensitive orientation that is to be used to order the elements or text within this component   ,setComponentOrientation
+returns the control point   ,getCtrlPt
+tests whether this area object encloses any area   ,isEmpty
+replaces the values of all preferences for the rendering algorithms with the specified hints   ,setRenderingHints
+returns the location of the destination point given a point in the source   ,getPoint2D
+returns the orientation of this scrollbar   ,getOrientation
+writes a 16 bit char   ,writeChar
+sets the focused window   ,setGlobalFocusedWindow
+gets the font metrics of this object   ,getFontMetrics
+register a listener for the property change event   ,addPropertyChangeListener
+sets the location of the end points and control point of this curve to the specified float coordinates   ,setCurve
+"the "" hidden "" flag is used to identify features that are intended only for tool use , and which should not be exposed to humans   ",setHidden
+reads four input bytes and returns an int value   ,readInt
+sets the active window   ,setGlobalActiveWindow
+returns the number of multiple master design controls   ,getNumDesignAxes
+sets the command name for the action event fired by this tray icon   ,setActionCommand
+returns the size of the partition named by this abstract pathname   ,getTotalSpace
+sets the data for a rectangle of pixels from an input raster   ,setDataElements
+returns true if the gradient cycles repeatedly between the two colors c1 and c2   ,isCyclic
+returns the interpolation type used by this op   ,getInterpolationType
+concatenates this transform with a transform that rotates coordinates by the specified number of quadrants   ,quadrantRotate
+gets the size of the screen   ,getScreenSize
+sets the opacity of the window   ,setOpacity
+"specifies whether , for jobs using these attributes , the user should see a print dialog in which to modify the print settings , and which type of print dialog should be displayed   ",setDialog
+"create a writable raster with the same size , sample model and data buffer as this one , but with a different location   ",createWritableTranslatedChild
+get the field of this class by name   ,getField
+encodes a data flavor for use as a string native   ,encodeDataFlavor
+sets the number of rows in this layout to the specified value   ,setRows
+returns the line metrics object for the specified character iterator in the specified graphics context   ,getLineMetrics
+returns the glyph code which is used when this font does not have a glyph for a specified unicode code point   ,getMissingGlyphCode
+gets a property with the specified key and default   ,getProperty
+"deprecated as of jdk version 1 1 , replaced by set boundsint , int , int   ",reshape
+"renders an image , applying a transform from image space into user space before drawing   ",drawImage
+returns the display policy for the scrollbars   ,getScrollbarDisplayPolicy
+tests if the specified object is an instance of packed color model and equals this packed color model   ,equals
+returns the largest y coordinate of the framing rectangle of the shape in double precision   ,getMaxY
+gets all java bean or bean context instances currently nested in this bean context   ,toArray
+"translates the origin of the graphics context to the point x , y in the current coordinate system   ",translate
+gets the position that ' s most important to be visible   ,getVisiblePosition
+returns the name of the file or directory denoted by this abstract pathname   ,getName
+invoked when a key has been pressed   ,keyPressed
+sets the bean context for this bean context child support   ,setBeanContext
+"returns the y offset of the tile grid relative to the origin , for example , the y coordinate of the location of tile 0 , 0   ",getTileGridYoFfset
+returns the shape of the window   ,getShape
+"creates a raster based on a banded sample model with the specified data type , width , height , and number of bands   ",createBandedRaster
+"the "" hidden "" flag is used to identify features that are intended only for tool use , and which should not be exposed to humans   ",isHidden
+tests whether the file or directory denoted by this abstract pathname exists   ,exists
+invoked when the component ' s position changes   ,componentMoved
+deny knowledge of properties   ,getPropertyDescriptors
+sets the unit increment for this scroll bar   ,setUnitIncrement
+determines if the current child of this object is selected   ,isAccessibleChildSelected
+returns an image which gets pixel data from the specified file   ,createImage
+returns the absolute vertical y position of the event   ,getYoNScreen
+add a property change listener for a specific property   ,addPropertyChangeListener
+creates a writable raster with the specified width and height that has a data layout sample model compatible with this color model   ,createCompatibleWritableRaster
+returns the kernel data in row major order   ,getKernelData
+returns the identification string associated with this graphics device   ,getIdString
+returns the red component in the range 0 - 255 in the default srgb space   ,getRed
+returns the distance from a point2d to this line segment   ,ptSegDist
+"returns the advance of this text layout , minus trailing whitespace   ",getVisibleAdvance
+returns whether this window can become the focused window if it meets the other requirements outlined in is focusable window   ,getFocusableWindowState
+"creates a new graphics object based on this graphics object , but with a new translation and clip area   ",create
+returns the bounding box of the rescaled destination image   ,getBounds2D
+gets the horizontal gap between components   ,getHgap
+creates a new pixel interleaved sample model with a subset of the bands of this pixel interleaved sample model   ,createSubsetSampleModel
+returns a description of the specified action of the object   ,getAccessibleActionDescription
+sets the page format and the painter for a specified page number   ,setPage
+returns an array of all the objects currently registered as foo listeners upon this container   ,getListeners
+"returns all samples for a rectangle of pixels in a float array , one sample per array element   ",getPixels
+creates a new multi pixel packed sample model with a subset of the bands of this multi pixel packed sample model   ,createSubsetSampleModel
+sets the font to be used for this menu component to the specified font   ,setFont
+"from a given bean , obtain an object representing a specified type view of that source object   ",getInstanceOf
+returns the canonical form of this abstract pathname   ,getCanonicalFile
+returns an array of all the mouse listeners registered on this component   ,getMouseListeners
+returns the size in bits of samples for all bands   ,getSampleSize
+invalidates or flushes any internally - cached data that depends on the vertex coordinates of this polygon   ,invalidate
+"specifies the handling of multiple copies , including collation , for jobs using these attributes   ",setMultipleDocumentHandling
+gets the method that should be used to write the property value   ,getWriteMethod
+called if the user has modified the current drop gesture   ,dropActionChanged
+returns a hashcode for this shape graphic attribute   ,hashCode
+"returns the samples for a specified band for the specified rectangle of pixels in an int array , one sample per array element   ",getSamples
+returns the item affected by the event   ,getItem
+returns the human presentable name for the data format that this data flavor represents   ,getHumanPresentableName
+returns true if this graphics device supports full - screen exclusive mode   ,isFullScreenSupported
+"tests if the line segment from x1 , y1 to x2 , y2 intersects this line segment   ",intersectsLine
+"returns a control object from this input method , or null   ",getControlObject
+text listener notification of a text value change   ,textValueChanged
+creates the file dialog ' s peer   ,addNotify
+adds the specified component to this scroll pane container   ,addImpl
+sets the size of this dimension object to the specified width and height in double precision   ,setSize
+returns the position at the end of the next layout   ,nextOffset
+returns a copy of the point p1 that anchors the first color   ,getPoint1
+processes events on this choice   ,processEvent
+returns whether this robot automatically invokes wait for idle after generating an event   ,isAutoWaitForIdle
+returns an iterator object that iterates along the boundary of this polygon and provides access to the geometry of the outline of this polygon   ,getPathIterator
+handles the mouse wheel moved event by invoking the mouse wheel moved methods on listener - a and listener - b   ,mouseWheelMoved
+sets the source bean   ,setSource
+returns all of the graphics configuration objects associated with this graphics device   ,getConfigurations
+paints a 3 - d highlighted rectangle filled with the current color   ,fill3DrEct
+returns an array of all the objects currently registered as foo listeners upon this checkbox menu item   ,getListeners
+returns an array of all icons added to the tray by this application   ,getTrayIcons
+reads eight input bytes and returns a double value   ,readDouble
+"marks an event set as being in the "" default "" set or not   ",setInDefaultEventSet
+returns the logical name of this font   ,getName
+processes events on this menu item   ,processEvent
+returns the end point   ,getP2
+"starts the drag given the initial cursor to display , the transferable object , and the drag source listener to use   ",startDrag
+writes a single character   ,write
+returns the modifier mask for this event   ,getModifiers
+reads the next object from the underlying input stream   ,readObject
+"returns the number of color components in the "" input "" color space of this profile   ",getNumComponents
+get the width of the pixel buffer after adjusting for image width   ,getWidth
+processes mouse events occurring on this component by dispatching them to any registered mouse listener objects   ,processMouseEvent
+adds an image to end of the list of sources   ,addSource
+override the source image ' s dimensions and pass the dimensions of the rectangular cropped region to the image consumer   ,setDimensions
+sets the framing rectangle of this shape based on a specified center point2d and corner point2d   ,setFrameFromCenter
+"returns the offset in data array elements of pixel x , y   ",getOffset
+creates the choice ' s peer   ,addNotify
+returns the component that should receive the focus before acomponent   ,getComponentBefore
+releases for normal dispatching to the current focus owner all key events which were enqueued because of a call to enqueue key events with the same timestamp and component   ,dequeueKeyEvents
+see the general contract of the read short method of data input   ,readShort
+sets the diagonal of the framing rectangle of this shape based on two specified point2d objects   ,setFrameFromDiagonal
+"returns a shape enclosing the logical selection in the specified range , extended to the natural bounds of this text layout   ",getLogicalHighlightShape
+sets the bounds of this object in the form of a rectangle object   ,setBounds
+sets the vertical gap between components to the specified value   ,setVgap
+returns the string before a given index   ,getBeforeIndex
+"check if there are any listeners for a specific property , including those registered on all properties   ",hasListeners
+gets the font metrics of the current font   ,getFontMetrics
+subclasses may override this method to simply extend remove semantics after the child has been removed and before the event notification has occurred   ,childJustRemovedHook
+creates a new font object by replicating the current font object and applying a new transform to it   ,deriveFont
+returns the name of the method that will trigger the action   ,getListenerMethodName
+"returns the focus owner , even if the calling thread is in a different context than the focus owner   ",getGlobalFocusOwner
+returns the advance of this text layout   ,getAdvance
+paints this component and all of its subcomponents   ,paintAll
+process mouse wheel events that are delivered to this scroll pane by scrolling an appropriate amount   ,processMouseWheelEvent
+selects the text between the specified start and end positions   ,select
+register a new drag gesture listener   ,addDragGestureListener
+releases one or more mouse buttons   ,mouseRelease
+tests whether the file named by this abstract pathname is a hidden file   ,isHidden
+returns a new rectangle2d object representing the intersection of this rectangle2d with the specified rectangle2d   ,createIntersection
+indicates whether or not this font render context object measures text in a transformed render context   ,isTransformed
+sets the tooltip string for this tray icon   ,setToolTip
+invoked when the mouse cursor has been moved onto a component but no buttons have been pushed   ,mouseMoved
+returns a copy of the point p2 which anchors the second color   ,getPoint2
+returns flags describing the global state of the glyph vector   ,getLayoutFlags
+sets the data for a rectangle of pixels in the specified data buffer from a primitive array of type transfer type   ,setDataElements
+invoked when a window state is changed   ,windowStateChanged
+reports a bound property change   ,firePropertyChange
+produce a series of statements with side effects on new instance so that the new instance becomes equivalent to old instance   ,initialize
+"has a service , which may be delegated   ",hasService
+return the status of the pixels   ,getStatus
+returns the horizontal gap between components   ,getHgap
+returns the type of scrolling that should take place in response to this event   ,getScrollType
+disables event delivery to this menu item for events defined by the specified event mask parameter   ,disableEvents
+returns the current splash screen image   ,getImageUrl
+copies the array of green color components into the specified array   ,getGreens
+returns the smallest y coordinate of the framing rectangle of the shape in double precision   ,getMinY
+invalidates this component and its ancestors   ,invalidate
+"return true if obj is an instance of font render context and has the same transform , antialiasing , and fractional metrics values as this   ",equals
+writes a character to the buffer   ,write
+register this drag gesture recognizer ' s listeners with the component   ,registerListeners
+returns true if this component is the focus owner   ,isFocusOwner
+notify this instance that it may no longer render a gui   ,dontUseGui
+returns the adjustable object where this event originated   ,getAdjustable
+returns the y coordinate of the upper - left corner of the framing rectangle in double precision   ,getY
+"invoked when the window is no longer the focused window , which means that keyboard events will no longer be delivered to the window or any of its subcomponents   ",windowLostFocus
+sends a rectangular region of the buffer of pixels to any image consumers that are currently interested in the data for this image   ,newPixels
+returns whether or not the shift modifier is down on this event   ,isShiftDown
+"returns a rectangle2d that encloses all of the bits rendered by this image graphic attribute , relative to the rendering position   ",getBounds
+returns the descent of this graphic attribute   ,getDescent
+returns an array of all the objects currently registered as foo listeners upon this text field   ,getListeners
+compares two abstract pathnames lexicographically   ,compareTo
+returns the string after a given index   ,getAfterIndex
+returns whether the specified string is an encoded java mime type   ,isJavaMimetYpe
+specifies the desired paper size for pages using these attributes   ,setMedia
+"returns whether dynamic layout of containers on resize is currently active both set in program is dynamic layout set , and supported by the underlying operating system and / or window manager   ",isDynamicLayoutActive
+"reports if the current service is being forcibly revoked , in which case the references are now invalidated and unusable   ",isCurrentServiceInvalidNow
+transfers the focus up one focus traversal cycle   ,transferFocusUpCycle
+returns the size of this object in the form of a dimension object   ,getSize
+returns the pixel data for the specified rectangle of pixels in a primitive array of type transfer type   ,getDataElements
+"start a drag , given the drag gesture event that initiated the drag , the initial cursor to use , the transferable subject data of the drag , and the drag source listener   ",startDrag
+sets the data for a single pixel in the specified data buffer from a primitive array of type transfer type   ,setDataElements
+checks if this font has a glyph for the specified character   ,canDisplay
+"returns the current focus cycle root , even if the calling thread is in a different context than the current focus cycle root   ",getGlobalCurrentFocusCycleRoot
+"returns the hit for the next caret to the right bottom ; if no such hit , returns null   ",getNextRightHit
+returns an array of unnormalized color / alpha components for a specified pixel in this color model   ,getComponents
+returns a copy of the wrapped transform   ,getTransform
+"returns all samples for the specified pixel in an int array , one sample per array element   ",getPixel
+resets this transform to the identity transform   ,setToIdentity
+return the specified accessible child of the object   ,getAccessibleChild
+registers an image consumer with the image producer for access to the image data during a later reconstruction of the image   ,addConsumer
+returns a string representing the state of this dialog   ,paramString
+invoked when the mouse wheel is rotated   ,mouseWheelMoved
+returns a map of the specified string natives to their most preferred data flavor   ,getFlavorsForNatives
+"retain only specified children unsupported implementations must synchronized on the hierarchy lock and "" children "" protected field   ",retainAll
+tests whether the geometries of the two area objects are equal   ,equals
+"gets the index of the selected item on the list ,   ",getSelectedIndex
+invoked when a component has been removed from the container   ,componentRemoved
+returns an array of all the property change listeners registered on this keyboard focus manager   ,getPropertyChangeListeners
+returns a property of the image by name   ,getProperty
+returns whether the given modal exclusion type is supported by this toolkit   ,isModalExclusionTypeSupported
+"the "" expert "" flag is used to distinguish between features that are intended for expert users from those that are intended for normal users   ",setExpert
+resets the buffer so that you can use it again without throwing away the already allocated buffer   ,reset
+support for reporting bound property changes for boolean properties   ,firePropertyChange
+"returns a vector of rendered image objects that are the immediate sources , not the sources of these immediate sources , of image data for this buffered image   ",getSources
+gets the name of the printing user   ,getUserName
+returns the data array for all banks   ,getBankData
+returns true if this rendering hints contains a mapping for the specified key   ,containsKey
+processes key events occurring on this component by dispatching them to any registered key listener objects   ,processKeyEvent
+subdivides the cubic curve specified by the src parameter and stores the resulting two subdivided curves into the left and right curve parameters   ,subdivide
+requests that the file or directory denoted by this abstract pathname be deleted when the virtual machine terminates   ,deleteOnExit
+returns the component that should receive the focus after acomponent   ,getComponentAfter
+tests whether this class is supported on the current platform   ,isDesktopSupported
+returns the data bit offset in bits   ,getDataBitOffset
+notify the drop target that it has been disassociated from a component this method is usually called from java awt component remove notify of the component associated with this drop target to notify the drop target that a component peer has been disassociated with that component   ,removeNotify
+gets the current choice from this check box group   ,getSelectedCheckbox
+returns an array of all the objects currently registered as foo listeners upon this menu item   ,getListeners
+returns the component that was affected by the event   ,getChild
+sets the page orientation   ,setOrientation
+"creates an implementation of listener interface in which the method named listener method name passes the value of the event expression , event property name , to the final method in the statement , action , which is applied to the target   ",create
+"creates an image which decodes the image stored in the specified byte array , and at the specified offset and length   ",createImage
+"returns whether the layout of containers is validated dynamically during resizing , or statically , after resizing is complete   ",isDynamicLayoutSet
+returns the width of the framing rectangle in double precision   ,getWidth
+creates a clone of this rendering hints object that has the same contents as this rendering hints object   ,clone
+returns the start offset within the selected text   ,getSelectionStart
+"deprecated as of jdk version 1 1 , replaced by dispatch event awt event e   ",deliverEvent
+reports a boolean constrained property update to listeners that have been registered to track updates of all properties or a property with the specified name   ,fireVetoableChange
+see the general contract of the read double method of data input   ,readDouble
+returns the hashcode for this rectangle2d   ,hashCode
+gets the array of children affected by this event   ,toArray
+tests if the specified line segment intersects the interior of this rectangle2d   ,intersectsLine
+"creates a raster based on a single pixel packed sample model with the specified data type , width , height , and band masks   ",createPackedRaster
+returns a font object from the system properties list   ,getFont
+writes to the output stream the eight low - order bits of the argument v   ,writeByte
+sets the data for a single pixel from a primitive array of type transfer type   ,setDataElements
+"returns the offset of pixel x , y in data array elements   ",getOffset
+gets the foreground color of this object   ,getForeground
+returns the rgb value representing the color in the default srgb color model   ,getRgb
+"enables or disables this input method for composition , depending on the value of the parameter enable   ",setCompositionEnabled
+creates and returns a copy of this job attributes   ,clone
+"called when a drag operation is ongoing , while the mouse pointer is still over the operable part of the drop site for the drop target registered with this listener   ",dragOver
+returns the number of glyphs in this glyph vector   ,getNumGlyphs
+sets the cursor image to the specified cursor   ,setCursor
+force all system buffers to synchronize with the underlying device   ,sync
+called by the awt to notify the keyboard focus manager that it should cancel delayed dispatching of key events   ,discardKeyEvents
+returns the size in bits of samples for the specified band   ,getSampleSize
+cause autoscrolling to stop   ,stop
+"returns the position of the mouse pointer in this component ' s coordinate space if the component is directly under the mouse pointer , otherwise returns null   ",getMousePosition
+returns the preferred size of this container   ,getPreferredSize
+gets the current alignment of this label   ,getAlignment
+returns an array of data flavors in which the current contents of this clipboard can be provided   ,getAvailableDataFlavors
+"deprecated as of jdk version 1 1 , replaced by set sizeint , int   ",resize
+"transfers the focus to the previous component , as though this component were the focus owner   ",transferFocusBackward
+returns the size in array elements of all banks   ,getSize
+sets the location of the end points and control points of this curve to the specified float coordinates   ,setCurve
+returns the end offset within the selected text   ,getSelectionEnd
+lays out this container by resizing its child to its preferred size   ,doLayout
+returns whether the requested flavor is supported by this transferable   ,isDataFlavorSupported
+returns the rendering hints for this operation   ,getRenderingHints
+creates this toolkit ' s implementation of canvas using the specified peer interface   ,createCanvas
+"returns the number of components , including alpha , in this color model   ",getNumComponents
+"sets a sample in the specified band for the pixel located at x , y in the data buffer using an int for input   ",setSample
+returns the y coordinate of this point2d in double precision   ,getY
+returns the y translation from the coordinate system of the sample model to that of the raster   ,getSampleModelTranslateY
+this method is invoked to signify that the drag and drop operation is complete   ,dragDropEnd
+"writes a long value , which is comprised of eight bytes , to the output stream   ",writeLong
+creates this toolkit ' s implementation of scrollbar using the specified peer interface   ,createScrollbar
+sets the image to be displayed as the icon for this window   ,setIconImage
+resets the path to empty   ,reset
+sets the location of the end points and control points of this curve to the specified point2d coordinates   ,setCurve
+called from set bean context to notify a bean context child to release resources obtained from the nesting bean context   ,releaseBeanContextResources
+gets the localized display name of this feature   ,getDisplayName
+"this method returns the horizontal coordinate of the cursor location in screen coordinates at the moment this event occurred , or zero if the cursor location is not specified for this event   ",getX
+returns true if the value is in the process of changing as a result of actions being taken by the user   ,getValueIsAdjusting
+handles the mouse pressed event by invoking the mouse pressed methods on listener - a and listener - b   ,mousePressed
+returns the number of bits per sample for the specified band   ,getSampleSize
+"creates a new drag gesture recognizer that implements the specified abstract subclass of drag gesture recognizer , and sets the specified component and drag gesture listener on the newly created object   ",createDragGestureRecognizer
+sets the current position of this line break measurer   ,setPosition
+invoked when a mouse button is pressed on a component   ,mouseDragged
+"draws the text given by the specified character array , using this graphics context ' s current font and color   ",drawChars
+called whenever the mouse is moved during a drag operation   ,dragMouseMoved
+sets the state of this check box to the specified state   ,setState
+returns the descent of the text   ,getDescent
+get the value of this object as a number   ,getCurrentAccessibleValue
+gets the maximum value of this scroll bar   ,getMaximum
+returns the framing rectangle2d that defines the overall shape of this object   ,getFrame
+repaints the component   ,repaint
+prints the value of this statement using a java - style syntax   ,toString
+makes a copy of a render context   ,clone
+returns an array of all the listeners that were added to the property change support object with add property change listener   ,getPropertyChangeListeners
+a property editor may choose to make available a full custom component that edits its property value   ,getCustomEditor
+sets the print quality for pages using these attributes to the default   ,setPrintQualityToDefault
+creates the panel ' s peer   ,addNotify
+returns the logical bounds of the characters indexed in the specified character iterator in the specified font render context   ,getStringBounds
+"returns a writable raster representing the alpha channel of an image , extracted from the input writable raster   ",getAlphaRaster
+sets this check box menu item to the specified state   ,setState
+called by the awt to notify the keyboard focus manager that it should cancel delayed dispatching of key events   ,dequeueKeyEvents
+"start the drag given the initial cursor to display , a drag image , the offset of the image , the transferable object , and the drag source listener to use   ",startDrag
+"returns the hit for the next caret to the left top ; if no such hit , returns null   ",getNextLeftHit
+returns the total advance width for showing the specified array of characters in this font   ,charsWidth
+resets this polygon object to an empty polygon   ,reset
+sets the data for a rectangle of pixels from a primitive array of type transfer type   ,setDataElements
+gets the programmatic name of this feature   ,getName
+"returns an array of names recognized by get property string or null , if no property names are recognized   ",getPropertyNames
+returns the resulting multicast listener from adding listener - a and listener - b together   ,addInternal
+indicates whether the dialog is modal   ,isModal
+returns the minimum valid y coordinate of the raster   ,getMinY
+returns the file descriptor object that represents the connection to the actual file in the file system being used by this file input stream   ,getFd
+returns the scanline stride   ,getScanlineStride
+sets the location of the end points and control points of this curve to the specified double coordinates   ,setCurve
+returns whether or not this mouse event is the popup menu trigger event for the platform   ,isPopupTrigger
+gets the accessible selection associated with this object which allows its accessible children to be selected   ,getAccessibleSelection
+adds a point to the path by drawing a straight line from the current coordinates to the new specified coordinates specified in float precision   ,lineTo
+intersects the pair of specified source rectangle2d objects and puts the result into the specified destination rectangle2d object   ,intersect
+returns an iterator object that iterates along the boundary of the shape and provides access to the geometry of the outline of the shape   ,getPathIterator
+gets the unit value increment for the adjustable object   ,getUnitIncrement
+determines the color model of this toolkit ' s screen   ,getColorModel
+returns the bounds of the glyph   ,getBounds2D
+note : the event class is obsolete and is available only for backwards compatibility   ,shiftDown
+resets the stream to the most recent mark   ,reset
+returns a string representing the state of this menu component   ,paramString
+"creates a raster based on a multi pixel packed sample model with the specified data buffer , width , height , and bits per pixel   ",createPackedRaster
+returns the point that represents the coordinates of the pointer on the screen   ,getLocation
+sets the location and size of the outer bounds of this rectangle2d to the specified rectangular values   ,setFrame
+returns the black box bounds of the characters in the specified range   ,getBlackBoxBounds
+this method returns a boolean indicating if the specified data flavor is available from the source   ,isDataFlavorSupported
+removes all the components from this container   ,removeAll
+invoked when a mouse button is pressed on a component and then dragged   ,mouseDragged
+"solves the cubic whose coefficients are in the eqn array and places the non - complex roots back into the same array , returning the number of roots   ",solveCubic
+returns an array of unnormalized color / alpha components given a pixel in this color model   ,getComponents
+returns the requested data array element from the first default bank as a double   ,getElemDouble
+inverse transforms the specified pt src and stores the result in pt dst   ,inverseTransform
+returns the name of the method to invoke   ,getMethodName
+returns the square of the distance from this point2d to a specified point   ,distanceSq
+moves and resizes this component   ,setBounds
+gets the width in user coordinate space   ,getWidth
+returns the maximum size of this container   ,getMaximumSize
+returns the transfer type of this color model   ,getTransferType
+calls drop action changed on the registered drop target listener and passes it the specified drop target drag event   ,dropActionChanged
+"creates a raster based on a pixel interleaved sample model with the specified data type , width , height , and number of bands   ",createInterleavedRaster
+"calls drag mouse moved on the drag source motion listeners registered with the drag source associated with this drag source context , and them passes the specified drag source drag event   ",dragMouseMoved
+returns whether the drawing buffer was recently restored from a lost state and reinitialized to the default background color white   ,contentsRestored
+returns the data arrays for all banks   ,getBankData
+returns whether focus traversal keys are enabled for this component   ,getFocusTraversalKeysEnabled
+returns the container which is the focus cycle root of this component ' s focus traversal cycle   ,getFocusCycleRootAncestor
+returns the distance from this point2d to a specified point   ,distance
+compares the specified object with this rendering hints for equality   ,equals
+returns the baseline index of the text   ,getBaselineIndex
+"deprecated as of jdk version 1 2 , replaced by the font method get line metrics   ",getFontMetrics
+"returns the flatness , or maximum distance of a control point from the line connecting the end points , of this quad curve2d   ",getFlatness
+gets the state of this object   ,getAccessibleStateSet
+"writes a float value , which is comprised of four bytes , to the output stream   ",writeFloat
+"returns all samples for the specified rectangle of pixels in an int array , one sample per data array element   ",getPixels
+"returns a volatile image with a data layout and color model compatible with this graphics configuration , using the specified image capabilities and transparency value   ",createCompatibleVolatileImage
+"specifies the handling of multiple copies , including collation , for jobs using these attributes   ",getMultipleDocumentHandling
+reports a boolean bound property update to listeners that have been registered to track updates of all properties or a property with the specified name   ,firePropertyChange
+tests whether this area is comprised of a single closed subpath   ,isSingular
+this method returns the drag source context that originated the event   ,getDragSourceContext
+copies the array of blue color components into the specified array   ,getBlues
+makes a copy of this page format with the same contents as this page format   ,clone
+removes all items from this list   ,removeAll
+invoked when a key has been typed   ,keyTyped
+sets the number of columns in this text field   ,setColumns
+returns the hash code for this color model   ,hashCode
+"focuses the component before acomponent , typically based on a focus traversal policy   ",focusPreviousComponent
+creates the text field ' s peer   ,addNotify
+returns a string representation of the state of this card layout   ,toString
+returns the number of columns in this text area   ,getColumns
+sets the requested data array element in the first default bank from the given double   ,setElemDouble
+returns the conversion state of the text range   ,getState
+writes out the string to the underlying output stream as a sequence of bytes   ,writeBytes
+indicates if the window is currently opaque   ,isOpaque
+"returns all samples for a rectangle of pixels in an int array , one sample per array element   ",getPixels
+"returns a raster representing the alpha channel of an image , extracted from the input raster , provided that pixel values of this color model represent color and alpha information as separate spatial bands e g   ",getAlphaRaster
+sets the location and size of this rectangle2d to the specified double values   ,setRect
+report a vetoable property update to any registered listeners   ,fireVetoableChange
+gets the preferences for the rendering algorithms   ,getRenderingHints
+"returns the number of "" clicks "" the mouse wheel was rotated , as a double   ",getPreciseWheelRotation
+"invoked by bean context services , this method gets the current service selectors for the specified service   ",getCurrentServiceSelectors
+makes this frame undisplayable by removing its connection to its native screen resource   ,removeNotify
+gets an enumeration of the locale - independent names of this feature   ,attributeNames
+returns an object representing the current contents of this clipboard in the specified data flavor   ,getData
+returns the x coordinate of the first control point in double precision   ,getCtrlX1
+sets the requested data array element in the first default bank to the given float   ,setElemFloat
+"returns the current x , y position within the child which is displayed at the 0 , 0 location of the scrolled panel ' s view port   ",getScrollPosition
+returns the height of the framing rectangle in double precision   ,getHeight
+detect if the data is being delivered with the necessary hints to allow the averaging algorithm to do its work   ,setHints
+adds a point to the path by moving to the specified coordinates specified in float precision   ,moveTo
+returns the number of bits for the specified color / alpha component   ,getComponentSize
+"returns a raster representing the alpha channel of an image , extracted from the input raster   ",getAlphaRaster
+"sets the handling of multiple copies , including collation , for jobs using these attributes to the default   ",setMultipleDocumentHandlingToDefault
+"return the height , in 1 / 72nds of an inch , of the imageable area of the page   ",getImageableHeight
+sets the location of this point2d to the specified float coordinates   ,setLocation
+"deprecated as of jdk version 1 1 , replaced by process mouse motion event mouse event   ",mouseDrag
+converts a string to an integer and returns the specified opaque color   ,decode
+returns an array of all the objects currently registered as foo listeners upon this component   ,getListeners
+gets the minimum value of this scroll bar   ,getMinimum
+returns the logical ranges of text corresponding to a visual selection   ,getLogicalRangesForVisualSelection
+return true if the named field is defaulted and has no value in this stream   ,defaulted
+concatenates this transform with a transform that rotates coordinates around an anchor point   ,rotate
+invoked when a window has been closed   ,windowClosed
+the dimensions of the source image are reported using the set dimensions method call   ,setDimensions
+returns a transform representing a shearing transformation   ,getShearInstance
+"returns the first event with the specified id , if any   ",peekEvent
+"stores the bounds of this component into "" return value "" rv and return rv   ",getBounds
+specifies the desired cross feed and feed print resolutions in dots per inch for pages using these attributes   ,setPrinterResolution
+returns the width of the bounding rectangle in double precision   ,getWidth
+get the background color of this object   ,getBackground
+reports whether or not this class is a delegate of another   ,isDelegated
+sets the locale of this bean context   ,setLocale
+returns whether or not the alt graph modifier is down on this event   ,isAltGraphDown
+returns a boolean indicating whether or not this shaper shapes contextually   ,isContextual
+"returns a shape enclosing the visual selection in the specified range , extended to the bounds   ",getVisualHighlightShape
+returns true if the data flavor specified represents a serialized object   ,isFlavorSerializedObjectType
+returns the green component in the range 0 - 255 in the default srgb space   ,getGreen
+"adjusts the x , y , width , and height fields to the correct values depending on the constraint geometry and pads   ",adjustForGravity
+"determines the preferred size of the target container using this layout manager , based on the components in the container   ",preferredLayoutSize
+"attempted updates to "" constrained "" properties will cause a "" vetoable change "" event to get fired when the property is changed   ",setConstrained
+"returns a float array containing only the color components of the color , in the default srgb color space   ",getRgbcOlorComponents
+creates the scroll pane ' s peer   ,addNotify
+adds the specified component with the specified name to the layout   ,addLayoutComponent
+returns the visual bounds of this glyph vector the visual bounds is the bounding box of the outline of this glyph vector   ,getVisualBounds
+sets the named desktop property to the specified value and fires a property change event to notify any listeners that the value has changed   ,setDesktopProperty
+returns a string representing the state of this menu item   ,paramString
+creates this toolkit ' s implementation of popup menu using the specified peer interface   ,createPopupMenu
+see the general contract of the read long method of data input   ,readLong
+returns an array of point objects indicating which tiles are checked out for writing   ,getWritableTileIndices
+returns the end point2d of this line2d   ,getP2
+sets whether this window should always be above other windows   ,setAlwaysOnTop
+invoked when a window is in the process of being closed   ,windowClosing
+a convenience method to return a parameter as a char   ,getCharParameter
+checks to see if the font has uniform line metrics   ,hasUniformLineMetrics
+returns an enum indicating how the baseline of the component changes as the size changes   ,getBaselineResizeBehavior
+adds a point to the path by drawing a straight line from the current coordinates to the new specified coordinates specified in double precision   ,lineTo
+calls drag enter on the registered drop target listener and passes it the specified drop target drag event   ,dragEnter
+returns the hashcode for this stroke   ,hashCode
+sets the echo character for this text field   ,setEchoChar
+reports whether or not a given service is currently available from this context   ,hasService
+deprecated see graphics environment get available font family names   ,getFontList
+gets the font metrics for the specified font   ,getFontMetrics
+this method returns the target drop action   ,getTargetActions
+"returns a path enclosing the visual selection in the specified range , extended to bounds   ",getVisualHighlightShape

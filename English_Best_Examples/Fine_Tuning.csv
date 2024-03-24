@@ -1,0 +1,301 @@
+Functional Description,Method Name
+initialize autoscrolling   ,initializeAutoscrolling
+instantiate a bean   ,instantiate
+writes a byte   ,write
+add a service   ,addService
+"if the number of arguments in the specified constructor is non - zero and the class of old instance explicitly declares an "" equals "" method this method returns the value of old instance equalsnew instance   ",mutatesTo
+validates this component   ,validate
+returns whether the representation class for this data flavor is java nio char buffer or a subclass thereof   ,isRepresentationClassCharBuffer
+dispatches an event   ,dispatchEvent
+"deprecated as of jdk version 1 1 , replaced by is multiple mode   ",allowsMultipleSelections
+this method instructs the bean that it is ok to use the gui   ,okToUseGui
+dispatches an event to the active input method   ,dispatchEvent
+"bean context services listener callback , propagates event to all currently registered listeners and bean context services children , if this bean context service does not already implement this service itself   ",serviceAvailable
+"deprecated as of jdk version 1 1 , replaced by get selected checkbox   ",getCurrent
+removes a tile observer   ,removeTileObserver
+checks if this window is showing on screen   ,isShowing
+subclasses may implement this method to allow class data to be stored in the stream   ,annotateClass
+returns the hashcode for this menu shortcut   ,hashCode
+add a property change listener to the listener list   ,addPropertyChangeListener
+removes the specified component from this layout   ,removeLayoutComponent
+checks out a tile for writing   ,getWritableTile
+removes an item listener   ,removeItemListener
+"deprecated as of jdk version 1 1 , replaced by get visible amount   ",getVisible
+notify the component to autoscroll   ,autoscroll
+clones this object   ,clone
+updates this canvas   ,update
+returns the hit on the opposite side of the specified hit ' s caret   ,getVisualOtherHit
+removes the specified window listener so that it no longer receives window events from this window   ,removeWindowListener
+"deprecated as of jdk version 1 1 , replaced by transfer focus   ",nextFocus
+"analagous to java lang class loader get resource as stream , this method allows a bean context implementation to interpose behavior between the child component and underlying class loader   ",getResourceAsStream
+"deprecated as of jdk version 1 1 , replaced by get clip bounds   ",getClipRect
+resolves instances being deserialized into instances registered with cmm   ,readResolve
+"deprecated as of jdk version 1 1 , not for public use in the future this method is expected to be retained only as a package private method   ",delItems
+"deprecated as of jdk version 1 1 , replaced by set selected checkbox checkbox   ",setCurrent
+gets the bean context services listener if any of the specified child   ,getChildBeanContextServicesListener
+returns whether the representation class for this data flavor is java nio byte buffer or a subclass thereof   ,isRepresentationClassByteBuffer
+write a portion of a string to the buffer   ,write
+converts this font object to a string representation   ,toString
+returns the device configuration associated with this graphics2d   ,getDeviceConfiguration
+gets the singleton instance of the system clipboard which interfaces with clipboard facilities provided by the native platform   ,getSystemClipboard
+this method is called by the current keyboard focus manager requesting that this key event dispatcher dispatch the specified event on its behalf   ,dispatchKeyEvent
+enables or disables input method support for this component   ,enableInputMethods
+returns the number of milliseconds this robot sleeps after generating an event   ,getAutoDelay
+this method is called by the awt event dispatcher requesting that the current keyboard focus manager dispatch the specified event on its behalf   ,dispatchEvent
+removes the specified window state listener so that it no longer receives window events from this window   ,removeWindowStateListener
+the set properties method is part of the image consumer api which this class must implement to retrieve the pixels   ,setProperties
+dispatches the event to the input method   ,dispatchEvent
+removes a bean context membership listener   ,removeBeanContextMembershipListener
+"bean context services listener callback , propagates event to all currently registered listeners and bean context services children , if this bean context service does not already implement this service itself   ",serviceRevoked
+updates the container   ,update
+"this method returns a graphics2d , but is here for backwards compatibility   ",getGraphics
+adds a tile observer   ,addTileObserver
+"deprecated as of jdk version 1 1 , replaced by component get cursor   ",getCursorType
+gets the bean context membership listener if any of the specified child   ,getChildBeanContextMembershipListener
+add a bean context services listener   ,addBeanContextServicesListener
+sets the exception handler for this stream to exception listener   ,setExceptionListener
+"deprecated as of jdk version 1 1 , replaced by replace range string , int , int   ",replaceText
+sets the owner ' s or everybody ' s execute permission for this abstract pathname   ,setExecutable
+remove a property change listener from the listener list   ,removePropertyChangeListener
+determines if an image consumer is on the list of consumers currently interested in data for this image   ,isConsumer
+deprecated see java awt graphics environment # get all fonts   ,getFontPeer
+chooses one of the specified text hit info instances as a strong caret in the specified text layout   ,getStrongCaret
+gets the index of the item that was last made visible by the method make visible   ,getVisibleIndex
+cancels a print job that is in progress   ,cancel
+release a service   ,releaseService
+removes the specified component from this border layout   ,removeLayoutComponent
+removes the specified item listener so that it no longer receives item events from this choice menu   ,removeItemListener
+"deprecated this method does not properly convert bytes into characters as of jdk 1 1 , the preferred way to do this is via the to string string enc method , which takes an encoding - name argument , or the to string method , which uses the platform ' s default character encoding   ",toString
+a new service is available from the nesting bean context   ,serviceAvailable
+"deprecated as of jdk version 1 1 , replaced by get unit increment   ",getLineIncrement
+creates a new handler for sax parser that can be used to parse embedded xml archives created by the xml encoder class   ,createHandler
+repaints the specified rectangle of this component within tm milliseconds   ,repaint
+updates this component   ,update
+writes a boolean value to this output stream   ,writeBoolean
+removes a listener for the value change   ,removePropertyChangeListener
+writes a portion of a string   ,write
+"returns the family name of this font , localized for the specified locale   ",getFamily
+get the accessible text associated with this object   ,getAccessibleText
+"returns the number of accessible actions available in this object if there are more than one , the first one is considered the "" default "" action of the object   ",getAccessibleActionCount
+remove a bean context services listener   ,removeBeanContextServicesListener
+subclasses may implement this method to store custom data in the stream along with descriptors for dynamic proxy classes   ,annotateProxyClass
+fire a bean contextship event on the bean context membership listener interface   ,fireChildrenRemoved
+enables or disables input method support for this text component   ,enableInputMethods
+determines whether or not the specified object is equal to this round rectangle2d   ,equals
+a convenience method to set the owner ' s execute permission for this abstract pathname   ,setExecutable
+"activate , and / or mark applet active   ",activate
+creates a glyph vector by mapping the specified characters to glyphs one - to - one based on the unicode cmap in this font   ,createGlyphVector
+returns any throwable caught while executing the runnable ' s run method   ,getThrowable
+removes an adjustment listener   ,removeAdjustmentListener
+enable the stream to allow objects read from the stream to be replaced   ,enableResolveObject
+"deprecated as of jdk version 1 1 , replaced by set echo charchar   ",setEchoCharacter
+returns true if this is a component glyph   ,isComponent
+gets a rendered image instance of this image with a default width and height in pixels   ,createDefaultRendering
+returns whether this window is active   ,isActive
+gets the exception handler for this stream   ,getExceptionListener
+get the 0 - based index of this object in its accessible parent   ,getAccessibleIndexInParent
+removes the specified drag source listener from this drag source context   ,removeDragSourceListener
+this method will allow trusted subclasses of object input stream to substitute one object for another during deserialization   ,resolveObject
+serializes this data flavor   ,writeExternal
+"deprecated as of jdk version 1 1 , replaced by get item count   ",countItems
+register an object to be validated before the graph is returned   ,registerValidation
+this method is obsolete and supplied for backwards compatibility only ; new code should call arrange grid instead   ,arrangeGrid
+removes the specified item listener so that the item listener no longer receives item events from this check box   ,removeItemListener
+"deprecated as of jdk version 1 1 , replaced by get preferred sizeint   ",preferredSize
+checks the error status of all of the images   ,isErrorAny
+"deprecated as of jdk version 1 1 , programs should not directly manipulate peers ; replaced by boolean is displayable   ",getPeer
+deletes the file or directory denoted by this abstract pathname   ,delete
+get the name of this field   ,getName
+returns an array of all the awt event listeners registered on this toolkit   ,getAwteVentListeners
+returns true if the two layouts are equal   ,equals
+"returns whether or not a display , keyboard , and mouse can be supported in this graphics environment   ",isHeadlessInstance
+this method should not be called by user code   ,setVisibleAmount
+unregister this drag gesture recognizer ' s listeners with the component subclasses must override this method   ,unregisterListeners
+get an audio clip from the given url   ,newAudioClip
+writes a 32 bit float   ,writeFloat
+write the specified class descriptor to the object output stream   ,writeClassDescriptor
+reads a 32 bit float   ,readFloat
+determines whether or not the specified object is equal to this rectangle2d   ,equals
+returns the number of items in this choice menu   ,getItemCount
+sets the owner ' s or everybody ' s write permission for this abstract pathname   ,setWritable
+tests whether this abstract pathname is absolute   ,isAbsolute
+fire a bean contextship event on the bean context membership listener interface   ,fireChildrenAdded
+adds a vetoable change listener to the listener list   ,addVetoableChangeListener
+returns the page format of the page specified by page index   ,getPageFormat
+removes the specified mouse motion listener so that it no longer receives mouse motion events from this component   ,removeMouseMotionListener
+"deprecated as of jdk version 1 1 , replaced by set block increment   ",setPageIncrement
+write the specified object to the object output stream   ,writeObject
+handles the item state changed event by invoking the item state changed methods on listener - a and listener - b   ,itemStateChanged
+enables or disables notification of the current client window ' s location and state for the specified input method   ,enableClientWindowNotification
+removes the specified adjustment listener so that it no longer receives instances of adjustment event from this scroll bar   ,removeAdjustmentListener
+returns the orientation of this page format   ,getOrientation
+return the system default cursor   ,getDefaultCursor
+removes the specified drag source listener from this drag source   ,removeDragSourceListener
+used to indicate whether of not we are running in an environment where gui interaction is available   ,setGuiAvailable
+removes the text component ' s peer   ,removeNotify
+gets the java awt container associated with this bean context   ,getContainer
+returns the string representation of the contents of this color modelobject   ,toString
+returns the sub mime type of this data flavor   ,getSubType
+returns the raw keycode of this menu shortcut   ,getKey
+gets the list of package names that will be used for finding bean info classes   ,getBeanInfoSearchPath
+this method instructs the bean that it should not use the gui   ,dontUseGui
+write this icc profile to a file   ,write
+removes the specified action listener so that it no longer receives action events from this button   ,removeActionListener
+returns the name of the character encoding being used by this stream   ,getEncoding
+parses a string and returns an awt key stroke   ,getAwtkEyStroke
+"deprecated as of jdk version 1 1 , replaced by get block increment   ",getPageIncrement
+removes the specified property change listener for the named desktop property   ,removePropertyChangeListener
+returns true if the color space is cs srgb   ,isCsSRgb
+gets the locale for this bean context   ,getLocale
+removes the specified action listener   ,removeActionListener
+copies pixels from raster src raster to this writable raster   ,setRect
+the read stream header method is provided to allow subclasses to read and verify their own stream headers   ,readStreamHeader
+"choose which rows and columns of the delivered int pixels are needed for the destination scaled image and pass through just those rows and columns that are needed , replicated as necessary   ",setPixels
+gets the system tray instance that represents the desktop ' s tray area   ,getSystemTray
+test if we are in design - mode   ,isDesignTime
+returns whether the two display modes are equal   ,equals
+called by bean context support superclass during construction and deserialization to initialize subclass transient state   ,initialize
+removes the specified key listener so that it no longer receives key events from this component   ,removeKeyListener
+lays out the grid   ,arrangeGrid
+"deprecated as of jdk version 1 1 , replaced by get bounds   ",getBoundingBox
+returnd a rendered image instance of this image with a default width and height in pixels   ,createDefaultRendering
+retargets an event to a new source   ,setSource
+removes the specified hierarchy bounds listener so that it no longer receives hierarchy bounds events from this component   ,removeHierarchyBoundsListener
+removes the specified mouse wheel listener so that it no longer receives mouse wheel events from this component   ,removeMouseWheelListener
+gets a focus traversal key for this window   ,getFocusTraversalKeys
+this method is obsolete and supplied for backwards compatibility only ; new code should call get min size instead   ,getMinSize
+calculates and returns the bitwise inclusive or of the status of all media that are tracked by this media tracker   ,statusAll
+determines whether or not the specified object is equal to this arc2d   ,equals
+gets the source as a reference of type bean context services   ,getSourceAsBeanContextServices
+gets the warning string that is displayed with this window   ,getWarningString
+this is a convenience method to aid in the implementation of the common - case mouse wheel listener - to scroll a scroll pane or jscroll pane by an amount which conforms to the platform settings   ,getUnitsToScroll
+"deprecated as of 1 4 , replaced by is focusable   ",isFocusTraversable
+removes the specified focus listener so that it no longer receives focus events from this component   ,removeFocusListener
+"deprecated as of jdk version 1 1 , replaced by get component count   ",countComponents
+adds the specified adjustment listener to receive instances of adjustment event from this scroll bar   ,addAdjustmentListener
+reject the drop   ,rejectDrop
+gets the insets of the screen   ,getScreenInsets
+gets the property change listener if any of the specified child   ,getChildPropertyChangeListener
+removes the specified input method listener so that it no longer receives input method events from this component   ,removeInputMethodListener
+called when an ancestor of the source is resized   ,ancestorResized
+determines whether an image consumer is on the list of consumers currently interested in data for this image   ,isConsumer
+returns any exception caught while executing the runnable ' s run method   ,getException
+"analagous to java lang class loader get resource , this method allows a bean context implementation to interpose behavior between the child component and underlying class loader   ",getResource
+returns the number of glyphs in this font   ,getNumGlyphs
+removes the specified focus listener so it no longer receives focus events from this component   ,removeFocusListener
+deprecated replaced by pre concatenate transform affine transform   ,preConcetenateTransform
+checks the error status of all of the images tracked by this media tracker with the specified identifier   ,isErrorId
+"return the layout path , or null if the layout path is the default path x maps to advance , y maps to offset   ",getLayoutPath
+returns a map of font attributes available in this font   ,getAttributes
+removes the specified flavor listener so that it no longer receives flavor events from this clipboard   ,removeFlavorListener
+determine if an image consumer is on the list of consumers currently interested in data for this image   ,isConsumer
+indicates whether this dialog is undecorated   ,isUndecorated
+gets the latest committed text from the text editing component and removes it from the component ' s text body   ,cancelLatestCommittedText
+gets the label of this check box   ,getLabel
+determines whether or not the specified object is equal to this ellipse2d   ,equals
+gets the number of menus on the menu bar   ,getMenuCount
+this method returns the current data flavors as a java util list   ,getCurrentDataFlavorsAsList
+write the specified object to the output stream   ,writeObject
+starts the reconversion operation   ,reconvert
+get the role of this object   ,getAccessibleRole
+"gets the application ' s or applet ' s event queue instance , without checking access   ",getSystemEventQueueImpl
+gets the methods of the target listener interface   ,getListenerMethods
+return the serial version uid for this class   ,getSerialVersionUid
+returns whether or not the pixel is valid   ,isValid
+this method returns the user drop action   ,getDropAction
+writes the specified byte to this output stream   ,write
+indicates whether this frame is undecorated   ,isUndecorated
+returns the nth accessible child of the object   ,getAccessibleChild
+determines whether this component is showing on screen   ,isShowing
+removes a vetoable change listener   ,removeVetoableChangeListener
+"tries to load a class from : the bootstrap loader , the system loader , the context loader if one is present and finally the loader specified   ",tryToLoadClass
+this method returns a the currently available data flavors of the transferable operand as a java util list   ,getCurrentDataFlavorsAsList
+"gets a bean info array , one for each service class or interface statically available from this service provider   ",getServicesBeanInfo
+sets the title for this frame to the specified string   ,setTitle
+"note : this interface is required to permit the safe association of a drop target with a component in one of two ways , either : component set drop targetdroptarget ; or droptarget set componentcomponent ;   ",setComponent
+writes a sub array of bytes   ,write
+removes the menu component ' s peer   ,removeNotify
+deletes the specified menu shortcut   ,deleteShortcut
+returns a set view of the keys contained in this rendering hints   ,keySet
+"produce the message and include the classname , if present   ",getMessage
+gets the vetoable change listener if any of the specified child   ,getChildVetoableChangeListener
+determines whether this component is enabled   ,isEnabled
+selects all the text in this text component   ,selectAll
+returns whether or not this event has been consumed   ,isConsumed
+create an embedded autoscroller   ,createDropTargetAutoScroller
+called when a child or list of children is added to a bean context that this listener is registered with   ,childrenAdded
+adds an awt event listener to receive all awt events dispatched system - wide that conform to the given event mask   ,addAwteVentListener
+gets the bean context services associated with this bean context services support   ,getBeanContextServicesPeer
+get the accessible selection associated with this object   ,getAccessibleSelection
+prompts the layout manager to lay out this component   ,doLayout
+"choose which rows and columns of the delivered byte pixels are needed for the destination scaled image and pass through just those rows and columns that are needed , replicated as necessary   ",setPixels
+"deprecated as of jdk version 1 1 , replaced by get menu count   ",countMenus
+adds a bean context services listener to this bean context   ,addBeanContextServicesListener
+gets the start position of the selected text in this text component   ,getSelectionStart
+figures out the minimum size of the master based on the information from get layout info   ,getMinSize
+returns whether this window is an always - on - top window   ,isAlwaysOnTop
+returns whether this component can be focused   ,isFocusable
+returns a list of all media that have encountered an error   ,getErrorsAny
+this method returns the currently available data flavors as a java util list   ,getCurrentDataFlavorsAsList
+convert a hit to a point in standard coordinates   ,hitToPoint
+adds a bean context membership listener   ,addBeanContextMembershipListener
+returns hash code for this data flavor   ,hashCode
+returns a cached instance of awt key stroke or a subclass of awt key stroke which is equal to this instance   ,readResolve
+disables the events defined by the specified event mask parameter from being delivered to this component   ,disableEvents
+a convenience method to set the owner ' s read permission for this abstract pathname   ,setReadable
+removes an observer   ,removeTileObserver
+handles the ancestor moved event by invoking the ancestor moved methods on listener - a and listener - b   ,ancestorMoved
+returns true if this rendering hints contains no key - value mappings   ,isEmpty
+handles the caret position changed event by invoking the caret position changed methods on listener - a and listener - b   ,caretPositionChanged
+removes the menu ' s peer   ,removeNotify
+sets the owner ' s or everybody ' s read permission for this abstract pathname   ,setReadable
+adds the specified container listener to receive container events from this container   ,addContainerListener
+returns the transparency   ,getTransparency
+determine if the object is enabled   ,isEnabled
+returns the rendering hints used by this op   ,getRenderingHints
+returns whether this menu shortcut is the same as another : equality is defined to mean that both menu shortcuts use the same key and both either use or don ' t use the shift key   ,equals
+"removes the specified text event listener so that it no longer receives text events from this text component if l is null , no exception is thrown and no action is performed   ",removeTextListener
+checks if the sample model is compatible with this color model   ,isCompatibleSampleModel
+writes the specified byte to this file output stream   ,write
+"invoked by bean context services , this method requests an instance of a service from this bean context service provider   ",getService
+checks if the specified sample model is compatible with this color model   ,isCompatibleSampleModel
+handles the window opened event by invoking the window opened methods on listener - a and listener - b   ,windowOpened
+"a value of true denotes that java beans should behave in design time mode , a value of false denotes runtime behavior   ",isDesignTime
+"deprecated as of jdk version 1 1 , replaced by set unit incrementint   ",setLineIncrement
+add a drag source listener to this drag source context if one has not already been added   ,addDragSourceListener
+gets the item located at the specified index of this menu   ,getItem
+finds all the applets in the document represented by this applet context   ,getApplets
+remove a vetoable change listener from the listener list   ,removeVetoableChangeListener
+returns the bit masks for all bands   ,getBitMasks
+changes to a new int array to hold the pixels for this image   ,newPixels
+checks whether or not the specified sample model is compatible with this color model   ,isCompatibleSampleModel
+paint a representation of the value into a given area of screen real estate   ,paintValue
+removes the menu bar ' s peer   ,removeNotify
+reads two input bytes and returns an int value in the range 0 through 65535   ,readUnsignedShort
+"get the menu shortcut object associated with this menu item ,   ",getShortcut
+returns an array of all the item listeners registered on this checkbox   ,getItemListeners
+"returns the human presentable name for this data flavor if param name equals "" human presentable name ""   ",getParameter
+removes the specified mouse - motion listener   ,removeMouseMotionListener
+returns the number of components in the lookup table   ,getNumComponents
+returns whether any tile is checked out for writing   ,hasTileWriters
+a convenience method to set the owner ' s write permission for this abstract pathname   ,setWritable
+gets the layout manager for this container   ,getLayout
+sets the specified menu to be this menu bar ' s help menu   ,setHelpMenu
+connects this piped writer to a receiver   ,connect
+this method returns an int representing the type of actions this drag and drop operation will support   ,getSourceActions
+gets the end position of the selected text in this text component   ,getSelectionEnd
+get the rendering context of the font within this graphics2d context   ,getFontRenderContext
+"writes a long to the underlying output stream as eight bytes , high byte first   ",writeLong
+"redispatches an awt event in such a way that the awt event dispatcher will not recursively request that the keyboard focus manager , or any installed key event dispatchers , dispatch the event again   ",redispatchEvent
+the set dimensions method is part of the image consumer api which this class must implement to retrieve the pixels   ,setDimensions
+creates the peer of the checkbox item   ,addNotify
+returns whether pages using these attributes will be rendered in color or monochrome   ,getColor
+removes the specified action listener so that it no longer receives action events from this text field   ,removeActionListener
+"if this window is visible , brings this window to the front and may make it the focused window   ",toFront
+gets any explicit property editor class that has been registered for this property   ,getPropertyEditorClass
+deprecated this method does not properly convert bytes to characters see data input stream for the details and alternatives   ,readLine
+checks whether two insets objects are equal   ,equals
+"subclasses of this class may override , or envelope , this method to add validation behavior for the bean context to examine child objects immediately prior to their being removed from the bean context   ",validatePendingRemove
+checks whether two rectangles are equal   ,equals
+"specifies whether drawing at 0 , 0 to pages using these attributes draws at the upper - left corner of the physical page , or at the upper - left corner of the printable area   ",setOrigin
+reports whether or not this event is propagated from some other bean context   ,isPropagated
