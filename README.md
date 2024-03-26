@@ -39,6 +39,7 @@ Using **English-SFT-Training-Corpus.JSONL**, which contains 300 **Fine_Tuning.cs
 ### 2 B) RLHF:
 We evaluate the semantic similarity between generated method names and the actual method names provided in **ReinforcementLearning.csv**, corresponding to the given functional descriptions. Feedback is then given to the SFT-tuned LLM through prompts to further refine its output.
 Through this meticulous approach, mNamer aims to enhance the LLM's ability to generate method names that are not only accurate but also semantically aligned with the developers' intentions, thereby improving code readability and maintainability.
+![SubDatasets](RLHF.PNG)
 # mNamer
 fine-tuned ready to chat ChatGPT4 extention availabe at https://chat.openai.com/g/g-T58v7ELEM-mnamer
 The source code is the centerpiece of this repository, showcasing the application of BERT-based semantic model for both Semantic Driven Preprocessing and BERT-based RLHF in Postprocessing for LLMs to improve its method naming capabilities. This model represents a significant advancement in the field of automated method naming.
