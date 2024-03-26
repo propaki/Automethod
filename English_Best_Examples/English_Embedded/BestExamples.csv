@@ -1,0 +1,501 @@
+Functional Description,Method Name,Number
+scrolls to the specified position within the child component   ,setScrollPosition,1
+writes b length bytes from the specified byte array to this file output stream   ,write,2
+sets whether this frame is resizable by the user   ,setResizable,3
+filters a buffer of pixels in the default rgb color model by passing them one by one through the filter rgb method   ,filterRgbpIxels,4
+returns an array of all the property change listeners registered on this toolkit   ,getPropertyChangeListeners,5
+handles the window iconified event by invoking the window iconified methods on listener - a and listener - b   ,windowIconified,6
+this method returns the source drop actions   ,getSourceActions,7
+gets the directory of this file dialog   ,getDirectory,8
+removes the specified window focus listener so that it no longer receives window events from this window   ,removeWindowFocusListener,9
+returns the number of tiles in the y direction   ,getNumYtIles,10
+normally property editors will be found using the property editor manager   ,setPropertyEditorClass,11
+gets the input context used by this component for handling the communication with input methods when text is entered in this component   ,getInputContext,12
+returns whether or not the current contents of this clipboard can be provided in the specified data flavor   ,isDataFlavorAvailable,13
+returns whether a tile is currently checked out for writing   ,isTileWritable,14
+returns a hashcode for this font   ,hashCode,15
+requests focus for this object   ,requestFocus,16
+returns whether or not all of the pixels are valid   ,isValid,17
+returns an array of all the adjustment listeners registered on this scrollbar   ,getAdjustmentListeners,18
+returns the java type info for the indexed property   ,getIndexedPropertyType,19
+determines whether this component should be visible when its parent is visible   ,isVisible,20
+returns the primary mime type for this data flavor   ,getPrimaryType,21
+writes an 8 bit byte   ,writeByte,22
+removes the specified component from the layout   ,removeLayoutComponent,23
+handles the ancestor resized event by invoking the ancestor resized methods on listener - a and listener - b   ,ancestorResized,24
+releases a given key   ,keyRelease,25
+gets the caret   ,getCaret,26
+returns a set view of the mappings contained in this rendering hints   ,entrySet,27
+"writes a short to the underlying output stream as two bytes , high byte first   ",writeShort,28
+gets a copy of the this bean context ' s children   ,copyChildren,29
+returns the number of copies the application should render for jobs using these attributes   ,getCopies,30
+adds the specified action listener to receive action events from this button   ,addActionListener,31
+inserts a separator at the specified position   ,insertSeparator,32
+gets all the objects currently registered as foo listeners upon this drag source   ,getListeners,33
+primitive data write of this string in modified utf - 8 format   ,writeUtf,34
+gets the method used to access the registered event listeners   ,getGetListenerMethod,35
+repaints the specified rectangle of this component   ,repaint,36
+get the font metrics of this object   ,getFontMetrics,37
+enables event delivery to this menu item for events to be defined by the specified event mask parameter   ,enableEvents,38
+writes len bytes from the specified byte array starting at offset off to this output stream   ,write,39
+returns the number of banks in this data buffer   ,getNumBanks,40
+moves the focus down one focus traversal cycle   ,downFocusCycle,41
+dispatches an event to this component or one of its sub components   ,dispatchEvent,42
+calls painter to render the pages in the specified format   ,setPrintable,43
+removes the specified action listener so that it no longer receives action events from this list   ,removeActionListener,44
+gets the visible amount of this scroll bar   ,getVisibleAmount,45
+changes to a new byte array to hold the pixels for this image   ,newPixels,46
+"deprecated as inconsistent with hash code contract , use is mime type equal string instead   ",equals,47
+returns the keys of all the attributes supported by this font   ,getAvailableAttributes,48
+creates the peer for this label   ,addNotify,49
+the write object is a single entry point to the persistence and is used by a encoder in the traditional mode of delegation   ,writeObject,50
+returns the graphics device where the mouse pointer was at the moment this pointer info was created   ,getDevice,51
+"deprecated as of jdk version 1 1 , replaced by get minimum size   ",minimumSize,52
+determines whether the splash screen is visible   ,isVisible,53
+normally event sources are multicast   ,isUnicast,54
+makes the item at the specified index visible   ,makeVisible,55
+when an instance of this class is used as a delegate for the implementation of the bean context protocols and its subprotocols there exists a ' chicken and egg ' problem during deserialization   ,readChildren,56
+reads len bytes from an input stream   ,readFully,57
+get the minimum accessible value of this object   ,getMinimumAccessibleValue,58
+"calculates a page format with values consistent with those supported by the current print service for this job ie the value returned by get print service and media , printable area and orientation contained in attributes   ",getPageFormat,59
+this method returns the current data flavors   ,getCurrentDataFlavors,60
+the set color model method is part of the image consumer api which this class must implement to retrieve the pixels   ,setColorModel,61
+returns the size of the table for a specified tag   ,getFontTableSize,62
+gets the selected items on this scrolling list   ,getSelectedItems,63
+checks this event to determine whether or not the service being revoked is of a particular class   ,isServiceClass,64
+sets this check box ' s group to the specified check box group   ,setCheckboxGroup,65
+create a compatible writable raster the same size as this raster with the same sample model and a new initialized data buffer   ,createCompatibleWritableRaster,66
+returns the numeric key code for this awt key stroke   ,getKeyCode,67
+gets the help menu on the menu bar   ,getHelpMenu,68
+handles the mouse entered event by invoking the mouse entered methods on listener - a and listener - b   ,mouseEntered,69
+adds the specified item listener to receive item events from this choice menu   ,addItemListener,70
+return the nth accessible child of the object   ,getAccessibleChild,71
+sets this applet ' s stub   ,setStub,72
+subdivides the quadratic curve specified by the coordinates stored in the src array at indices srcoff through srcoff + 5 and stores the resulting two subdivided curves into the two result arrays at the corresponding indices   ,subdivide,73
+removes a vetoable change listener from the listener list   ,removeVetoableChangeListener,74
+invoked when a window is no longer the active window   ,windowDeactivated,75
+reports whether or not this bean context is empty   ,isEmpty,76
+"writes len bytes from array b , in order , to the output stream   ",write,77
+"returns the number of data elements needed to transfer one pixel via the get data elementsint , int , java lang object , java awt image data buffer and set data elementsint , int , java lang object , java awt image data buffer methods   ",getNumDataElements,78
+writes an array of bytes   ,write,79
+writes the specified byte to this buffered output stream   ,write,80
+adds the specified accessible child of the object to the object ' s selection   ,addAccessibleSelection,81
+returns the profile class   ,getProfileClass,82
+called when an ancestor of the source is moved   ,ancestorMoved,83
+starts loading all images tracked by this media tracker   ,waitForAll,84
+removes the peer for this list   ,removeNotify,85
+gets the index of this object in its accessible parent   ,getAccessibleIndexInParent,86
+writes a boolean to the underlying output stream as a 1 - byte value   ,writeBoolean,87
+deprecated replaced by concatenate transform affine transform   ,concetenateTransform,88
+skips n bytes of input   ,skip,89
+flips to the last card of the container   ,last,90
+returns an iterator of all children of this bean context   ,bcsChildren,91
+returns a new writable raster which shares all or part of this writable raster ' s data buffer   ,createWritableChild,92
+handles the component shown event by invoking the component shown methods on listener - a and listener - b   ,componentShown,93
+removes an awt event listener from receiving dispatched awt events   ,removeAwteVentListener,94
+computes the hash code for this color   ,hashCode,95
+sets the block increment for this scroll bar   ,setBlockIncrement,96
+writes len bytes from the specified byte array starting at offset off to this byte array output stream   ,write,97
+claim there are no icons available   ,getIcon,98
+returns profile minor version   ,getMinorVersion,99
+clears the internal error state of this stream   ,clearError,100
+"creates a graphics context as a graphics2d object for the splash screen overlay image , which allows you to draw over the splash screen   ",createGraphics,101
+get the cursor of this object   ,getCursor,102
+returns a hash code value for this page attributes   ,hashCode,103
+"deprecated as of jdk version 1 1 , replaced by process mouse event mouse event   ",mouseUp,104
+gets the method that this method descriptor encapsulates   ,getMethod,105
+gets the state of this frame obsolete   ,getState,106
+gets the property value as a string suitable for presentation to a human to edit   ,getAsText,107
+determine if the object is visible   ,isVisible,108
+"deprecated as of jdk version 1 1 , replaced by process mouse event mouse event   ",mouseExit,109
+returns the character for this awt key stroke   ,getKeyChar,110
+writes the specified byte to the piped output stream   ,write,111
+gets the bean context child if any of the specified child   ,getChildBeanContextChild,112
+returns the mime type string for this data flavor   ,getMimeType,113
+subdivides the cubic curve specified by the coordinates stored in the src array at indices srcoff through srcoff + 7 and stores the resulting two subdivided curves into the two result arrays at the corresponding indices   ,subdivide,114
+"typically this method will be called by dispatch event if no other key event dispatcher in the dispatcher chain dispatched the key event , or if no other key event dispatchers are registered   ",dispatchKeyEvent,115
+used to serialize all children of this bean context   ,writeChildren,116
+writes the specified byte the low eight bits of the argument b to the underlying output stream   ,write,117
+this method returns the user drop action   ,getUserAction,118
+reads an unsigned 8 bit byte   ,readUnsignedByte,119
+"adds the specified component to the layout , using the specified constraints object   ",addLayoutComponent,120
+invoked when a window is activated   ,windowActivated,121
+returns debugging information for this text layout   ,toString,122
+gets the serializable if any associated with the specified child   ,getChildSerializable,123
+subclasses can override this method to insert their own subclass of child without having to override add or the other collection methods that add children to the set   ,createBcscHild,124
+returns true if this text layout is vertical   ,isVertical,125
+determines if this applet is active   ,isActive,126
+"if passed to the appropriate variant of java beans beans instantiate this method will be called in order to associate the newly instantiated applet java bean with its applet context , applet stub , and container   ",initialize,127
+returns a copy of the current transform in the graphics2d context   ,getTransform,128
+gets the package names that will be searched for property editors   ,getEditorSearchPath,129
+returns the width of the volatile image   ,getWidth,130
+this method returns an int indicating if the source is in the same jvm as the target   ,isLocalTransfer,131
+gets the class object for the target interface   ,getListenerType,132
+writes len bytes from the specified byte array starting at offset off to this piped output stream   ,write,133
+handles the mouse moved event by invoking the mouse moved methods on listener - a and listener - b   ,mouseMoved,134
+returns the transparency mode for this texture paint   ,getTransparency,135
+determines whether two page attributes are equal to each other   ,equals,136
+notify the drop target that it has been associated with a component this method is usually called from java awt component add notify of the component associated with this drop target to notify the drop target that a component peer has been associated with that component   ,addNotify,137
+"reads bytes , blocking until all bytes are read   ",readFully,138
+returns true if the specified object is a text layout object and if the specified object equals this text layout   ,equals,139
+constructs an icc profile corresponding to the data in an input stream   ,getInstance,140
+returns true if this is a standard glyph   ,isStandard,141
+returns whether this awt key stroke represents a key release   ,isOnKeyRelease,142
+returns the pixel bit stride in bits   ,getPixelBitStride,143
+gets the ares of interest currently contained in the render context   ,getAreaOfInterest,144
+"if the default drag cursor behavior is active , this method sets the default drag cursor for the specified actions supported by the drag source , the drop target action , and status , otherwise this method does nothing   ",updateCurrentCursor,145
+paints each of the components in this container   ,paintComponents,146
+returns the maximum number of colors the toolkit supports in a custom cursor palette   ,getMaximumCursorColors,147
+replaces an entry in the list of source with a new source   ,setSource,148
+used to determine if the bean context child is avoiding using its gui   ,avoidingGui,149
+gets all java bean or bean context instances currently nested in this bean context   ,iterator,150
+specify stream protocol version to use when writing the stream   ,useProtocolVersion,151
+gets the accessible context associated with this menu bar   ,getAccessibleContext,152
+recursively descends the container tree and recomputes the layout for any subtrees marked as needing it those marked as invalid   ,validateTree,153
+this method returns the drag source this drag gesture recognizer will use in order to process the drag and drop operation   ,getDragSource,154
+returns the class which objects supporting this data flavor will return when this data flavor is requested   ,getRepresentationClass,155
+get the color model for the pixels stored in the array   ,getColorModel,156
+fires a bean context service event notifying of a service being revoked   ,fireServiceRevoked,157
+returns the number of bytes available to this virtual machine on the partition named by this abstract pathname   ,getUsableSpace,158
+changes this memory image into a multi - frame animation or a single - frame static image depending on the animated parameter   ,setAnimated,159
+"returns the difference in milliseconds between the timestamp of when this event occurred and midnight , january 1 , 1970 utc   ",getWhen,160
+adds the specified focus listener to receive focus events from this component   ,addFocusListener,161
+returns the location of the key that originated this key event   ,getKeyLocation,162
+"writes the complete contents of this byte array output stream to the specified output stream argument , as if by calling the output stream ' s write method using out writebuf , 0 , count   ",writeTo,163
+reads a 16 bit short   ,readShort,164
+gets the block increment of this scroll bar   ,getBlockIncrement,165
+sets the composite for the graphics2d context   ,setComposite,166
+returns the parent container for this menu component   ,getParent,167
+return a hashcode for this font render context   ,hashCode,168
+returns the parameter string representing the state of this menu shortcut   ,paramString,169
+returns the hash code value for this rendering hints   ,hashCode,170
+the set hints method is part of the image consumer api which this class must implement to retrieve the pixels   ,setHints,171
+determines whether or not two points are equal   ,equals,172
+returns the start point2d of this line2d   ,getP1,173
+enables the events defined by the specified event mask parameter to be delivered to this component   ,enableEvents,174
+adds an image to the list of images being tracked by this media tracker   ,addImage,175
+request the image or image producer to start delivering pixels and wait for all of the pixels in the rectangle of interest to be delivered   ,grabPixels,176
+handles the component removed container event by invoking the component removed methods on listener - a and listener - b   ,componentRemoved,177
+returns the width of the page in 1 / 72nds of an inch   ,getWidth,178
+get the accessible action associated with this object   ,getAccessibleAction,179
+adds a service to this bean context   ,addService,180
+returns whether this container is the root of a focus traversal cycle   ,isFocusCycleRoot,181
+the equals method for all key objects will return the same result as the equality operator ' = = '   ,equals,182
+returns the height of the buffered image   ,getHeight,183
+writes a string as a sequence of chars   ,writeChars,184
+selects the best text data flavor from an array of data flavors   ,selectBestTextFlavor,185
+gets the rendering hints of this render context   ,getRenderingHints,186
+"gets the instance of menu item associated with the specified menu shortcut object , or null if none of the menu items being managed by this menu bar is associated with the specified menu shortcut   ",getShortcutMenuItem,187
+returns the io exception that terminated the print job   ,getIoeXception,188
+returns true if the last page will be printed first   ,lastPageFirst,189
+creates the peer of the checkbox   ,addNotify,190
+an opportunity to lazily evaluate desktop property values   ,lazilyLoadDesktopProperty,191
+"provides a formatted prompt , then reads a password or passphrase from the console with echoing disabled   ",readPassword,192
+you can associate a short descriptive string with a feature   ,setShortDescription,193
+adds the specified action listener to receive action events from this tray icon   ,addActionListener,194
+"gets a reader for a text flavor , decoded , if necessary , for the expected charset encoding   ",getReaderForText,195
+gets the accessible context associated with this list   ,getAccessibleContext,196
+writes to the output stream the eight low - order bits of the argument b   ,write,197
+adds the specified window state listener to receive window events from this window   ,addWindowStateListener,198
+"deprecated as of jdk version 1 1 , replaced by process mouse event mouse event   ",mouseEnter,199
+specifies whether output will be to a printer or a file for jobs using these attributes   ,getDestination,200
+delete any menu shortcut object associated with this menu item   ,deleteShortcut,201
+"introspect on a java bean and learn about all its properties , exposed methods , and events , subject to some control flags   ",getBeanInfo,202
+returns the descent of this text layout   ,getDescent,203
+"are lines horizontal ? this will return true for horizontal , left - to - right writing systems such as roman   ",isHorizontal,204
+obtains this toolkit ' s implementation of helper class for mouse info operations   ,getMouseInfoPeer,205
+"returns the width of the display , in pixels   ",getWidth,206
+"returns whether this window should receive focus on subsequently being shown with a call to set visibletrue , or being moved to the front with a call to to front   ",isAutoRequestFocus,207
+returns the drag source that instantiated this drag source context   ,getDragSource,208
+adds the specified selected item in the object to the object ' s selection   ,addAccessibleSelection,209
+reports whether or not this object is in currently in design time mode   ,isDesignTime,210
+returns the height of the volatile image   ,getHeight,211
+returns the band offset for all bands   ,getBandOffsets,212
+moves mouse pointer to given screen coordinates   ,mouseMove,213
+"creates a rendered image instance of this image with width w , and height h in pixels   ",createScaledRendering,214
+returns the family name of this font   ,getFamily,215
+"returns the height of the display , in pixels   ",getHeight,216
+adds the specified mouse listener to receive mouse - motion events from this tray icon   ,addMouseMotionListener,217
+read an object from the object input stream   ,readObject,218
+adds an image consumer to the list of consumers interested in data for this image and immediately starts delivery of the image data through the image consumer interface   ,startProduction,219
+write an xml representation of the specified object to the output   ,writeObject,220
+sets whether this dialog is resizable by the user   ,setResizable,221
+gets the preferred size of this scrolling list   ,getPreferredSize,222
+adds the specified component listener to receive component events from this component   ,addComponentListener,223
+this method returns an int representing the current actions this drop target will accept   ,getTargetActions,224
+returns a affine transform that can be concatenated with the default affine transform of a graphics configuration so that 72 units in user space equals 1 inch in device space   ,getNormalizingTransform,225
+specifies whether output will be to a printer or a file for jobs using these attributes   ,setDestination,226
+returns a boolean which whether text fractional metrics mode is used in this font render context   ,usesFractionalMetrics,227
+reads an 8 bit byte   ,readByte,228
+returns the height of the page in 1 / 72nds of an inch   ,getHeight,229
+request the pixel grabber to abort the image fetch   ,abortGrabbing,230
+constructs an icc profile object corresponding to the data in a byte array   ,getInstance,231
+returns the number of actions available in this object   ,getAccessibleActionCount,232
+"stores the width / height of this component into "" return value "" rv and return rv   ",getSize,233
+prints each of the components in this container   ,printComponents,234
+returns the destination printer for jobs using these attributes   ,getPrinter,235
+returns the name of the named property associated with the listener   ,getPropertyName,236
+this is a utility method to help in loading icon images   ,loadImage,237
+returns whether or not any tile is checked out for writing   ,hasTileWriters,238
+handles the window deactivated event by invoking the window deactivated methods on listener - a and listener - b   ,windowDeactivated,239
+notifies this input method of changes in the client window location or state   ,notifyClientWindowChange,240
+"the execute method finds a method whose name is the same as the method name property , and invokes the method on the target   ",execute,241
+returns the location of the destination point given a point in the source raster   ,getPoint2D,242
+associates the specified stream with the specified key in this applet context   ,setStream,243
+relinquishes the right to write to a tile   ,releaseWritableTile,244
+returns a static snapshot image of this object   ,getSnapshot,245
+check if a bean can be viewed as a given target type   ,isInstanceOf,246
+"returns a numeric value for this object that is likely to be unique , making it a good choice as the index value in a hash table   ",hashCode,247
+returns the number of accessible children in the object   ,getAccessibleChildrenCount,248
+return the text anti - aliasing rendering mode hint used in this font render context   ,getAntiAliasingHint,249
+returns the number of tiles in the x direction   ,getNumXtIles,250
+gets the accessible context for this object   ,getAccessibleContext,251
+indicates if this container is a validate root   ,isValidateRoot,252
+sets this round rectangle2d to be the same as the specified round rectangle2d   ,setRoundRect,253
+get the application ' s or applet ' s event queue instance   ,getSystemEventQueue,254
+asks the current input method to reconvert text from the current client component   ,reconvert,255
+deprecated as of jdk version 1 1 replaced by process event awt event   ,handleEvent,256
+this returns an image producer for this volatile image   ,getSource,257
+flushes the stream and checks its error state   ,checkError,258
+gets the standard height of a line of text in this font   ,getHeight,259
+concatenates the current graphics2d transform with a translated rotation transform   ,rotate,260
+adds the specified item listener to receive item events from this check box menu item   ,addItemListener,261
+"reads one input byte , zero - extends it to type int , and returns the result , which is therefore in the range 0 through 255   ",readUnsignedByte,262
+gets the class object for the bean ' s customizer   ,getCustomizerClass,263
+returns the bounds of the specified string in the specified graphics context   ,getStringBounds,264
+returns the component at the top of the hierarchy which was changed   ,getChanged,265
+returns the component associated with this drag source context   ,getComponent,266
+specifies the file name for the output file for jobs using these attributes   ,getFileName,267
+"returns true if this component is completely opaque , returns false by default   ",isOpaque,268
+invoked when a window is de - activated   ,windowDeactivated,269
+renames the file denoted by this abstract pathname   ,renameTo,270
+responds to a request for a top down left right tdlr ordered resend of the pixel data from an image consumer   ,resendTopDownLeftRight,271
+skips n bytes of input from this input stream   ,skip,272
+launches the default browser to display a uri   ,browse,273
+clears the list of parameters   ,removeParameters,274
+returns whether or not the alpha has been premultiplied   ,isAlphaPremultiplied,275
+returns whether the text range is selected   ,isSelected,276
+adds the specified text event listener to receive text events from this text component   ,addTextListener,277
+note : the event class is obsolete and is available only for backwards compatibility   ,translate,278
+returns the rendering hints for this raster op   ,getRenderingHints,279
+gets the label for this menu item   ,getLabel,280
+finds and returns the applet in the document represented by this applet context with the given name   ,getApplet,281
+removes a vetoable change listener from the listener list for a specific property   ,removeVetoableChangeListener,282
+"adds the specified component to the layout , using the specified constraint object   ",addLayoutComponent,283
+lays out the specified container   ,layoutContainer,284
+subclasses may envelope to monitor child property changes   ,propertyChange,285
+returns true if the specified object is a valid value for this key   ,isCompatibleValue,286
+removes the specified bean context membership listener so that it no longer receives bean context membership events when the child components are added or removed   ,removeBeanContextMembershipListener,287
+removes an image consumer from the list of consumers interested in data for this image   ,removeConsumer,288
+obsolete as of java 2 platform v1 1   ,addItem,289
+"creates a graphics2d , which can be used to draw into this volatile image   ",createGraphics,290
+resets the buffer to the marked position   ,reset,291
+"returns a shared instance of an awt key stroke , given a numeric key code and a set of modifiers   ",getAwtkEyStroke,292
+returns the current composite in the graphics2d context   ,getComposite,293
+handles the component resized event by invoking the component resized methods on listener - a and listener - b   ,componentResized,294
+returns the bounds of the specified array of characters in the specified graphics context   ,getStringBounds,295
+gets the service class that is the subject of this notification   ,getServiceClass,296
+destroys the buffers created through this object   ,destroyBuffers,297
+creates the popup menu ' s peer   ,addNotify,298
+returns the hashcode for this round rectangle2d   ,hashCode,299
+registers a created fontin this graphics environment   ,registerFont,300
+invoked when the target clipboard of the listener has changed its available data flavors   ,flavorsChanged,301
+"if the color model object is the same one that has already been converted , then simply passes the pixels through with the converted color model , otherwise converts the buffer of integer pixels to the default rgb color model and passes the converted buffer to the filter rgb pixels method to be converted one by one   ",setPixels,302
+handles the component added container event by invoking the component added methods on listener - a and listener - b   ,componentAdded,303
+writes a string to the output stream   ,writeBytes,304
+subclasses may override this method to simply extend add semantics after the child has been added and before the event notification has occurred   ,childJustAddedHook,305
+"returns whether the key in this event is an "" action "" key   ",isActionKey,306
+removes a vetoable change listener from this bean context child so that it no longer receives events when the specified property changes   ,removeVetoableChangeListener,307
+"tests whether or not a display , keyboard , and mouse can be supported in this environment   ",isHeadless,308
+"deprecated as of jdk version 1 1 , replaced by append string   ",appendText,309
+causes runnable to have its run method called in the dispatch thread of the system event queue   ,invokeAndWait,310
+"creates a graphics2d , which can be used to draw into this buffered image   ",createGraphics,311
+accept the drag   ,acceptDrag,312
+sets the requested data array element in the specified bank from the given float   ,setElemFloat,313
+gets the currently available services for this context   ,getCurrentServiceClasses,314
+converts the buffer ' s contents into a string decoding bytes using the platform ' s default character set   ,toString,315
+write an object to the underlying storage or stream   ,writeObject,316
+returns a new font using the specified font type and the specified font file   ,createFont,317
+writes two bytes to the output stream to represent the value of the argument   ,writeShort,318
+remove an image consumer from the list of consumers interested in data for this image   ,removeConsumer,319
+gets the instance of color model used to display the component on the output device   ,getColorModel,320
+inserts a menu item with the specified label into this menu at the specified position   ,insert,321
+reads a single line of text from the console   ,readLine,322
+"returns an array of all windows , both owned and ownerless , created by this application   ",getWindows,323
+resolves instances being deserialized to the predefined constants   ,readResolve,324
+inserts a menu item into this menu at the specified position   ,insert,325
+returns an array of all the action listeners registered on this tray icon   ,getActionListeners,326
+drain any buffered data in object output stream   ,drain,327
+sets the location of the end points and control points of this curve to the coordinates of the point2d objects at the specified offset in the specified array   ,setCurve,328
+note : the event class is obsolete and is available only for backwards compatibility   ,controlDown,329
+returns the default component to focus   ,getDefaultComponent,330
+see the general contract of the read boolean method of data input   ,readBoolean,331
+returns all display modes available for this graphics device   ,getDisplayModes,332
+returns the component that should receive the focus when a window is made visible for the first time   ,getInitialComponent,333
+returns an array of all the flavor listeners currently registered on this clipboard   ,getFlavorListeners,334
+returns whether this graphics configuration supports the perpixel translucent kind of translucency   ,isTranslucencyCapable,335
+determines whether this property editor is paintable   ,isPaintable,336
+adds the specified mouse listener to receive mouse events from this component   ,addMouseListener,337
+determines whether another object is equal to this color   ,equals,338
+give native peers the ability to query the native container given a native component eg the direct parent may be lightweight   ,getNativeContainer,339
+specifies the modal exclusion type for this window   ,setModalExclusionType,340
+processes mouse wheel events occurring on this component by dispatching them to any registered mouse wheel listener objects   ,processMouseWheelEvent,341
+removes a previously added key event post processor from this keyboard focus manager ' s post - processor chain   ,removeKeyEventPostProcessor,342
+called when the hierarchy has been changed   ,hierarchyChanged,343
+handles the action performed event by invoking the action performed methods on listener - a and listener - b   ,actionPerformed,344
+"sets the focus traversal policy that will manage keyboard traversal of this container ' s children , if this container is a focus cycle root   ",setFocusTraversalPolicy,345
+invoked when the mouse has been clicked on a component   ,mouseClicked,346
+concatenates the current graphics2d transform with a rotation transform   ,rotate,347
+returns the bounding box of the rescaled destination raster   ,getBounds2D,348
+"adds an image consumer to the list of consumers interested in data for this image , and immediately starts delivery of the image data through the image consumer interface   ",startProduction,349
+flips to the first card of the container   ,first,350
+determines whether this property editor supports a custom editor   ,supportsCustomEditor,351
+adds a listener to receive adjustment events when the value of the adjustable object changes   ,addAdjustmentListener,352
+called by read object after default read object but prior to deserialization of any children   ,bcsPreDeserializationHook,353
+reads a string in modified utf - 8 format   ,readUtf,354
+associate this printer job with a new print service   ,setPrintService,355
+"writes two bytes of length information to the output stream , followed by the modified utf - 8 representation of every character in the string s   ",writeUtf,356
+"provides a formatted prompt , then reads a single line of text from the console   ",readLine,357
+revalidates the component hierarchy up to the nearest validate root   ,revalidate,358
+return true if this font contains attributes that require extra layout processing   ,hasLayoutAttributes,359
+returns the number of bands samples per pixel in this raster   ,getNumBands,360
+adds an image consumer to the list of consumers interested in data for this image   ,addConsumer,361
+returns whether the specified container is the focus cycle root of this container ' s focus traversal cycle   ,isFocusCycleRoot,362
+subclasses may envelope to monitor veto child property changes   ,vetoableChange,363
+returns the print quality for pages using these attributes   ,getPrintQuality,364
+returns true if this window will appear at the default location for the native windowing system the next time this window is made visible   ,isLocationByPlatform,365
+this method enables the current bean info object to return an arbitrary collection of other bean info objects that provide additional information about the current bean   ,getAdditionalBeanInfo,366
+"adds a separator line , or a hypen , to the menu at the current position   ",addSeparator,367
+invoked when an item has been selected or deselected by the user   ,itemStateChanged,368
+returns the transfer type used to transfer pixels by way of the get data elements and set data elements methods   ,getTransferType,369
+decodes a string native for use as a data flavor   ,decodeDataFlavor,370
+returns the image as one large tile for tile based images this will require fetching the whole image and copying the image data over   ,getData,371
+handles the window activated event by invoking the window activated methods on listener - a and listener - b   ,windowActivated,372
+returns an array of all the hierarchy listeners registered on this component   ,getHierarchyListeners,373
+"requests that this component get the input focus , if this component ' s top - level ancestor is already the focused window   ",requestFocusInWindow,374
+gets the base url   ,getCodeBase,375
+gets the role of this object   ,getAccessibleRole,376
+returns a clone of this data flavor   ,clone,377
+returns the print resolution for pages using these attributes   ,getPrinterResolution,378
+returns an array of all the mouse listeners registered on this tray icon   ,getMouseListeners,379
+"this default implementation of the initialize method assumes all state held in objects of this type is exposed via the matching pairs of "" setter "" and "" getter "" methods in the order they are returned by the introspector   ",initialize,380
+"calls drag enter on the drag source listeners registered with this drag source context and with the associated drag source , and passes them the specified drag source drag event   ",dragEnter,381
+returns true if this is a combining glyph   ,isCombining,382
+"returns the height , in 1 / 72nds of an inch , of the page   ",getHeight,383
+"if the layout manager uses a per - component string , adds the component comp to the layout , associating it with the string specified by name   ",addLayoutComponent,384
+writes the contents of the buffer to another character stream   ,writeTo,385
+reads the next line of text from the input stream   ,readLine,386
+returns the buffer capabilities for this buffer strategy   ,getCapabilities,387
+returns the character index of the specified glyph   ,getGlyphCharIndex,388
+removes the specified action listener so it no longer receives action events from this menu item   ,removeActionListener,389
+returns an array of all the focus listeners registered on this component   ,getFocusListeners,390
+returns the tile width in pixels   ,getTileWidth,391
+returns true if rendering data was lost since last validate call   ,contentsLost,392
+sets whether this window should appear at the default location for the native windowing system or at the current location returned by get location the next time the window is made visible   ,setLocationByPlatform,393
+gets the accessible parent of this object   ,getAccessibleParent,394
+this method is obsolete and supplied for backwards compatibility only ; new code should call adjust for gravity instead   ,adjustForGravity,395
+handles the mouse released event by invoking the mouse released methods on listener - a and listener - b   ,mouseReleased,396
+returns the level of the character at index   ,getCharacterLevel,397
+"create a compatible writable raster with location minx , miny and size width , height specified by rect , a new sample model , and a new initialized data buffer   ",createCompatibleWritableRaster,398
+deactivates the input method   ,deactivate,399
+returns whether or not the meta modifier is down on this event   ,isMetaDown,400
+returns the detail message string of this throwable   ,getMessage,401
+add a vetoable change listener for a specific property   ,addVetoableChangeListener,402
+gets the transform that is used to scale typographical points to pixels in this font render context   ,getTransform,403
+returns the resulting multicast listener after removing the old listener from listener - l   ,removeInternal,404
+presses a given key   ,keyPress,405
+sets the owner of this decoder to owner   ,setOwner,406
+returns the pixel bounds of the glyph at index when this glyph vector is rendered in a graphics with the given font render context at the given location   ,getGlyphPixelBounds,407
+"transfers the focus to the next component , as though this component were the focus owner   ",transferFocus,408
+remove a service   ,revokeService,409
+adds a listener to receive item events when the state of an item is changed by the user   ,addItemListener,410
+request the image or image producer to start delivering pixels and wait for all of the pixels in the rectangle of interest to be delivered or until the specified timeout has elapsed   ,grabPixels,411
+returns the width in pixels   ,getWidth,412
+sets the popup menu for this tray icon   ,setPopupMenu,413
+adds a vetoable change listener to the listener list for a specific property   ,addVetoableChangeListener,414
+restores this data flavor from a serialized state   ,readExternal,415
+returns the height of the rendered image   ,getHeight,416
+returns the icc profile for this icc color space   ,getProfile,417
+sets the focus traversal keys for a given traversal operation for this container   ,setFocusTraversalKeys,418
+determines whether or not the interior of the arc intersects the interior of the specified rectangle   ,intersects,419
+gets the accessible context associated with this popup menu   ,getAccessibleContext,420
+gets the specified font from the system properties list   ,getFont,421
+gets the command name of the action event that is fired by this menu item   ,getActionCommand,422
+returns an array of all the window listeners registered on this window   ,getWindowListeners,423
+gets an iterator providing access to the entire text and attributes contained in the text editing component except for uncommitted text   ,getCommittedText,424
+returns the number of characters represented by this text layout   ,getCharacterCount,425
+skips over and discards n bytes of data from the input stream   ,skip,426
+sets the constraints for the specified component in this layout   ,setConstraints,427
+returns the cause of this exception the io exception that terminated the print job   ,getCause,428
+"returns the focus traversal policy that will manage keyboard traversal of this container ' s children , or null if this container is not a focus cycle root   ",getFocusTraversalPolicy,429
+returns the time stamp of when this event occurred   ,getWhen,430
+"deprecated as of jdk version 1 1 , replaced by insert string , int   ",insertText,431
+gets the accessible description of this object   ,getAccessibleDescription,432
+returns whether or not the alt modifier is down on this event   ,isAltDown,433
+"converts the components of a color , as specified by the default rgb model , to an equivalent set of values for hue , saturation , and brightness that are the three components of the hsb model   ",rgbToHsb,434
+"deprecated as of jdk version 1 1 , replaced by get preferred sizeint , int   ",preferredSize,435
+adds the specified window focus listener to receive window events from this window   ,addWindowFocusListener,436
+returns true if the representation class is remote   ,isRepresentationClassRemote,437
+returns true if the representation class can be serialized   ,isRepresentationClassSerializable,438
+returns the logical bounds of the specified string in the specified font render context   ,getStringBounds,439
+gets the input method request handler which supports requests from input methods for this component   ,getInputMethodRequests,440
+deprecated font rendering is now platform independent   ,getPeer,441
+returns whether this menu shortcut must be invoked using the shift key   ,usesShiftModifier,442
+handles the window closed event by invoking the window closed methods on listener - a and listener - b   ,windowClosed,443
+enables / disables scrolling in response to movement of the mouse wheel   ,setWheelScrollingEnabled,444
+gets the method descriptors of the target listener interface   ,getListenerMethodDescriptors,445
+retrieves the 6 specifiable values in the 3x3 affine transformation matrix and places them into an array of double precisions values   ,getMatrix,446
+inserts the specified text at the specified position in this text area   ,insert,447
+"writes an "" unshared "" object to the object output stream   ",writeUnshared,448
+returns the current stroke in the graphics2d context   ,getStroke,449
+"deprecated as of jdk version 1 1 , replaced by dispatch event   ",postEvent,450
+gets the selected item on this scrolling list   ,getSelectedItem,451
+get the font of this object   ,getFont,452
+sets the location of the end points and control point of this quad curve2d to the specified point2d coordinates   ,setCurve,453
+creates the peer for a drag source context   ,createDragSourceContextPeer,454
+returns whether or not the alpha has been premultiplied in the pixel values to be translated by this color model   ,isAlphaPremultiplied,455
+"returns the width , in 1 / 72nds of an inch , of the page   ",getWidth,456
+checks to see if all images tracked by this media tracker that are tagged with the specified identifier have finished loading   ,checkId,457
+a convenience method which locates factories for stream print services which can image 2d graphics   ,lookupStreamPrintServices,458
+returns a hash code value for this job attributes   ,hashCode,459
+processes events on this check box   ,processEvent,460
+"returns the parent writable raster if any of this writable raster , or else null   ",getWritableParent,461
+sets the new design time value for this bean context   ,setDesignTime,462
+adds the specified mouse wheel listener to receive mouse wheel events from this component   ,addMouseWheelListener,463
+returns a hashcode for this image graphic attribute   ,hashCode,464
+returns the desktop instance of the current browser context   ,getDesktop,465
+moves the focus up one focus traversal cycle   ,upFocusCycle,466
+"specifies whether , for jobs using these attributes , the application should print all pages , the range specified by the return value of get page ranges , or the current selection   ",getDefaultSelection,467
+writes a string as a sequence of bytes   ,writeBytes,468
+sets the selection end for this text component to the specified position   ,setSelectionEnd,469
+returns the index of the character hit   ,getCharIndex,470
+"objects that implement this interface , shall fire a java beans property change event , with parameters : property name "" bean context "" , old value the previous nesting bean context instance , or null , new value the current nesting bean context instance , or null   ",setBeanContext,471
+returns the number of pages in this book   ,getNumberOfPages,472
+adds a scaled image to the list of images being tracked by this media tracker   ,addImage,473
+listeners registered on the component by this recognizer shall record all events that are recognized as part of the series of events that go to comprise a drag and drop initiating gesture via this api   ,appendEvent,474
+gets the cursor of this object   ,getCursor,475
+returns an array of all the action listeners registered on this list   ,getActionListeners,476
+"creates a data buffer that corresponds to this banded sample model , the data buffer ' s data type , number of banks , and size will be consistent with this banded sample model   ",createDataBuffer,477
+indicates whether this frame is resizable by the user   ,isResizable,478
+removes a key event dispatcher which was previously added to this keyboard focus manager ' s dispatcher chain   ,removeKeyEventDispatcher,479
+returns the width of the buffered image   ,getWidth,480
+"the "" expert "" flag is used to distinguish between those features that are intended for expert users from those that are intended for normal users   ",isExpert,481
+returns a high precision and more accurate bounding box of the shape than the get bounds method   ,getBounds2D,482
+gets the owner of this decoder   ,getOwner,483
+"makes an attempt to skip over n bytes of data from the input stream , discarding the skipped bytes   ",skipBytes,484
+returns a string representation of this robot   ,toString,485
+deny knowledge of a default property   ,getDefaultPropertyIndex,486
+removes a property change listener from this bean context child so that it no longer receives property change events when the specified property is changed   ,removePropertyChangeListener,487
+specifies the file name for the output file for jobs using these attributes   ,setFileName,488
+gets the number of components in this panel   ,getComponentCount,489
+invoked when a window is iconified   ,windowIconified,490
+adds a property change listener to the listener list for a specific property   ,addPropertyChangeListener,491
+gets the items in the list   ,getItems,492
+returns an array of all the component listeners registered on this component   ,getComponentListeners,493
+gets the owner of this encoder   ,getOwner,494
+gets the accessible context associated with this applet   ,getAccessibleContext,495
+returns the current position of this line break measurer   ,getPosition,496
+sets the location of the end points and control point of this quad curve2d to the same as those in the specified quad curve2d   ,setCurve,497
+gets the accessible context associated with this scrollbar   ,getAccessibleContext,498
+returns a tentative value for old instance in the environment created by this stream   ,get,499
+specifies the minimum value the user can specify as the first page to be printed for jobs using these attributes   ,setMinPage,500
