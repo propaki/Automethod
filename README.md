@@ -11,6 +11,7 @@ There are two datasets are used to evalatute the approach
 Each dataset is crucial for training and evaluating the models to ensure they perform effectively across linguistic boundaries.
 # Corpus of Prompts: 
 Included in the "OptiPrompts" folder is a carefully curated corpus of prompts, comprised of text files, designed to enhance the performance of ChatGPT in accurately generating Java method names based on functional descriptions. These prompts are crafted to elicit precise and contextually relevant responses from the model, adhering to a well-designed template that aligns with the naming conventions and requirements specific to Java methods.
+![Prompt Corpus](Optiprompts.PNG)
 # Supervised Fine Tuning (SFT) training corpus:
 The Chinese-SFT-Training-Corpus.JSONL and English-SFT-Training-Corpus.JSONL files in the "SFT-Training-Corpus" folder are specifically tailored for fine-tuning the Large Language Model (LLM) to enhance its capability in generating method names from functional descriptions in Chinese and English. It contains a collection of high-quality conversation samples between two individuals. Each sample comprises a pair: a functional description and the corresponding method name, meticulously extracted through the Best-Example process. This corpus aims to improve the model's accuracy and fluency in handling Chinese language inputs, ensuring the generation of contextually appropriate and conventionally accurate method names.
 # RNN-Attn-Copy (Baseline Model)
