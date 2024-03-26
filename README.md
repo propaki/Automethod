@@ -14,6 +14,7 @@ Included in the "OptiPrompts" folder is a carefully curated corpus of prompts, c
 ![Prompt Corpus](Optiprompts.PNG)
 # Supervised Fine Tuning (SFT) training corpus:
 The Chinese-SFT-Training-Corpus.JSONL and English-SFT-Training-Corpus.JSONL files in the "SFT-Training-Corpus" folder are specifically tailored for fine-tuning the Large Language Model (LLM) to enhance its capability in generating method names from functional descriptions in Chinese and English. It contains a collection of high-quality conversation samples between two individuals. Each sample comprises a pair: a functional description and the corresponding method name, meticulously extracted through the Best-Example process. This corpus aims to improve the model's accuracy and fluency in handling Chinese language inputs, ensuring the generation of contextually appropriate and conventionally accurate method names.
+![SFT training corpus](SFTcorpus.PNG)
 # RNN-Attn-Copy (Baseline Model)
 We meticulously reproduced and implemented the baseline model in "Source-Code", which is a RNN-Attn-Copy equipped with both attention and copying mechanisms. This advanced architecture was chosen as our benchmark for assessing the performance of alternative models due to its proven prowess in sequence-to-sequence translation tasks and its exceptional ability to grasp contextual nuances within sequences.
 # mNamer Approach: Semantic-Driven Preprocessing and Fine-Tuning:
