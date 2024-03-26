@@ -42,6 +42,10 @@ We evaluate the semantic similarity between generated method names and the actua
 Through this meticulous approach, mNamer aims to enhance the LLM's ability to generate method names that are not only accurate but also semantically aligned with the developers' intentions, thereby improving code readability and maintainability.
 ![SubDatasets](RLHF.PNG)
 # mNamer
+
+This snippet gives a clear, step-by-step guide for users to replicate the study, ensuring they understand how to set up their environment correctly. Make sure to include any additional specific instructions or prerequisites needed directly in your README or linked documentation to assist users further.
+git clone [https://github.com/propaki/Automethod].git
+
 fine-tuned ready to chat ChatGPT4 extention availabe at https://chat.openai.com/g/g-T58v7ELEM-mnamer
 The source code is the centerpiece of this repository, showcasing the application of BERT-based semantic model for both Semantic Driven Preprocessing and BERT-based RLHF in Postprocessing for LLMs to improve its method naming capabilities. This model represents a significant advancement in the field of automated method naming.
 
