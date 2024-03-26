@@ -20,6 +20,7 @@ The mNamer methodology is structured around two core components:
 Semantic-Driven Preprocessing and Fine-Tuning, designed to optimize the process of generating accurate Java method names from functional descriptions.
 ## 1) Semantic-Driven Preprocessing:
 This phase begins with the selection of the best examples of functional descriptions and method names from our dataset. Utilizing the Python script **SelectBestExamples.ipynb** found in the Source-Code folder, we identify the top 1,800 examples. These are then divided into four subsets as follows:
+![Subsets](/SubDataset.png "mNamer Project Logo")
 
 - 300 samples for **Fine_Tuning.csv**
 - 500 for **Best_Shots.csv**
