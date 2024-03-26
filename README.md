@@ -9,15 +9,11 @@ There are two datasets are used to evalatute the approach
 - English Dataset: Method Names with English Functional Descriptions (Dataset of Baseline).
 - Chinese Dataset: Method Names with Chinese Functional Descriptions. The Dataset organized from [Java 11 API Reference](https://www.apiref.com/java11-zh/java.base/module-summary.html)
 Each dataset is crucial for training and evaluating the models to ensure they perform effectively across linguistic boundaries.
-
-# Corpus of Prompts
-A curated corpus of prompts is provided to optimize ChatGPT's performance in generating accurate method names from functional descriptions. These prompts are tailored to encourage precise and contextually relevant outputs from the model.
+# Corpus of Prompts: 
+Included in the "OptiPrompts" folder is a carefully curated corpus of prompts, comprised of text files, designed to enhance the performance of ChatGPT in accurately generating Java method names based on functional descriptions. These prompts are crafted to elicit precise and contextually relevant responses from the model, adhering to a well-designed template that aligns with the naming conventions and requirements specific to Java methods.
 # Supervised Fine Tuning (SFT) training corpus:
-# Chinese-SFT-Training-Corpus.JSON
-A JSON file to fine tune the LLM with quality conversations between two indviduals using samples (pair of functional description and method name) of Chinese axtracted by Best-Example process. 
-# English-SFT-Training-Corpus.JSON
-A JSON file to fine tune the LLM with quality conversations between two indviduals using samples (pair of functional description and method name) of English axtracted by Best-Example process.
-# Source Code:
+# Chinese-SFT-Training-Corpus.JSONL
+The Chinese-SFT-Training-Corpus.JSONL and English-SFT-Training-Corpus.JSONL files in the "SFT-Training-Corpus" folder are specifically tailored for fine-tuning the Large Language Model (LLM) to enhance its capability in generating method names from functional descriptions in Chinese and English. It contains a collection of high-quality conversation samples between two individuals. Each sample comprises a pair: a functional description and the corresponding method name, meticulously extracted through the Best-Example process. This corpus aims to improve the model's accuracy and fluency in handling Chinese language inputs, ensuring the generation of contextually appropriate and conventionally accurate method names.
 # Baseline Model
 Source code for the baseline model (BiLSTM with attention and copying mechanism) applied to both Dataset 1 and Dataset 2 is available, serving as a comparative benchmark for the mNamer's performance.
 # mNamer
