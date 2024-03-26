@@ -1,11 +1,13 @@
-# mNamer
-mNamer: A tool leveraging LLMs to auto-suggest descriptive method names from functional descriptions. It uses a multistage training approach to bridge semantic gaps, enhancing code quality
+# Replication package for paper : "Automated Suggestion of Method Names According to Functional Descriptions"
+
+# Overview:
+mNamer introduces a novel approach to automatically suggest high-quality Java method names using Large Language Models (LLMs). Leveraging the advanced understanding capabilities of LLMs for natural language descriptions of method functionalities, mNamer combines specialized pre-processing and customized post-processing techniques, including semantics-driven analysis and reinforcement learning from human feedback. This method aims to align generated names with established naming conventions, enhancing code readability and maintainability.
 Datasets
 This repository includes two key datasets:
-# English Dataset:
-Method Names with English Functional Descriptions (Dataset of Baseline).
-# Chinese Dataset:
-Method Names with Chinese Functional Descriptions.
+# Datasets:
+There are two datasets are used to evalatute the approach
+- English Dataset: Method Names with English Functional Descriptions (Dataset of Baseline).
+- Chinese Dataset: Method Names with Chinese Functional Descriptions. The Dataset organized from [Java 11 API Reference](https://www.apiref.com/java11-zh/java.base/module-summary.html)
 Each dataset is crucial for training and evaluating the models to ensure they perform effectively across linguistic boundaries.
 
 # Corpus of Prompts
