@@ -28,6 +28,7 @@ This phase begins with the selection of the best examples of functional descript
 - 500 for **Best_Shots.csv**
 - 500 for **Prompt_Evaluation.csv**
 - 500 for **ReinforcementLearning.csv**
+![SubDatasets](PromptEngineering.PNG)
 The 500 Best-Shots are converted into vectors using the BERT model through **EmbeddingBestExamples.ipynb**, to calculate semantic similarity. These vectors are stored in the **English_Embedded** folder.
 Using **Prompt_Evaluation.csv**, we assess the prompt corpus in the **OptiPrompt** folder. To select 30 relevant shots for a given functional description, **SelectBestShots.ipynb** compares semantic similarity with the vectors in the **English-Embedded** folder, extracting the top 30 relevant examples. This process ensures the creation of an optimal prompt containing best shots that are semantically relevant to the input functional description.
 ## 2) Fine-Tuning
