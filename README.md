@@ -8,15 +8,15 @@ This repository includes two key datasets:
 # Datasets:
 There are two datasets are used to evalatute the approach
 - [English Dataset](https://github.com/propaki/Automethod/tree/main/EnglishDataset): Method Names with English Functional Descriptions (Dataset of Baseline).
-- [Chinese Dataset](https://github.com/propaki/Automethod/tree/main/ChineseDataset): Method Names with Chinese Functional Descriptions. The Dataset organized from [Java 11 API Reference](https://www.apiref.com/java11-zh/java.base/module-summary.html)
+- [Chinese Dataset](https://github.com/propaki/Automethod/tree/main/Chinese%20Dataset): Method Names with Chinese Functional Descriptions. The Dataset organized from [Java 11 API Reference](https://www.apiref.com/java11-zh/java.base/module-summary.html)
 Each dataset is crucial for training and evaluating the models to ensure they perform effectively across linguistic boundaries.
-# Corpus of Prompts: 
+#  [Optimal Prompts](https://github.com/propaki/Automethod/tree/main/OptiPrompts): 
 Included in the "OptiPrompts" folder is a carefully curated corpus of prompts, comprised of text files, designed to enhance the performance of ChatGPT in accurately generating Java method names based on functional descriptions. These prompts are crafted to elicit precise and contextually relevant responses from the model, adhering to a well-designed template that aligns with the naming conventions and requirements specific to Java methods.
 ![Prompt Corpus](Optiprompts.PNG)
-# Supervised Fine Tuning (SFT) training corpus:
+# [Supervised Fine Tuning (SFT) training corpus](https://github.com/propaki/Automethod/tree/main/SFT-Training-Corpus):
 The Chinese-SFT-Training-Corpus.JSONL and English-SFT-Training-Corpus.JSONL files in the "SFT-Training-Corpus" folder are specifically tailored for fine-tuning the Large Language Model (LLM) to enhance its capability in generating method names from functional descriptions in Chinese and English. It contains a collection of high-quality conversation samples between two individuals. Each sample comprises a pair: a functional description and the corresponding method name, meticulously extracted through the Best-Example process. This corpus aims to improve the model's accuracy and fluency in handling Chinese language inputs, ensuring the generation of contextually appropriate and conventionally accurate method names.
 ![SFT training corpus](SFTcorpus.PNG)
-# RNN-Attn-Copy (Baseline Model)
+# [RNN-Attn-Copy (Baseline Model)](https://github.com/propaki/Automethod/tree/main/Source-Code/RNN-Attn-Copy.ipynb):
 We meticulously reproduced and implemented the baseline model in "Source-Code", which is a RNN-Attn-Copy equipped with both attention and copying mechanisms. This advanced architecture was chosen as our benchmark for assessing the performance of alternative models due to its proven prowess in sequence-to-sequence translation tasks and its exceptional ability to grasp contextual nuances within sequences.
 # mNamer Approach: Semantic-Driven Preprocessing and Fine-Tuning:
 The mNamer methodology is structured around two core components:
