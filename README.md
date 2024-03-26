@@ -18,22 +18,22 @@ We meticulously reproduced and implemented the baseline model in "Source-Code", 
 # mNamer Approach: Semantic-Driven Preprocessing and Fine-Tuning:
 The mNamer methodology is structured around two core components:
 Semantic-Driven Preprocessing and Fine-Tuning, designed to optimize the process of generating accurate Java method names from functional descriptions.
-# 1) Semantic-Driven Preprocessing:
-This phase begins with the selection of the best examples of functional descriptions and method names from our dataset. Utilizing the Python script SelectBestExamples.ipynb found in the Source-Code folder, we identify the top 1,800 examples. These are then divided into four subsets as follows:
+## 1) Semantic-Driven Preprocessing:
+This phase begins with the selection of the best examples of functional descriptions and method names from our dataset. Utilizing the Python script **SelectBestExamples.ipynb** found in the Source-Code folder, we identify the top 1,800 examples. These are then divided into four subsets as follows:
 
-- 300 samples for Fine_Tuning.csv
-- 500 for Best_Shots.csv
-- 500 for Prompt_Evaluation.csv
-- 500 for ReinforcementLearning.csv
-The 500 Best-Shots are converted into vectors using the BERT model through EmbeddingBestExamples.ipynb, to calculate semantic similarity. These vectors are stored in the English_Embedded folder. Using Prompt_Evaluation.csv, we assess the prompt corpus in the OptiPrompt folder. To select 30 relevant shots for a given functional description, SelectBestShots.ipynb compares semantic similarity with the vectors in the English-Embedded folder, extracting the top 30 relevant examples. This process ensures the creation of an optimal prompt containing best shots that are semantically relevant to the input functional description.
-
-# 2) Fine-Tuning
+- 300 samples for **Fine_Tuning.csv**
+- 500 for **Best_Shots.csv**
+- 500 for **Prompt_Evaluation.csv**
+- 500 for **ReinforcementLearning.csv**
+The 500 Best-Shots are converted into vectors using the BERT model through **EmbeddingBestExamples.ipynb**, to calculate semantic similarity. These vectors are stored in the **English_Embedded** folder.
+Using **Prompt_Evaluation.csv**, we assess the prompt corpus in the **OptiPrompt** folder. To select 30 relevant shots for a given functional description, **SelectBestShots.ipynb** compares semantic similarity with the vectors in the **English-Embedded** folder, extracting the top 30 relevant examples. This process ensures the creation of an optimal prompt containing best shots that are semantically relevant to the input functional description.
+## 2) Fine-Tuning
 The fine-tuning stage is divided into two key parts: Supervised Fine Tuning (SFT) and Reinforcement Learning from Human Feedback (RLHF).
 
-# 2A) Supervised Fine Tuning (SFT): 
-Using English-SFT-Training-Corpus.JSONL, which contains 300 Fine_Tuning.csv samples in a conversational style, we fine-tune the LLMs (e.g., GPT-3.5-turbo) with Fine-Tuning(SFT+RLHF).ipynb.
-# 2 B) RLHF:
-We evaluate the semantic similarity between generated method names and the actual method names provided in ReinforcementLearning.csv, corresponding to the given functional descriptions. Feedback is then given to the SFT-tuned LLM through prompts to further refine its output.
+### 2A) Supervised Fine Tuning (SFT): 
+Using **English-SFT-Training-Corpus.JSONL**, which contains 300 **Fine_Tuning.csv** samples in a conversational style, we fine-tune the LLMs (e.g., GPT-3.5-turbo) with **Fine-Tuning(SFT+RLHF).ipynb**.
+### 2 B) RLHF:
+We evaluate the semantic similarity between generated method names and the actual method names provided in **ReinforcementLearning.csv**, corresponding to the given functional descriptions. Feedback is then given to the SFT-tuned LLM through prompts to further refine its output.
 Through this meticulous approach, mNamer aims to enhance the LLM's ability to generate method names that are not only accurate but also semantically aligned with the developers' intentions, thereby improving code readability and maintainability.
 # mNamer
 fine-tuned ready to chat ChatGPT4 extention availabe at https://chat.openai.com/g/g-T58v7ELEM-mnamer
