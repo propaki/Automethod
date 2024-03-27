@@ -1,4 +1,4 @@
-![Banner](Mnamer.png)
+![Banner](Mnamer.jpg)
 # Replication package for paper : "Automated Suggestion of Method Names According to Functional Descriptions"
 
 # Introduction:
