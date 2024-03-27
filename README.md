@@ -1,10 +1,8 @@
 ![Banner](Mnamer.png)
 # Replication package for paper : "Automated Suggestion of Method Names According to Functional Descriptions"
 
-# Overview:
+# Introduction:
 mNamer introduces a novel approach to automatically suggest high-quality Java method names using Large Language Models (LLMs). Leveraging the advanced understanding capabilities of LLMs for natural language descriptions of method functionalities, mNamer combines specialized pre-processing and customized post-processing techniques, including semantics-driven analysis and reinforcement learning from human feedback. This method aims to align generated names with established naming conventions, enhancing code readability and maintainability.
-Datasets
-This repository includes two key datasets:
 # Datasets:
 There are two datasets are used to evalatute the approach
 - [English Dataset:](https://github.com/propaki/Automethod/tree/main/EnglishDataset) Method Names with English Functional Descriptions (Dataset of Baseline).
